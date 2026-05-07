@@ -2,13 +2,13 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>AP Top News</title>
-    <link>https://example.github.io/my-rss/ap-top.xml</link>
+    <link>https://lorenzolopez99.github.io/rss/ap-top.xml</link>
     <description>Latest top stories from the Associated Press, with full article text and images.</description>
-    <atom:link href="https://example.github.io/my-rss/ap-top.xml" rel="self"/>
+    <atom:link href="https://lorenzolopez99.github.io/rss/ap-top.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 19:42:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 19:52:59 +0000</lastBuildDate>
     <item>
       <title>Ex-Ohio State football players to join sexual abuse suit</title>
       <link>https://apnews.com/article/ohio-state-football-richard-strauss-sexual-abuse-249c284f1c8cedceaacd3dfd28c171cf</link>
