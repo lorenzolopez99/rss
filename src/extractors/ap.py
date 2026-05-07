@@ -10,7 +10,7 @@ from datetime import datetime, timezone
 from urllib.parse import urljoin
 
 import requests
-from bs4 import BeautifulSoup, Tag
+from bs4 import BeautifulSoup, Comment, Tag
 
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -112,13 +112,32 @@ def _parse_iso_date(value: str | None) -> datetime | None:
         return None
 
 
-def _clean_body(container: Tag) -> str:
-    """Whitelist allowed tags; rewrite img URLs to absolute; strip empty paragraphs."""
-    # drop scripts/styles/aside/related blocks
-    for bad in container.find_all(["script", "style", "aside", "noscript"]):
+def _clean_body(container: Tag, hero_url: str | None = None) -> str:
+    """Whitelist allowed tags; rewrite img URLs to absolute; strip empty paragraphs.
+
+    If `hero_url` is given, inject it as a leading <p><img></p>, but only after
+    image-dedup runs — so if the same asset is also in the body, we keep just one.
+    """
+    # drop scripts/styles/aside/template blocks. <template> in particular hides
+    # an image-carousel "Read More" button that BeautifulSoup happily pulls into
+    # the visible text otherwise.
+    for bad in container.find_all(["script", "style", "aside", "noscript", "template"]):
         bad.decompose()
-    # AP injects "Page-actions", "RelatedStories" sometimes — drop by class hint
-    bad_hints = ("Related", "Newsletter", "Advertisement", "ad-", "Ad-", "Page-actions")
+    # strip HTML comments (e.g. `<!-- AP "Read More" embed -->`)
+    for c in container.find_all(string=lambda s: isinstance(s, Comment)):
+        c.extract()
+
+    # AP injects various non-article modules inside RichTextStoryBody. Drop them
+    # by class-hint substring match:
+    #   - PagePromo / Page-actions / Related / Advertisement: tiles for other articles
+    #   - PageList*           : the "Related Stories" hub-peek list at article end
+    #   - HtmlModule / HTMLModuleEnhancement: "Read More" mid-article embed
+    #   - Newsletter          : signup boxes
+    bad_hints = (
+        "Related", "Newsletter", "Advertisement", "ad-", "Ad-",
+        "Page-actions", "PagePromo", "PageList",
+        "HtmlModule", "HTMLModule",
+    )
     to_drop = []
     for el in container.find_all(attrs={"class": True}):
         if el.attrs is None:
@@ -134,18 +153,39 @@ def _clean_body(container: Tag) -> str:
         if el.name not in ALLOWED_BODY_TAGS:
             el.unwrap()
 
-    # absolute-ize image src
-    for img in container.find_all("img"):
-        src = img.get("src") or img.get("data-src")
-        if src:
-            img["src"] = urljoin("https://apnews.com/", src)
-            # strip noisy attrs
-            for attr in list(img.attrs):
-                if attr not in ("src", "alt"):
-                    del img[attr]
+    def _asset_key(url: str) -> str:
+        # The underlying asset URL is encoded after `?url=` in dims.apnews.com
+        # transforms; everything before it is just a per-render cache key.
+        m = re.search(r"[?&]url=([^&]+)", url)
+        return m.group(1) if m else url
 
-    # drop anchor tracking attrs but keep href
-    for a in container.find_all("a"):
+    # absolute-ize image src and dedupe (AP renders each photo twice in <picture>
+    # responsive variants — the same image asset shows up under two different
+    # dims.apnews.com transform URLs).
+    seen_assets: set[str] = set()
+    if hero_url:
+        seen_assets.add(_asset_key(hero_url))
+    for img in list(container.find_all("img")):
+        src = img.get("src") or img.get("data-src")
+        if not src:
+            img.decompose()
+            continue
+        src = urljoin("https://apnews.com/", src)
+        key = _asset_key(src)
+        if key in seen_assets:
+            img.decompose()
+            continue
+        seen_assets.add(key)
+        img["src"] = src
+        for attr in list(img.attrs):
+            if attr not in ("src", "alt"):
+                del img[attr]
+
+    # drop anchor tracking attrs but keep href; drop empty anchors used as jump targets
+    for a in list(container.find_all("a")):
+        if not a.get_text(strip=True) and not a.find("img"):
+            a.decompose()
+            continue
         for attr in list(a.attrs):
             if attr != "href":
                 del a[attr]
@@ -155,7 +195,10 @@ def _clean_body(container: Tag) -> str:
         if not p.get_text(strip=True) and not p.find("img"):
             p.decompose()
 
-    return container.decode_contents().strip()
+    inner = container.decode_contents().strip()
+    if hero_url:
+        inner = f'<p><img src="{hero_url}" alt="" /></p>\n{inner}'
+    return inner
 
 
 def fetch_article(url: str, session: requests.Session | None = None) -> Article | None:
@@ -208,13 +251,9 @@ def fetch_article(url: str, session: requests.Session | None = None) -> Article 
     body_div = soup.find("div", class_="RichTextStoryBody") or soup.find("div", class_="Page-storyBody")
     if not body_div:
         return None
-    body_html = _clean_body(body_div)
+    body_html = _clean_body(body_div, hero_url=image_url)
     if not body_html:
         return None
-
-    # Prepend hero image if not already present in body
-    if image_url and "<img" not in body_html:
-        body_html = f'<p><img src="{image_url}" alt="" /></p>\n{body_html}'
 
     return Article(
         url=url,
