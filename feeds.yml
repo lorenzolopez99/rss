@@ -1,0 +1,27 @@
+# Add a new feed by appending an entry. Each feed becomes <slug>.xml in docs/.
+# `extractor` selects the scraper module from src/extractors/.
+# `hub_url` is the AP topic landing page; the extractor walks it for article links.
+# `max_items` caps how many articles end up in the feed (oldest get pruned).
+
+feeds:
+  - slug: ap-top
+    title: "AP Top News"
+    description: "Latest top stories from the Associated Press, with full article text and images."
+    extractor: ap
+    hub_url: "https://apnews.com/hub/ap-top-news"
+    max_items: 30
+
+  # Examples — uncomment / add more as you like:
+  # - slug: ap-politics
+  #   title: "AP Politics"
+  #   description: "Politics coverage from the Associated Press."
+  #   extractor: ap
+  #   hub_url: "https://apnews.com/politics"
+  #   max_items: 30
+  #
+  # - slug: ap-sports
+  #   title: "AP Sports"
+  #   description: "Sports coverage from the Associated Press."
+  #   extractor: ap
+  #   hub_url: "https://apnews.com/sports"
+  #   max_items: 30
