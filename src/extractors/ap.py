@@ -36,6 +36,7 @@ class Article:
     published: datetime  # timezone-aware UTC
     author: str | None
     summary: str | None
+    tags: list[str]  # categorization terms (people, topics, sections)
 
 
 def _session() -> requests.Session:
@@ -248,6 +249,24 @@ def fetch_article(url: str, session: requests.Session | None = None) -> Article 
 
     summary = _meta(soup, "og:description") or jsonld.get("description")
 
+    # Tags: AP's keywords (people, topics) + articleSection (top-level section).
+    # Both fields can be a string or list of strings.
+    raw_tags: list[str] = []
+    for field in ("articleSection", "keywords"):
+        v = jsonld.get(field)
+        if isinstance(v, str):
+            raw_tags.extend(t.strip() for t in v.split(",") if t.strip())
+        elif isinstance(v, list):
+            raw_tags.extend(str(t).strip() for t in v if str(t).strip())
+    # case-insensitive dedup, keep first-seen casing and order
+    tags: list[str] = []
+    seen_tags: set[str] = set()
+    for t in raw_tags:
+        key = t.lower()
+        if key not in seen_tags:
+            seen_tags.add(key)
+            tags.append(t)
+
     body_div = soup.find("div", class_="RichTextStoryBody") or soup.find("div", class_="Page-storyBody")
     if not body_div:
         return None
@@ -263,6 +282,7 @@ def fetch_article(url: str, session: requests.Session | None = None) -> Article 
         published=published,
         author=author,
         summary=summary,
+        tags=tags,
     )
 
 

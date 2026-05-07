@@ -25,6 +25,7 @@ def _deserialize(d: dict) -> Article:
         published=datetime.fromisoformat(d["published"]),
         author=d.get("author"),
         summary=d.get("summary"),
+        tags=d.get("tags") or [],  # default for caches written before tags existed
     )
 
 

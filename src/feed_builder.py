@@ -43,6 +43,8 @@ def build(
         fe.content(art.body_html, type="CDATA")
         if art.image_url:
             fe.enclosure(art.image_url, 0, "image/jpeg")
+        for tag in art.tags:
+            fe.category({"term": tag})
 
     out_path.parent.mkdir(parents=True, exist_ok=True)
     fg.rss_file(str(out_path), pretty=True)
