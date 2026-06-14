@@ -8,7 +8,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 10:28:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 12:26:16 +0000</lastBuildDate>
+    <item>
+      <title>Lawmakers will try to find a fix for Georgia's banned vote-counting method</title>
+      <link>https://apnews.com/article/georgia-ballots-qr-codes-legislature-special-session-7197f763b090285a5fc2f471aa374505</link>
+      <description>Georgia lawmakers are expected to try to clean up an election mess of their own making when they return to the Capitol this week for a special session.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/b2f6bf3/2147483647/strip/true/crop/6444x4294+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2Fae%2Faecb72d60bf49eeda70027355d42%2Fa6af6b39089c462db88a39873a1771a1" alt="" /></p>
+<p>ATLANTA (AP) — When Georgia lawmakers return to the Capitol this week for a special session, they are expected to try to clean up <a href="https://apnews.com/article/georgia-trump-voting-machines-dominion-code-e76bb73312bb8682d8564acfe8600670">an election mess of their own making</a>.</p><p>The election system used throughout the political battleground state relies on a QR code printed on ballots to tally the votes. Legislators <a href="https://apnews.com/article/qr-codes-ballots-georgia-gop-9cef0395be049a446ce170cd1c05d586">passed a law two years ago</a> barring the use of that barcode for the official vote count beyond July 1 of this year, but <a href="https://apnews.com/article/georgia-voting-machines-5e3102cf591d28dd8c71c31feb1a6c07">no replacement method</a> of tabulating votes was ever implemented.</p><p>One of the instructions Republican Gov. Brian Kemp laid out for lawmakers when he <a href="https://apnews.com/article/redistricting-congress-voting-rights-trump-fa645b87394aa4fcf188e025b180a5eb">called the special session</a> is to “address issues created” by that law. Meanwhile, the secretary of state’s office and the State Election Board have further muddied the waters by issuing conflicting guidance for county election officials about how votes should be cast and counted.</p><p>If the issues are not resolved soon, there is likely to be confusion and possibly litigation over the state’s elections after July 1. A special election to fill a U.S. House seat is scheduled for that month.</p>
+
+<h2>How did we get here?</h2><p>Georgia’s <a href="https://apnews.com/general-news-895babadabfb405e8be7fd76fba2890a">current election system</a> was first used statewide during the 2020 primary. After the general election that year, when Republican President Donald Trump <a href="https://apnews.com/article/election-2020-joe-biden-donald-trump-georgia-elections-bb997641ca36805c0f53f406a3529d87">narrowly lost the state</a> to Democrat Joe Biden, Trump and his supporters <a href="https://apnews.com/article/donald-trump-michael-pence-electoral-college-elections-health-2d9bd47a8bd3561682ac46c6b3873a10">claimed without evidence</a> that the machines had deleted or switched votes.</p><p>Trump’s backers continued to complain about the touchscreen voting machines, with some loyalists espousing <a href="https://apnews.com/article/fact-checking-9809670730">wild conspiracy theories</a>. Election integrity advocates also <a href="https://apnews.com/article/technology-business-science-voting-election-2020-6755cf1c409f4aab613df8891b84272d">criticized the machines</a>, saying they are <a href="https://apnews.com/article/2022-midterm-elections-technology-georgia-election-2020-a746b253f3404dbf794349df498c9542">vulnerable to hacking</a> and that voters cannot be sure their selections are accurately reflected because people can’t read QR codes.</p>
+
+<p>Republican lawmakers in 2024 tried to address those concerns by passing a <a href="https://www.legis.ga.gov/legislation/64471">law banning barcodes</a> for the “official tabulation count” after July 1, 2026. But in the two years since, neither the secretary of state’s office nor the General Assembly has taken action to comply. Now, the deadline is fast approaching and a major midterm election looms.</p><p>Trump <a href="https://apnews.com/article/trump-elections-executive-order-qr-codes-eaa28de62e54463dff116f09e09f7686">singled out those machines</a>, which are used in at least some counties in more than a dozen states, in his <a href="https://www.whitehouse.gov/presidential-actions/2025/03/preserving-and-protecting-the-integrity-of-american-elections/">first executive order on elections</a> shortly after he took office for his second term in January 2025. That order has been blocked by multiple courts and is not being enforced.</p>
+
+<h2>The governor steps in</h2><p>Last month, Kemp announced a special legislative session, scheduled to start Wednesday, to <a href="https://apnews.com/article/redistricting-congress-voting-rights-trump-fa645b87394aa4fcf188e025b180a5eb">draw new congressional maps</a> for the 2028 elections and to address the QR code issue.</p><p>It’s possible that lawmakers could extend the deadline in the law to allow the QR codes to be used for now and give themselves some breathing room to come up with a new system before elections in 2028. But in the waning hours of the regular legislative session earlier this year, they rejected a proposal that would have done that.</p><p>Even if lawmakers agree on a solution, it might be tough to implement before a special election to fill the remainder of the term of U.S. Rep. David Scott, who <a href="https://apnews.com/article/congressman-david-scott-dies-168e05e3188ce7750a4a831a27e38beb">died in April</a>. The special election is set for July 28, with early voting beginning July 6.</p>
+
+<h2>Secretary of state offers guidance to election offices</h2><p>The secretary of state’s office last week issued guidance to election officials in the six counties included in that congressional district. The office says it’s preliminary and subject to change based on any developments from the special session.</p><p>The ballots will be run through the scanners, which will read the QR code to generate the election night vote count. Then, before county certification, electronic images created by the scanners for each ballot will be uploaded to a server, where optical character recognition software will be used to tally the votes using the human-readable text. The results of that second process will be the official tabulation count.</p><p>The secretary of state’s guidance expressly says counties must continue to use the current election system, including the touchscreen voting machines, and that there is nothing in the law that authorizes the use of hand-marked paper ballots for in-person voting.</p>
+
+<h2>Conflict with the election board</h2><p>The State Election Board weighed in two days later with conflicting guidance. Board members argued the plan proposed by the secretary of state is not authorized by law.</p><p>The board passed a resolution instructing counties on what to do if the special legislative session does not result in an extension of the deadline for using QR codes. The resolution directs counties to use their emergency backup, which calls for hand-marked paper ballots with scanners used to count voters’ selections.</p>
+
+<p>When asked about the conflicting guidance during the election board meeting, Elizabeth Young, a lawyer with the state attorney general’s office, said that while the guidance is not binding, “obviously it would cause confusion for elections superintendents if they are getting differing instructions from two agencies, both of which have some authority over what they’re doing.”</p><p>The election board has been controlled by a <a href="https://apnews.com/article/georgia-state-election-board-0141f8011dc9e7c054ed73f63dbf5f58">Trump-aligned majority</a> and is often at odds with Secretary of State Brad Raffensperger, a Republican who is a <a href="https://apnews.com/article/raffensperger-republican-governor-georgia-trump-jones-jackson-bb19d7bc9e36153577895511a095fd5f">frequent Trump target.</a></p>
+
+<h2>Local election officials are in the middle</h2><p>Henry County in Atlanta’s suburbs is one of the counties where voters will go to the polls for next month’s special election. Axiver Harris, interim elections director, said the county is aware of the conflicting guidance and is awaiting further clarification from the state.</p><p>“Given the uncertainty surrounding the guidance currently available, we believe it is wise to wait for further direction to ensure that any decisions made are consistent with state requirements and election administration best practices,” he wrote in an email.</p><p>Marcye Scott, who is running in the special election to serve the remainder of her late father’s term, said she is not sure most voters are even aware of the issue and is focusing her attention elsewhere.</p><p>“My goal is to get people to the polls, get my people to the polls and get them to vote for me,” she said.</p><p>But Carlos Moore, another of the six candidates running in the special election, said he is worried about legal challenges if a new method of vote-counting is implemented without enough time. He hopes lawmakers extend the deadline to allow the use of the QR codes for now.</p><p>“I would ask that legislators do the right thing, leave well enough alone for the special election,” he said. “Otherwise, it’s almost certain there will be challenges in court.”</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/georgia-ballots-qr-codes-legislature-special-session-7197f763b090285a5fc2f471aa374505</guid>
+      <category>Politics</category>
+      <category>2026 Elections</category>
+      <category>Donald Trump</category>
+      <category>Georgia</category>
+      <category>Brian P. Kemp</category>
+      <category>Voting</category>
+      <category>General news</category>
+      <category>Domestic News</category>
+      <category>GA State Wire</category>
+      <category>Georgia ballots QR codes legislature special session</category>
+      <category>Joe Biden</category>
+      <category>David Scott</category>
+      <category>Elections</category>
+      <category>U.S. news</category>
+      <category>Carlos Moore</category>
+      <category>Elizabeth Young</category>
+      <category>Technology</category>
+      <category>Brad Raffensperger</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/b2f6bf3/2147483647/strip/true/crop/6444x4294+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F33%2Fae%2Faecb72d60bf49eeda70027355d42%2Fa6af6b39089c462db88a39873a1771a1" length="0" type="image/jpeg"/>
+      <pubDate>Sun, 14 Jun 2026 11:37:22 +0000</pubDate>
+    </item>
     <item>
       <title>Iran and US near deal to end war as Qatar mediators visit Tehran</title>
       <link>https://apnews.com/article/iran-us-war-ceasefire-deal-e0a9e4e1152ea8da10ea066ad174a23a</link>
@@ -1178,58 +1220,6 @@
       <category>Iran</category>
       <enclosure url="https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png" length="0" type="image/jpeg"/>
       <pubDate>Sat, 13 Jun 2026 21:33:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>US strike against Tren de Aragua leader El Niño Guerrero in Venezuela signals Trump's drug war shift</title>
-      <link>https://apnews.com/article/tren-de-aragua-venezuela-trump-nino-guerrero-222081f38ff0a9d205bf0a63868cfac3</link>
-      <description>The Trump administration killed Venezuelan gang leader El Niño Guerrero during an airstrike conducted by the U.S. military in southeastern Venezuela. The strike exemplifies a new approach in how the U.S. fights foreign criminal groups, and could also be linked to efforts to pave the way for foreign</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png" alt="" /></p>
-<p>BOGOTA, Colombia (AP) — The U.S. military attack in Venezuela Friday that <a href="https://apnews.com/article/trump-tren-de-aragua-gang-venezuela-344db66dfac87df7ca93d57ea77cd520">killed the leader of the Tren de Aragua gang</a> reflects a strategic shift by U.S. President Donald Trump toward direct U.S. involvement in the war on drugs that began earlier this year, with a special focus this time on gaining access to Venezuela’s lucrative mining sector, analysts told The Associated Press. </p><p>Trump announced Friday the death of gang leader Hector Rusthenford Guerrero in an airstrike on his compound in rural Venezuela. He has long accused Guerrero’s organization, <a href="https://apnews.com/article/venezuela-tren-aragua-trump-deportations-guantanamo-el-salvador-0e283ba28a6566426da45b21e4fdf9ee">also known as TDA,</a> of terrorizing communities across the United States, where it has been linked to extortion rackets, drug trafficking and illegal immigration.</p><p>The group was listed as a <a href="https://apnews.com/article/trump-cartels-foreign-terrorist-organizations-eb35567b69fc66f13f7f79fb90906a50">foreign terrorist organization by the State Department</a> last year, with federal prosecutors <a href="https://apnews.com/article/tren-de-aragua-gang-leader-charges-e810405c495a70fe0fcd3088dcf3807c">accusing Guerrero of shipping drugs to the U.S</a>. and organizing acts of terror across borders, including the murder of a Venezuelan dissident in Chile.</p><p>Venezuela’s government said in a statement Friday that it worked with the U.S. to kill the gang leader, also known as El Niño Guerrero, and described the airstrike as part of a “joint operation” to fight organized crime. </p>
-
-<h2>Strike in a key mining area</h2><p>Venezuela’s government said the strike occurred in southeastern Bolivar state, an area where various criminal groups, including Colombian rebels, have been running illegal gold mines for more than a decade.</p><p>Venezuelan authorities ramped up operations against illegal mining this week, with helicopters shooting at wildcat miners to try to get them to clear the area’s open-pit mines.</p><p>Bram Ebus, a consultant for the International Crisis Group who researches organized crime in the Amazon basin, said that the recent operations, including the attack on Guerrero’s compound, could be part of a broader push to pave the way for foreign investment in Venezuela’s mining sector, which has long been hampered by the presence of criminal groups.</p>
-
-<p>After the Trump administration <a href="https://apnews.com/article/trump-maduro-venezuela-presidential-palace-blowtorches-7969152ae48510003fe9cbde92f3c102">arrested Venezuela’s then-President Nicolas Maduro in January</a> during a pre-dawn raid, Venezuela’s interim government has passed laws that facilitate foreign investment in the oil and mining industries.</p><p>“We know that Venezuela’s minerals, including gold and critical minerals, are on the menu of Trump,” Ebus said. “This operation cannot be seen apart from Washington’s bigger push to access Venezuela’s natural resources.”</p>
-
-<h2>Shifting US operations against foreign criminal groups in Latin America</h2><p>The U.S. has long supported law enforcement agencies in Latin American countries, including Colombia and Mexico, with training, weapons and logistical support to fight drug cartels and organized crime.</p><p>“Instead of aiding other militaries to carry out operations, they are now happy to carry out these attacks on their own,” said Adam Isacson, national security expert at the Washington Office on Latin America, a foreign policy think tank based in Washington, referring to the Trump administration.</p><p>The <a href="https://apnews.com/article/us-ecuador-military-operation-drugs-organized-crime-43cd71e72057273437075429dcdc20c5">U.S. recently launched joint military operations</a> with Ecuador’s government against drug traffickers near the Colombian border, while Trump has repeatedly <a href="https://apnews.com/article/mexico-us-sheinbaum-trump-cartels-3b90e4a7efaf26f8f481dedf5e6423f4">pressed Mexican President Claudia Sheinbaum to allow the U.S.</a> to conduct strikes against drug cartels in Mexico. The New York Times reported in May that Guatemala agreed to let the U.S. conduct strikes on its territory, which the <a href="https://apnews.com/article/guatemala-us-drug-trafficking-agreement-trump-arevalo-cba80c7fddba03d69a35a3670d29498d">Guatemalan president denied.</a></p>
-
-<p>Trump-aligned Latin American governments could allow direct U.S. strikes against criminal groups in their territory in the following months — if courts in those countries allow it, Isacson said. But this approach poses risks.</p>
-
-<p>“U.S. personnel could be killed or hurt,” he said. “There’s also the risk that the U.S. could get its intelligence wrong and kill innocent citizens of other countries on their soil, or that U.S. personnel could be working hand in glove with militaries that are carrying out human rights abuses in the same operation.”</p>
-
-<h2>Impact of El Niño Guerrero’s death on the drug trade</h2><p>Isacson explained that while killing Tren de Aragua’s kingpin serves as a victory for the Trump administration, there is no clarity on how the group’s finances or its links to corrupt officials have been affected.</p><p>“The kingpin strategy has been questioned for decades now,” Isacson said. “U.S. prisons are full of cartel leaders, from ‘El Chapo’ Guzman to the leaders of the Cali Cartel, and the amount of drugs produced has only increased or stayed the same.”</p><p>Tren de Aragua is a minor player in the global cocaine industry involved in drug shipments leaving Venezuela, so analysts don’t expect the killing to drastically change the flow of drugs to the U.S. TDA also takes a cut from illegal gold mining. </p>
-
-<p>Isacson said that outside of Venezuela, the group engages in less profitable crimes, such as extortion and human trafficking.</p><p>___</p><p>Follow AP’s Latin America coverage at <a href="https://apnews.com/hub/latin-america">https://apnews.com/hub/latin-america</a></p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/tren-de-aragua-venezuela-trump-nino-guerrero-222081f38ff0a9d205bf0a63868cfac3</guid>
-      <category>World News</category>
-      <category>U.S.-Venezuela conflict</category>
-      <category>Donald Trump</category>
-      <category>General news</category>
-      <category>Venezuela</category>
-      <category>Military and defense</category>
-      <category>United States government</category>
-      <category>Drug crimes</category>
-      <category>District of Columbia</category>
-      <category>Latin America</category>
-      <category>United States</category>
-      <category>AP Top News</category>
-      <category>Central America</category>
-      <category>South America</category>
-      <category>tren de aragua venezuela trump nino guerrero</category>
-      <category>Joaquin Guzman Loera</category>
-      <category>Guerrero</category>
-      <category>Drug cartels</category>
-      <category>Colombia government</category>
-      <category>Organized crime</category>
-      <category>Claudia Sheinbaum</category>
-      <category>Venezuela government</category>
-      <category>Homicide</category>
-      <category>Violence</category>
-      <category>Nicolas Maduro</category>
-      <category>Adam Isacson</category>
-      <category>Ecuador</category>
-      <category>Government and politics</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png" length="0" type="image/jpeg"/>
-      <pubDate>Sat, 13 Jun 2026 21:28:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
