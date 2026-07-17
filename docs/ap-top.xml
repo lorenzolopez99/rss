@@ -8,7 +8,276 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 17:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 18:35:31 +0000</lastBuildDate>
+    <item>
+      <title>Chinese startup Moonshot unveils powerful Kimi K3 AI model</title>
+      <link>https://apnews.com/article/kimi-k3-china-ai-0d8a5e268deb11a673f4d444fc597cc5</link>
+      <description>Another powerful new artificial intelligence model from China is taking the U.S. tech industry by surprise.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/0d36e5d/2147483647/strip/true/crop/8431x5618+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2Fa3%2Fa90cf36b893447b5eb29a90a9800%2F18a0ad6803c94b6494b40c2c693371ef" alt="" /></p>
+<p>Another powerful new artificial intelligence model from China took the U.S. tech industry by surprise Friday, the latest sign that <a href="https://apnews.com/article/china-ai-us-tech-openclaw-0126a120113a92fa450ecb2e464b35bc">Chinese startups</a> that publicly release their “open-source” AI technology are making the California titans of AI sweat. </p><p>The newest Kimi K3 model from Beijing-based startup Moonshot, run by a Pink Floyd-loving entrepreneur who earned his doctorate in Pittsburgh, appears to be catching up to the best versions of Anthropic’s Claude and OpenAI’s ChatGPT.</p><p>“This may be the single biggest release of the year,” and marks a moment when open-source Chinese models are surpassing closed U.S. models, said Anastasios Angelopoulos, co-founder and CEO of Arena, a platform for evaluating AI systems.</p><p>Kimi K3 topped the charts on Arena’s ranking of what it calls “front-end coding capability,” which is one measure of an AI large language model’s performance. “More results are rolling in that are likely to continue to show it is at the top of the pack,” Angelopoulos said on social media.</p><p>It was not likely a coincidence that K3’s unveiling came shortly before <a href="https://apnews.com/article/china-ai-tech-chips-xi-us-df4cfc7e1b260e765b5449b6d71a48e5">Chinese President Xi Jinping’s</a> opening address Friday to the nation’s annual World Artificial Intelligence Conference in Shanghai.</p>
+
+<p>American-led restrictions have <a href="https://apnews.com/article/ai-chips-nvidia-huawei-china-1ae6228c4928ddbb43f984e9b38f49dd">blocked China</a> from accessing some of the world’s most advanced technologies, spurring China’s efforts to build its own know-how and intensifying the rivalry between the world’s two biggest economies.</p><p>“The development of artificial intelligence should not be a solo performance by any single country but rather a symphony of global cooperation,” Xi said at the event.</p>
+
+<h2>Chinese AI models have shown large strides</h2><p>K3 follows another major AI model release last month from the Chinese startup Zhipu, or Z.ai. Its new flagship GLM-5.2 model is already being widely used by software developers around the world who say it can perform work almost as good as the top U.S. models at a cheaper price. </p><p>The hype over the new Chinese model resembles the market-shaking panic that followed the release of a new model from <a href="https://apnews.com/article/deepseek-ai-china-gpt-v4-d2ed33f2521917193616e061674d5f92">Chinese startup DeepSeek</a> in early 2025, though not everyone finds it justified. The response to K3 is an “overreaction shockingly similar” to DeepSeek’s release last year, said tech analyst Patrick Moorhead on social media. He said it could be good for parts of the broader AI industry but pose a revenue challenge to Anthropic and OpenAI.</p><p>During the conference that runs until Monday, tech giant Huawei has also been showcasing a new AI computing system called the Atlas 950 SuperPoD, a signal that China increasingly is amassing the domestic hardware it needs despite U.S. restrictions on imports from chipmakers like Nvidia.</p>
+
+<p>Moonshot hasn’t said what hardware it used to build K3, but the startup is a partner with Huawei.</p>
+
+<p>The price to use K3 is highest yet for a Chinese AI model, but it is still half as expensive as OpenAI’s high-performing GPT-5.6 Sol model, according to a Friday report by Bank of America research analysts.</p>
+
+<p>U.S. politicians and several major U.S. AI companies including Anthropic and OpenAI have accused Chinese AI models of illicit <a href="https://apnews.com/article/ai-china-us-model-distillation-kratsios-a5c40346394ef5fa9ae710c5aabdc62c">“distillation”</a> of their models to extract their technologies, a claim that Beijing says is “groundless.” </p><p><a href="https://apnews.com/article/white-house-anthropic-meeting-ai-mythos-f3c590fcee98297832973d02d3979c87">Anthropic</a> in February accused DeepSeek, Moonshot and a third China-based AI lab, MiniMax, of engaging in campaigns to “illicitly extract Claude’s capabilities to improve their own models” using the distillation technique that “involves training a less capable model on the outputs of a stronger one.”</p>
+
+<p>Anthropic said that distillation can be a legitimate way to train AI systems but it’s a problem when competitors “use it to acquire powerful capabilities from other labs in a fraction of the time, and at a fraction of the cost, that it would take to develop them independently.”</p><p>But it can go both ways. San Francisco-based startup Anysphere, maker of the popular coding tool Cursor, has acknowledged that one of its top products was based on Moonshot’s K2.5 model. Elon Musk’s SpaceX is planning to close a deal to buy Cursor for $60 billion later this year.</p>
+
+<h2>K3 marks a leap for ‘open-source’ AI models</h2><p>Moonshot co-founder and CEO Yang Zhilin earned his Ph.D. in 2019 at Carnegie Mellon University, where he is said to have made fundamental contributions to the machine-learning field and was known for a love of rock bands like Pink Floyd.</p><p>The pride among his former colleagues at the school in Pennsylvania transcends the U.S.-China rivalry.</p><p>“What a huge win for the open-source community! It feels like just yesterday Zhilin was graduating from my lab at CMU,” wrote his former adviser Russ Salakhutdinov, who is also a former director of AI research at Apple.</p><p>Developers who build “open-source” AI make key components of the technology accessible for anyone to examine, modify and build upon. Proponents say open-source practices promote innovation, while critics warn that making powerful AI models publicly accessible poses safety and security dangers. ___</p><p>Associated Press writer Chan Ho-Him contributed to this report.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/kimi-k3-china-ai-0d8a5e268deb11a673f4d444fc597cc5</guid>
+      <category>Business</category>
+      <category>Xi Jinping</category>
+      <category>Anthropic PBC</category>
+      <category>Artificial intelligence</category>
+      <category>Information technology</category>
+      <category>Kimi K3</category>
+      <category>OpenAI Inc</category>
+      <category>Huawei Technologies Co Ltd</category>
+      <category>Shanghai</category>
+      <category>Beijing</category>
+      <category>China</category>
+      <category>General news</category>
+      <category>Asia Pacific</category>
+      <category>Kimi K3 china ai</category>
+      <category>Technology</category>
+      <category>California</category>
+      <category>Bank of America Corp.</category>
+      <category>World news</category>
+      <category>NVIDIA Corp.</category>
+      <category>Apple, Inc.</category>
+      <category>Patrick Moorhead</category>
+      <category>Anastasios Angelopoulos</category>
+      <category>Space Exploration Technologies Corp.</category>
+      <category>Elon Musk</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/0d36e5d/2147483647/strip/true/crop/8431x5618+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fff%2Fa3%2Fa90cf36b893447b5eb29a90a9800%2F18a0ad6803c94b6494b40c2c693371ef" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 18:28:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bill Belichick enters Year 2 at UNC saying 'every week is a learning experience'</title>
+      <link>https://apnews.com/article/acc-unc-bill-belichick-f3d6813cb177fcd7f69cc8baca0c1be5</link>
+      <description>North Carolina coach Bill Belichick is hoping his Tar Heels benefit from lessons learned and more stability from his first college season.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/34b8ec4/2147483647/strip/true/crop/3647x2430+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb8%2F97%2F2015a8fb6d10c459a990326a5fa4%2F989e9e2ffb21473792a5d18a51ffe55c" alt="" /></p>
+<p>CHARLOTTE, N.C. (AP) — NFL coaching great Bill Belichick spent <a href="https://apnews.com/article/north-carolina-bill-belichick-5723583458fa61ab6a295103169d935a">a bumpy debut season at North Carolina</a> trying to blend a roster full of newcomers and adjusting to life in the college ranks.</p><p>It was a learning experience even for someone with a résumé featuring six Super Bowl titles as a head coach and ranking as one of the NFL’s all-time leaders in coaching wins.</p><p>“Look, I learn every year, I learn things every day,” Belichick said Friday morning during the Atlantic Coast Conference’s preseason football media days. </p><p>“Every week is a learning experience for me. Try to listen to the people that are around me that work for us, that do various things, whether it’s academics, training, nutrition, offense, defense, special teams, so forth. Try to do the best I can to help put it all together. </p><p>“Recruiting, fundraising — you name it. There are a lot of different things and I can improve in all of them.”</p><p>It was a rough debut for the 74-year-old Belichick, best known for his time hoisting trophies and winning with relentless precision alongside star quarterback Tom Brady with the New England Patriots. </p>
+
+<p><a href="https://apnews.com/article/unc-football-bill-belichick-e196ce532e52ec5263c95f04f4d36e04">His arrival at the college level</a> was a spectacle, one that put a national spotlight on a school with a football program that had long been an ACC also-ran compared to its tradition-rich men’s basketball program being among the nation’s blueblood elite.</p><p>There’s less buzz this time around. There’s no curiosity to imagining what it will look like for Belichick to roam a college sideline sporting his trademark hoodie garb. And the Tar Heels’ poor on-field performance offers little reason to expect a big leap in Year 2.</p>
+
+<p>Yet similar to what he was known for in his Patriots tenure, Belichick is focused on his internal evaluation. And he sees cause for optimism.</p><p>“Last year when we started, we were literally starting from scratch,” he said. “We’re above that now for sure.”</p>
+
+<h2>Belichick is hoping there’s more continuity from spring drills</h2><p>Belichick has pointed numerous times to the Tar Heels getting a late run into recruiting after his December hiring, starting with jumping into the transfer portal and then pulling from the high school ranks. That meant pulling together a roster to get started with spring drills, then going through more waves of roster changes leading into preseason camp.</p>
+
+<p>“The biggest thing last year was just how behind we were,” Belichick said of his December 2024 arrival.</p><p>By the time the Tar Heels started last season, they had 70 new players.</p><p>“This time a year ago, we didn’t have a quarterback who had taken a snap even in spring ball for us,” Belichick said.</p><p>“Last year we didn’t have any player-run practices. We couldn’t actually line up a team and run against another team without the coaches being out there because we didn’t have anybody that knew enough on either side of the ball to do that. Whereas this year these guys have done it all spring and all summer.”</p><p>To that point, the Tar Heels have plenty of newness on the roster with 40 true freshmen and 17 redshirt freshmen. But UNC also had 35 of the first-year freshmen arrive in time to go through spring practices while there’s enough returnees to offer continuity and better stability.</p><p>“Culture’s a lot different, work ethic’s different,” Belichick said. “I’m not taking anything away from the guys that were here. But compared to a year ago, we just know a lot more about what we’re doing and how to do it and our culture’s a lot different.”</p>
+
+<h2>UNC knows what to expect for Belichick’s second season</h2><p><a href="https://apnews.com/article/acc-football-belichick-nfl-3b0eed264594f316eb2273baa8a26037">Belichick’s appearance at this ACC Kickoff event last year</a> was the center of attention. So too was his nationally televised Labor Day debut in front of a sellout home crowd against TCU. </p><p><a href="https://apnews.com/article/unc-football-belichick-debut-bfa919801b6741525142c2f13d7270b9">Yet the Tar Heels lost that game in a blowout</a> in what turned out to be a harbinger of frustration to come. And Belichick’s mere presence on the sideline only magnified the pressure that arose from on-field troubles and unwanted off-field headlines, from <a href="https://apnews.com/article/bill-belichick-unc-north-carolina-football-b1ec4637060d074cd8c58e2a1067a83f">an assistant coach’s suspension</a> to tabloid-like interest <a href="https://apnews.com/article/unc-belichick-girlfriend-jordon-hudson-c285b7072ef767385f449a9120764363">in Belichick’s relationship with 25-year-old girlfriend Jordon Hudson</a>.</p><p>“Seeing a guy like Coach Belichick, who’s constantly in the spotlight — I mean, the guy could cure cancer and people would still write negative pieces about him,” offensive lineman Christo Kelly said.</p><p>“But seeing how he handles himself through everything, seeing how he’s continued to block out the noise, it really sets the standard for what we should be doing.”</p>
+
+<p>By the end of the year, Belichick had fielded a team that had more losses by double-digit margins (five) than total wins, <a href="https://apnews.com/article/clemson-unc-swinney-belichick-4267816b3c8593f9962fd5a703ba71d9">with two home losses ending in an empty stadium</a> with Tar Heels fans having fled early for the exits. UNC’s three wins against Bowl Subdivision opponents came against teams with a combined 8-28 record (Charlotte, Syracuse and Stanford), while the Tar Heels failed to make a bowl for the first time since 2018.</p><p>At least nothing should surprise the Tar Heels this year about playing under the Belichick microscope.</p><p>“We really felt like it was all Carolina — Carolina for Carolina, nobody else was really rooting for us, everybody wanted to see Coach Belichick fail,” receiver Jordan Shipp said. </p>
+
+<p>“It was just like we knew that we were in this by ourselves. And everybody that was here last year, we know that feeling. So now we know what to expect.”</p><p>___</p><p>AP college football: <a href="https://apnews.com/hub/ap-top-25-college-football-poll">https://apnews.com/hub/ap-top-25-college-football-poll</a> and <a href="https://apnews.com/hub/college-football">https://apnews.com/hub/college-football</a></p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/acc-unc-bill-belichick-f3d6813cb177fcd7f69cc8baca0c1be5</guid>
+      <category>Sports</category>
+      <category>Bill Belichick</category>
+      <category>College football</category>
+      <category>College sports</category>
+      <category>Atlantic Coast Conference</category>
+      <category>Football</category>
+      <category>GA State Wire</category>
+      <category>Florida</category>
+      <category>KY State Wire</category>
+      <category>Kentucky</category>
+      <category>TX State Wire</category>
+      <category>Virginia</category>
+      <category>Pennsylvania</category>
+      <category>FL State Wire</category>
+      <category>Massachusetts</category>
+      <category>NC State Wire</category>
+      <category>SC State Wire</category>
+      <category>Texas</category>
+      <category>North Carolina</category>
+      <category>PA State Wire</category>
+      <category>South Carolina</category>
+      <category>California</category>
+      <category>New York</category>
+      <category>Georgia</category>
+      <category>ACC UNC Bill Belichick</category>
+      <category>Tom Brady</category>
+      <category>New England Patriots</category>
+      <category>Jordon Hudson</category>
+      <category>NFL Super Bowl</category>
+      <category>Jordan Shipp</category>
+      <category>North Carolina Tar Heels</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/34b8ec4/2147483647/strip/true/crop/3647x2430+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb8%2F97%2F2015a8fb6d10c459a990326a5fa4%2F989e9e2ffb21473792a5d18a51ffe55c" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 17:56:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>MLB restricts dugout iPad use to prevent use of AI to make decisions</title>
+      <link>https://apnews.com/article/mlb-ai-ipads-ac940e2490557438f440514977832a74</link>
+      <description>Major League Baseball is restricting iPad usage in dugouts to prevent artificial intelligence from influencing decisions.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/d6f01db/2147483647/strip/true/crop/7682x5119+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb9%2F9b%2F165ffc93202b9df3a58cc661a2b8%2Faa07b9ea57fc4c049d6c0745ea9867ea" alt="" /></p>
+<p>NEW YORK (AP) — Major League Baseball is restricting iPad usage in dugouts to prevent the tablets from running artificial intelligence to help make decisions.</p><p>The tablets have access to video and league-provided data, and also included a custom tab where teams could access other programs. MLB made the custom tabs inaccessible to teams starting Wednesday night, when the second half of the season started. </p><p>“In many cases, the custom tab had expanded the use of the dugout iPads beyond their originally intended purpose to include recommendations regarding substitutions, pitch calling, and other in-game decisions traditionally made by players and coaches,” MLB executive vice president of baseball operations Morgan Sword wrote in a June 11 memo to general managers, assistant GMs and video coordinators.</p><p>The memo, first reported by The Athletic, was obtained by The Associated Press.</p><p>A review by the competition committee found clubs had been compliant with the regulations.</p>
+
+<p>“Instituting this prohibition beginning with the second half of the season is intended to provide clubs that have relied on the custom tab with appropriate lead-time to make any necessary adjustments,” Sword wrote.</p><p>MLB started a pilot program allowing <a href="https://apnews.com/533639d670354a6bbc212dc5b979b3db">use of iPads in dugouts with restrictions late in the 2015 season</a> and <a href="https://apnews.com/533639d670354a6bbc212dc5b979b3db">expanded their use in 2016</a> under a deal with Apple. Video was eliminated in the 2020 COVID season following the Houston Astros’ sign-stealing scandal, then <a href="https://apnews.com/in-game-video-returning-to-baseball-for-2021-d697caa41ca27f0cdab8ba7a5c981870">returned in 2021</a>.</p>
+
+<p>___</p><p>AP MLB: <a href="https://apnews.com/hub/mlb">https://apnews.com/hub/mlb</a></p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/mlb-ai-ipads-ac940e2490557438f440514977832a74</guid>
+      <category>Sports</category>
+      <category>Morgan Sword</category>
+      <category>Baseball</category>
+      <category>Information technology</category>
+      <category>New York City</category>
+      <category>MLB</category>
+      <category>New York</category>
+      <category>mlb ai ipads</category>
+      <category>Houston Astros</category>
+      <category>MLB baseball</category>
+      <category>Major League Baseball</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/d6f01db/2147483647/strip/true/crop/7682x5119+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb9%2F9b%2F165ffc93202b9df3a58cc661a2b8%2Faa07b9ea57fc4c049d6c0745ea9867ea" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 17:52:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>NASA's Apollo lunar lander put astronauts on the moon</title>
+      <link>https://apnews.com/article/apollo-lunar-lander-moon-nasa-ded0b6a8271940c1966a64fb9d78d7de</link>
+      <description>America's most daring, extraordinary feat, landing astronauts on the moon, remains the pinnacle of achievement by anyone anywhere.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/7366412/2147483647/strip/true/crop/1041x694+0+198/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F60%2F3dfefe6d719a9259dcf0e36955fa%2F54457a62b1e2411a95bf6ca2226146c0" alt="" /></p>
+<p>CAPE CANAVERAL, Fla. (AP) — America’s most daring, extraordinary feat — <a href="https://apnews.com/article/apollo-artemis-nasa-moon-6fd9cb210d40c59a729d5103c0994351">landing astronauts on the moon</a> — remains the pinnacle of achievement by anyone anywhere. Ever.</p><p>And the lunar lander — a groundbreaking piece of America — is up there still, far away.</p><p>NASA put 12 men on the <a href="https://apnews.com/article/nasa-moon-apollo-artemis-astronauts-c3bb9888b75e67574a1b66e643b87621">lunar surface</a> more than half a century ago, beginning with <a href="https://apnews.com/article/nasa-apollo-11-55th-anniversary-moon-09d63a7fa8d8788f4daf50a647153603">Apollo 11’s Neil Armstrong and Buzz Aldrin</a>. The two became the first humans to explore another world when their lander, bearing the patriotic name Eagle, settled onto the Sea of Tranquility on July 20, 1969. “The Eagle has landed,” Armstrong radioed as a spellbound Earth erupted in cheers and tears.</p><p>Just 6½ hours later came the most momentous and memorable line of all. Armstrong descended the ladder and stepped onto the gray, gritty dust: “That’s one small step for man, one giant leap for mankind.”</p><p>At 23 feet (7 meters), the Apollo lunar module stood a little taller than a giraffe and looked just as ungainly. It had two sections: a lower descent stage with four legs and an upper stage that housed the crew. The descent stage got the moonwalkers to the lunar surface and remained behind as the men blasted back into lunar orbit.</p><p>All six descent stages will be there for perpetuity, clumped around the equator on the moon’s near side.</p>
+
+
+<p>NASA’s Lunar Reconnaissance Orbiter and other countries’ satellites around the moon have photographed them. Resembling whitish splotches from orbit, the descent stages pinpoint the touchdown sites not only of Eagle but Intrepid, Antares, Falcon, Orion and Challenger. Its moon landing nixed, Apollo 13’s lunar module Aquarius was turned into a lifeboat that got its crew of three safely home. The ascent stages are scattered all over the moon — smashed to bits, no longer needed once the moonwalkers were back inside the command module. Some speculate, however, that Apollo 11’s ascent stage might still be orbiting.</p>
+
+
+
+
+
+<figure class="Figure" data-openoverlay="">
+
+
+
+
+
+
+
+
+
+
+<img alt="This image, taken by the Indian Space Research Organization's (ISRO) Chandrayaan2 Orbiter and provided by Marty McGuire, shows the Apollo 11 landing site with the lunar descent stage visible on the moon on April 2, 2021. (ISRO image processed by Marty McGuire/BackyardAstronomyGuy.com via AP)" src="https://dims.apnews.com/dims4/default/a365944/2147483647/strip/true/crop/6000x4000+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1d%2Faf%2F931722d801cee9e52316afbf50e9%2F9dc944add566493cbe7512094a510ef6"/>
+
+
+
+<figcaption class="Figure-caption"><p>This image, taken by the Indian Space Research Organization’s (ISRO) Chandrayaan2 Orbiter and provided by Marty McGuire, shows the Apollo 11 landing site with the lunar descent stage visible on the moon on April 2, 2021. (ISRO image processed by Marty McGuire/BackyardAstronomyGuy.com via AP)</p></figcaption>
+
+
+</figure>
+
+
+
+
+<p>For NASA’s new Artemis program, private businesses are handling lunar lander details and operations. Elon Musk’s SpaceX and Jeff Bezos’ Blue Origin are scrambling to get their landers ready for a docking test in low-Earth orbit with a NASA crew capsule next year. If Artemis III’s docking rehearsal goes well, NASA could launch its first moon landing with astronauts since Apollo as early as 2028. SpaceX’s Starship is so tall that moonwalkers will need a 10-floor elevator to descend to the lunar surface. The Apollo astronauts used a nine-rung ladder.</p>
+
+<p>On that long-ago day, President Richard Nixon said in a phone call to Armstrong and Aldrin as the pair stood alongside the U.S. flag they had just planted 240,000 miles (385,000 kilometers) from home. Said Nixon: “For one priceless moment in the whole history of man, all the people on this Earth are truly one.”</p>
+
+<p>Part of a recurring series, “American Objects,” marking the 250th anniversary of the United States. For more American objects, click <a href="https://apnews.com/american-objects">here</a>. For more stories on the anniversary, click <a href="https://apnews.com/hub/america-250">here</a>. The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education and the Robert Wood Johnson Foundation. The AP is solely responsible for all content.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/apollo-lunar-lander-moon-nasa-ded0b6a8271940c1966a64fb9d78d7de</guid>
+      <category>Science</category>
+      <category>Buzz Aldrin</category>
+      <category>Richard Nixon</category>
+      <category>Neil Armstrong</category>
+      <category>Spacecraft</category>
+      <category>Space exploration</category>
+      <category>National Aeronautics and Space Administration</category>
+      <category>Aerospace and defense industry</category>
+      <category>General news</category>
+      <category>America at 250</category>
+      <category>apollo lunar lander moon nasa</category>
+      <category>Jeff Bezos</category>
+      <category>Technology</category>
+      <category>U.S. news</category>
+      <category>Planets</category>
+      <category>Elon Musk</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/7366412/2147483647/strip/true/crop/1041x694+0+198/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F00%2F60%2F3dfefe6d719a9259dcf0e36955fa%2F54457a62b1e2411a95bf6ca2226146c0" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 17:39:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>US to auction acres off American Samoa in deep-se mining drive</title>
+      <link>https://apnews.com/article/american-samoa-trump-deep-sea-mining-72aa92757d931508e983310fd2555149</link>
+      <description>The U.S. government is planning to auction off massive sections of water surrounding American Samoa for potential deep-sea mining.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/b05ee0b/2147483647/strip/true/crop/4972x3313+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2F61%2Fcf9cd90d026bc1d889a9537e14e4%2Ffc834bbc3ffd4c998ac95801e06ac506" alt="" /></p>
+<p>SAN JUAN, Puerto Rico (AP) — The U.S. government plans to auction off massive sections of water surrounding American Samoa for potential <a href="https://apnews.com/article/mining-critical-materials-sea-ocean-7d883d7e9238006a0faaab837d3d1240">deep-sea mining</a> in an unprecedented move that is expected to draw criticism from many countries.</p><p>The area of the water surface planned to be auctioned off covers a total of 33 million acres (about 51,560 square miles). </p><p>The proposed leasing notice was published on Friday as U.S. President Donald Trump’s administration seeks to <a href="https://apnews.com/article/trump-deepsea-mining-executive-orders-oceans-environment-399faab6fc32922b4c533d3bad9c1ca5">expedite mining permits</a> despite growing environmental concerns. </p>
+
+<p>The unilateral U.S. move is also a departure from previous administrations that have respected the rules of the Jamaica-based U.N. International Seabed Authority, which oversees deep international waters and has been <a href="https://apnews.com/article/isa-deep-sea-mining-jamaica-metals-a0af52ca0887b82c9aed5cc8c9c8e677">debating mining rules for years</a>.</p><p>More than 43 countries have called for a moratorium or ban on deep sea mining, which <a href="https://apnews.com/article/climate-deep-sea-mining-oceans-cobalt-food-a79b8d96588222bc3b08205c1333041a">scientists have warned</a> could unleash noise, light and suffocating dust storms and affect fragile marine life.</p><p>But the U.S. and others are eager to mine the seafloor for copper, iron, zinc and other minerals that are in demand for technology, military use and electric vehicles.</p>
+
+<p>“Critical minerals have become a strategic asset in global competition, and China’s dominance in the supply of many of these materials creates unacceptable risks for America’s energy, defense and manufacturing sectors,” Matt Giacona, acting director of the U.S. Marine Minerals Administration, said in a statement Thursday.</p>
+
+
+<p>A spokesperson for the secretary general of the <a href="https://apnews.com/article/deep-sea-mining-permission-isa-591536eff7adba104256b4829d93977d">International Seabed Authority</a> did not immediately respond to a message seeking comment.</p>
+
+<h2>Environmentalists decry the move</h2><p>Seumalu Elora Raymond, a spokesperson for Fa’asao Amerika Samoa, a community group, said in a statement that the U.S. government’s fast-tracking of the lease sale is “ignoring the voices of the very people whose waters, traditions, and livelihoods are on the line.”</p><p>“We will not stand by while an untested industry threatens to destroy American Samoa’s environment and cultural heritage for corporate profit,” she said.</p>
+
+<p>The government of American Samoa, which has banned deep-sea mining in local waters, did not immediately return a message seeking comment.</p>
+
+<p>Earthjustice, a nonprofit legal organization, accused the U.S. of bulldozing American Samoan outcry against deep-sea mining.</p><p>“The Trump administration continues to bow to this untested, extractive industry and seeks to make American Samoa one of the first test sites,” said Earthjustice attorney J.V. Langkilde.</p><p>The U.S. Bureau of Ocean Energy Management said in a July environmental assessment report that the area proposed for lease sales has water depths ranging from 4,600 to 20,000 feet (1,400 to 6,000 meters). The area is located 57 miles (92 kilometers) from the Rose Atoll National Wildlife Refuge.</p><p>The bureau envisions issuing up to two commercial leases of nearly 17 million acres (67, 000 square kilometers) each, solely for preliminary activities. These would include geophysical surveys, biological sampling and oceanographic measurements.</p><p>“Offering large lease areas provides flexibility for environmental and technical exclusions,” the bureau said in its report.</p><p>It alternatively proposed issuing five leases covering nearly 7 million acres (26,800 square kilometers) each. The bureau noted that any future mining would require a submission and its approval of a plan subject to an environmental review.</p>
+
+<h2>US pushes for deep-sea mining</h2><p>The report of the U.S. Bureau of Ocean Energy Management stated that “some uncertainty remains regarding the potential for indirect or accidental impacts, particularly in deepwater and pelagic zones” near Rose Atoll and several national marine sanctuaries.</p><p>It asserted that there are no expected impacts to nearshore environments and no substantial adverse impacts to offshore habitats. The bureau, however, acknowledged data gaps, especially in the area’s deeper waters, “where biodiversity, ecological function, and baseline conditions remain poorly characterized.”</p><p>The bureau stated in its report that because the U.S. has not ratified the U.N. Convention on the Law of the Sea, the <a href="https://apnews.com/hub/national-oceanic-and-atmospheric-administration">National Ocean and Atmospheric Administration</a> regulates U.S. exploration and commercial recovery of minerals.</p><p>NOAA announced in January that companies could apply for an exploration license and commercial operations at the same time, scrapping what used to be a two-step process. In April, Trump signed an executive order directing NOAA to <a href="https://apnews.com/article/climate-deep-sea-mining-ores-minerals-trump-bd8c98390b3711439c055023b77e31b5">expedite the permitting process</a> for seafloor mining.</p>
+
+<p>Meanwhile, the International Seabed Authority has authorized exploration licenses for 22 contractors, but it has not allowed any commercial mining. </p><p>Much of the ongoing exploration is centered in the Clarion-Clipperton Fracture Zone, which covers 1.7 million square miles (4.5 million square kilometers) between Hawaii and Mexico. It is occurring at depths ranging from 13,000 to 19,000 feet (4,000 to 6,000 meters).</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/american-samoa-trump-deep-sea-mining-72aa92757d931508e983310fd2555149</guid>
+      <category>World News</category>
+      <category>Donald Trump</category>
+      <category>American Samoa</category>
+      <category>United States government</category>
+      <category>General news</category>
+      <category>United States</category>
+      <category>American Samoa Trump deep sea mining</category>
+      <category>Choice Hotels International, Inc.</category>
+      <category>Oceans</category>
+      <category>National Oceanic and Atmospheric Administration</category>
+      <category>Climate and environment</category>
+      <category>Business</category>
+      <category>United Nations</category>
+      <category>Matt Giacona</category>
+      <category>Washington news</category>
+      <category>Politics</category>
+      <category>Climate</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/b05ee0b/2147483647/strip/true/crop/4972x3313+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F32%2F61%2Fcf9cd90d026bc1d889a9537e14e4%2Ffc834bbc3ffd4c998ac95801e06ac506" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 17:34:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Titans to honor ALS-diagnosed Chris Johnson by inducting him into Ring of Honor</title>
+      <link>https://apnews.com/article/titans-johnson-als-ring-of-honor-be0bff482f3d55b7fb76eabadced5fee</link>
+      <description>The Tennessee Titans will induct Chris Johnson, the sixth man in NFL history to run for 2,000 yards in a season, into their Ring of Honor during halftime of their regular-season opener Sept. 13.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/990083c/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2F46%2F9f73eabf7ce440ab6d6a845b7f95%2Fba631924c48e4586b4382eaae890fcf6" alt="" /></p>
+<p>NASHVILLE, Tenn. (AP) — <a href="https://apnews.com/hub/tennessee-titans">The Tennessee Titans</a> will induct Chris Johnson, the sixth man in <a href="https://apnews.com/hub/nfl">NFL</a> history to run for 2,000 yards in a season, into their Ring of Honor during halftime of their regular-season opener Sept. 13. </p><p>The Titans announced the honor Friday following <a href="https://apnews.com/article/chris-johnson-als-6b517f1db9099553bce517faf2cbc775">Johnson’s announcement June 29</a> on ABC’s “ <a href="https://www.goodmorningamerica.com/culture/story/former-nfl-star-chris-johnson-reveals-als-diagnosis-134255671">Good Morning America</a> ” that he was diagnosed with ALS, the fatal nervous system disease a year earlier. </p><p>“Chris Johnson holds a special place in the hearts of our organization and our fans,” Titans controlling owner Amy Adams Strunk said. “His stats speak for themselves, and he will forever remain a leader in our record books, but the man behind the yardage deserves just as much celebration.” </p><p>Johnson was the 24th pick overall in 2008 by the Titans and played six of his 10 seasons in the NFL with Tennessee. He rushed for 7,965 yards and had 58 total touchdowns in that span. Those totals both rank fourth for a franchise that also had Earl Campbell, Eddie George and Derrick Henry. </p><p>He earned the nickname “CJ2K” in 2009 when he finished with 2,006 yards rushing to join O.J. Simpson, Eric Dickerson, Barry Sanders, Terrell Davis and Jamal Lewis in the exclusive 2,000-yard club. Johnson also had 2,509 yards from scrimmage, a single-season record that still stands in the NFL. </p>
+
+<p>That earned him The Associated Press NFL Offensive Player of the Year Award. </p>
+
+<p>Johnson will be inducted at halftime of the Titans’ opener against the New York Jets, the team the running back played for in 2014. He becomes the 20th inductee into the Titans’ Ring of Honor with former radio analyst and assistant coach <a href="https://apnews.com/article/cardinals-coach-dave-mcginnis-40b31230174f8ec8a82ce2dd44296ab5">Dave McGinnis</a> being inducted posthumously later this season.</p><p>___</p><p>AP NFL: <a href="https://apnews.com/hub/nfl">https://apnews.com/hub/nfl</a></p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/titans-johnson-als-ring-of-honor-be0bff482f3d55b7fb76eabadced5fee</guid>
+      <category>Sports</category>
+      <category>Chris Johnson</category>
+      <category>Amy Adams Strunk</category>
+      <category>Tennessee Titans</category>
+      <category>Lou Gehrig's disease</category>
+      <category>New Jersey</category>
+      <category>TN State Wire</category>
+      <category>New York</category>
+      <category>Tennessee</category>
+      <category>NFL</category>
+      <category>titans johnson als ring of honor</category>
+      <category>Eric Dickerson</category>
+      <category>Earl Campbell</category>
+      <category>Derrick Henry</category>
+      <category>Dave McGinnis</category>
+      <category>NFL football</category>
+      <category>Eddie George</category>
+      <category>Barry Sanders</category>
+      <category>Football</category>
+      <category>Terrell Davis</category>
+      <category>New York Jets</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/990083c/2147483647/strip/true/crop/4500x2998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe0%2F46%2F9f73eabf7ce440ab6d6a845b7f95%2Fba631924c48e4586b4382eaae890fcf6" length="0" type="image/jpeg"/>
+      <pubDate>Fri, 17 Jul 2026 17:32:54 +0000</pubDate>
+    </item>
     <item>
       <title>Uncertainty clouds forecast on whether smoke will affect World Cup final</title>
       <link>https://apnews.com/article/world-cup-final-smoke-76edbb6afca0501747d8ebaf91a741fc</link>
@@ -1090,354 +1359,6 @@
       <category>Climate</category>
       <enclosure url="https://dims.apnews.com/dims4/default/233b4ee/2147483647/strip/true/crop/4000x2665+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F65%2F3e%2Fc2920cc49be04be0b76dd700a4b3%2Ff51adb9b1526488fbc43046d7e34f3a7" length="0" type="image/jpeg"/>
       <pubDate>Fri, 17 Jul 2026 12:55:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Iranian strikes hit Kuwait desalination plant, exposing Mideast water vulnerability</title>
-      <link>https://apnews.com/article/iran-strikes-kuwait-gulf-bahrain-desalination-25e6d5c8d8a027897b3fb80fad57b7d2</link>
-      <description>Iranian strikes have damaged a power and water desalination plant in Kuwait, highlighting the vulnerability of infrastructure in the Middle East.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/9f58048/2147483647/strip/true/crop/4338x2891+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2e%2F4e%2F9732b116c0a80d5dfd7767d4826e%2F8c9842db9c8745f8a300d1999326707b" alt="" /></p>
-<p>Iranian strikes on Friday hit a power and water desalination plant in Kuwait, damaging one of the key sources of drinking water in the small desert nation. </p><p>It’s the latest attack on essential infrastructure across the Middle East that have exposed extreme vulnerabilities in one of the world’s driest regions, which relies almost exclusively on technology to produce freshwater that sustains cities, hotels, industry and some agriculture.</p><p>Kuwaiti authorities said the strikes damaged a large number of power generation units and sparked a fire. They added that a fire has been contained, and that they activated emergency contingency plans.</p><p>In Kuwait, about 90% of drinking water comes from desalination, along with roughly 86% in Oman and about 70% in Saudi Arabia. The process removes salt from seawater, most commonly by pushing it through ultrafine membranes in a process known as <a href="https://apnews.com/article/climate-solutions-desalination-oceans-drinking-water-faba2579f83df4c0688a3ea5e20ab3a6">reverse osmosis</a>.</p><p>Hundreds of desalination plants sit along the Persian Gulf coast, putting systems that supply water to millions within range of Iranian missile or drone strikes. Without them, major cities could not sustain their current populations.</p>
-
-<p>For people living outside the Middle East, the main concern of the Iran war has been the <a href="https://apnews.com/article/trump-iran-oil-strategic-petroleum-reserve-f94657cbef74c0c682f5cc6472bfb3cb">impact on energy prices</a>. Fighting and attacks on ships in the Strait of Hormuz have upended world markets <a href="https://apnews.com/article/stocks-markets-iran-trump-ai-2d6744b09c68b5473d0bc8584b89e60e">and pushed oil prices to record highs</a>.</p>
-
-<p>But the infrastructure that keeps Gulf cities supplied with drinking water are equally vulnerable.</p><p>Throughout the past few months, Iran has struck close to several desalination plants in the Gulf. Kuwait previously reported damage at the Doha West desalination plant early in the war, which resulted from debris from intercepted drones or attacks on the nearby port.</p>
-
-<p>Iran accused the U.S. of striking Iranian desalination plants on <a href="https://apnews.com/article/iran-war-islands-strait-hormuz-oil-trump-1b3e770e61c6a05d3e078223e15b20b2">Qeshm Island on March 8,</a> cutting off water supplies for 30 villages, though Washington did not acknowledged the strike. </p><p>Yemen’s Houthi rebels have also <a href="https://apnews.com/article/business-iran-dubai-united-arab-emirates-middle-east-7b9c303fc9ca485f70ba7aee3bb36a58">targeted Saudi desalination facilities</a> amid regional tensions in the past.</p>
-
-<p>Many Gulf desalination plants are physically integrated with power stations <a href="https://apnews.com/article/kuwait-electricity-blackouts-high-temperature-4f763fb6509568ce1f7f538daa0065b1">as co‑generation facilities</a>, meaning attacks on electrical infrastructure could also hinder water production. <a href="https://apnews.com/article/cyprus-emirates-desalination-water-shortage-reservoirs-8bf496b15daa4709e4b73a0068c9b860">Desalination plants</a> have multiple stages — intake systems, treatment facilities, energy supplies — and damage to any part of that chain can interrupt production.</p>
-
-<p>Gulf governments and U.S. officials have long recognized the risks these systems pose for regional stability: if major desalination plants were knocked offline, some cities could lose most of their drinking water within days. </p><p>A 2010 CIA analysis warned attacks on desalination facilities could trigger national crises in several Gulf states, and prolonged outages could last months if critical equipment were destroyed.</p><p>More than 90% of the Gulf’s desalinated water comes from just 56 plants, the report stated, and “each of these critical plants is extremely vulnerable to sabotage or military action.”</p><p>The desalination plants are also vulnerable to climate change, including storm surges and extreme rainfall that can overwhelm infrastructure, as warming oceans increase the likelihood and intensity of cyclones in the Arabian Sea. __</p><p>Associated Press writer Melanie Lidman contributed from Tel Aviv, Israel. </p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/iran-strikes-kuwait-gulf-bahrain-desalination-25e6d5c8d8a027897b3fb80fad57b7d2</guid>
-      <category>World News</category>
-      <category>General news</category>
-      <category>Water quality</category>
-      <category>Iran war</category>
-      <category>Strikes</category>
-      <category>Kuwait</category>
-      <category>Persian Gulf</category>
-      <category>Middle East</category>
-      <category>Manufacturing sector</category>
-      <category>Iran strikes Kuwait Gulf Bahrain desalination</category>
-      <category>United States government</category>
-      <category>Business</category>
-      <category>Kuwait government</category>
-      <category>Iran government</category>
-      <category>Iran</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/9f58048/2147483647/strip/true/crop/4338x2891+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2e%2F4e%2F9732b116c0a80d5dfd7767d4826e%2F8c9842db9c8745f8a300d1999326707b" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 12:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>DNA links unknown Revolutionary War soldier to his living relatives</title>
-      <link>https://apnews.com/article/america-250-revolution-dna-unknown-soldier-a672d84951897c9f2c2615a1e6c49758</link>
-      <description>For more than two centuries, a fallen Revolutionary War soldier was unknown and unnoticed. Now, thanks to happenstance and the wonders of DNA, he has a name, just in time for the 250th birthday of the nation he fought and died to create.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/e25eb97/2147483647/strip/true/crop/2665x1776+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F36%2Ffce550fdb39d91884edb27e28fe0%2F50eb2612fccd41de8c1e52e505d090e2" alt="" /></p>
-<p>After 246 years, Pvt. John Pumphrey is unknown no more.</p><p>Through DNA testing and old-fashioned sleuthing, the Maryland teenager who died in one of the last big battles of the <a href="https://apnews.com/article/america250-colonial-history-quiz">American Revolution</a> can now take his place in history, just in time for the <a href="https://apnews.com/hub/america-250">250th birthday of the nation</a> he fought to create.</p><p>“There was a sense of divine timing, I guess,” said Allison Peacock, founder of FHD Forensics, a company that helped with the search. “I don’t know what else you want to call it.”</p>
-
-
-
-<figure class="Figure" data-openoverlay="">
-
-
-
-
-
-
-
-
-<img alt="Military personnel fold flags for the remains of 12 Continental soldiers killed at the Battle of Camden, S.C., during a memorial ceremony on April 22, 2023. (Historic Camden Foundation/via AP)" src="https://dims.apnews.com/dims4/default/41c94ec/2147483647/strip/true/crop/4202x2801+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F9b%2F52%2F0882338c6e450af43f4e7be11acd%2F1cdc706fed554bc281a93e6914950bca"/>
-
-
-
-<figcaption class="Figure-caption"><p>Military personnel fold flags for the remains of 12 Continental soldiers killed at the Battle of Camden, S.C., during a memorial ceremony on April 22, 2023. (Historic Camden Foundation/via AP)</p></figcaption>
-
-
-</figure>
-
-
-
-
-<p>Pumphrey died Aug. 16, 1780, at the Battle of Camden, South Carolina. It was one of the Continental Army’s <a href="https://apnews.com/article/united-states-south-carolina-c03ceb2111cad8b03a49947c6c17b6dc">most devastating defeats</a>, where British Gen. Charles Lord Cornwallis routed patriot forces under Maj. Gen. Horatio Gates.</p><p>Many of the 900 killed were left where they fell, abandoned to the predations of wild animals, South Carolina’s scorching heat and its ruinous humidity.</p>
-
-<h2>Bones emerge from a Revolutionary War battlefield</h2><p>Archaeologists surveying the area in 2020 came across human bones protruding from the ground. Eventually, 14 sets of remains were identified — 12 of them Continental soldiers. The others were determined to be connected to the British side and were reburied at the battlefield.</p>
-<p>The Richland County Coroner’s Office had worked with Texas-based FHD Forensics on modern-day cases and asked for their help. Peacock took to calling it the case of “America’s oldest John Doe.”</p>
-
-
-
-<figure class="Figure" data-openoverlay="">
-
-
-
-
-
-
-
-
-<img alt="Forensic anthropologist Bill Stevens, left, and archeologist James Legg, right, handle homemade coffins in preparation of the reburial of the remains of unidentified Revolutionary War soldiers killed in the Battle of Camden in 1780 on Thursday, March 30, 2023, in Columbia, S.C. (AP Photo/Jeffrey Collins, File)" src="https://dims.apnews.com/dims4/default/1280a5f/2147483647/strip/true/crop/2731x1821+0+0/resize/599x399!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F56%2F91%2F283f31261319ebe010b902e27e4c%2Fa9c70395d730447e9028d03f26b864e2"/>
-
-
-
-<figcaption class="Figure-caption"><p>Forensic anthropologist Bill Stevens, left, and archeologist James Legg, right, handle homemade coffins in preparation of the reburial of the remains of unidentified Revolutionary War soldiers killed in the Battle of Camden in 1780 on Thursday, March 30, 2023, in Columbia, S.C. (AP Photo/Jeffrey Collins, File)</p></figcaption>
-
-
-</figure>
-
-
-
-
-<p>“What we did is pretty much the same as what we do with any other John Doe case,” she said. “Nobody really knew for sure whether we could get genetic profiles suitable for a genealogy investigation on 240-plus year old remains. But we got lucky.”</p><p>Unlike most, Pumphrey and four comrades received a cursory burial beneath a thin layer of dirt. He was dubbed simply “Camden 9B,” because his were the second set of remains retrieved from burial nine. The remains were examined and cataloged.</p><p>The 12 Continentals were later reinterred <a href="https://apnews.com/article/revolutionary-war-soldier-reburial-8a3c28be8f74f7c98bd3a1997e37c24b">with full military honors</a>. Camden 9B’s headstone read simply: “UNKNOWN. REV WAR. BATTLE OF CAMDEN. AUG 16 1780.” </p>
-
-<h2>DNA unlocks a centuries-old mystery</h2><p>Meanwhile, samples from two of the soldiers were sent to Astrea Forensics in California for DNA extraction and sequencing.</p><p>“Typically, in a case like this, we work with teeth, because teeth are in the jaw and are protected, the roots are protected,” said Peacock. “In this case, they were just coming up with nothing on the teeth.”</p>
-
-
-<p>With remains this old, it’s often difficult to separate the human DNA from all the other genetic material in the grave, said Astrea co-founder and scientific adviser Kelly Harkins Kincaid.</p>
-
-
-
-<figure class="Figure" data-openoverlay="">
-
-
-
-
-
-
-
-
-
-
-
-
-<figcaption class="Figure-caption"><p>Forensic anthropologists, archeologists and volunteers prepare the remains of an unidentified Revolutionary War soldier killed in the Battle of Camden in 1780 for reburial on March 30, 2023, in Columbia, S.C. (AP Photo/Jeffrey Collins, File)</p></figcaption>
-
-
-</figure>
-
-
-
-
-<p>“It gets colonized by the microbial environment in the soil and the water in the environment,” she said. </p><p>Although she’s worked with DNA samples as old as 10,000 years, this was the oldest sample her company has ever used to try to reconstruct a family tree.</p><p>From a petrous portion of the temporal bone, a delicate structure behind the ear at the base of the skull, they were able to extract three types of DNA: autosomal, X chromosome and Y chromosome. Peacock’s team uploaded the results to FamilyTreeDNA and GEDmatch.</p><p>“We got 20,000 matches to work with,” she said. “So, it was a lot to kind of comb through.”</p>
-
-<h2>An orphan soldier’s life comes into focus</h2><p>One of those matches, from the maternal line, was Russ Hudson.</p><p>The retired federal agent in Gettysburg, Pennsylvania, offered to help do archival research. A profile began to emerge: of a young orphan from Maryland’s Anne Arundel County, dispossessed and looking for his way in life.</p><p>“I learned that probably when he was 13, he went to Baltimore and he enlisted in the militia,” said Hudson. “And who knows what his story was? What did he accomplish in order to become a member of the militia at such a young age?”</p><p>Because no birth record has been found, it’s unclear how old Pumphrey was when he went to war. He signed his re-enlistment papers with an “X.” But he was young enough that, when he died, the growth plates around his knees had not yet fully closed, Peacock said. </p><h2>A witness to history</h2>
-
-<p>Researchers now know that Pumphrey and his comrades from the 7th Maryland Regiment were with George Washington in the snows at Valley Forge, Pennsylvania. Peacock said his unit was involved in some of the major contests in the Northern Theater, including the battles of Brandywine, Germantown and Monmouth.</p>
-
-
-
-<figure class="Figure" data-openoverlay="">
-
-
-
-
-
-
-
-
-
-
-
-
-<figcaption class="Figure-caption"><p>Military personnel fold flags for the remains of 12 Continental soldiers killed at the Battle of Camden, S.C., during a memorial ceremony on April 22, 2023. (Historic Camden Foundation/via AP)</p></figcaption>
-
-
-</figure>
-
-
-
-
-<p>She figures he had marched 1,000 miles before he met his end in the pine lands of South Carolina.</p><p>“We don’t really know what John Pumphrey’s cause of death was because they did not find a particular injury on his body,” she said. “It’s possible that he had a soft tissue injury, like a bayonet injury, but it’s a little hard to tell after 246 years.”</p><h2>An unexpected twist and an emotional reunion</h2><p>Work continues on the other set of remains, Camden 11A. One thing is certain: Peacock is related to him.</p><p>“One of the first things I do when I take on a case is I run my DNA against the remains to see if it’s somebody I’m related to, just on the wild chance that it might be,” she said. “It’s never happened before, but I am related to Camden 11A. So, I’m very motivated to get him identified.”</p>
-
-<p>Last month, Peacock was confident enough in the research to put a name to Camden 9B. Relatives wept during an emotional ceremony at the 19th century Benson-Hammond House in Anne Arundel County.</p>
-
-
-
-<figure class="Figure" data-openoverlay="">
-
-
-
-
-
-
-
-
-<img alt="Relatives of Revolutionary War Pvt. John Pumphrey pose for a photo outside the 19th century Benson-Hammond House in Linthicum Heights, Md., on June 18, 2026. (FHD Forensics via AP)" src="https://dims.apnews.com/dims4/default/38e5a6c/2147483647/strip/true/crop/1950x1200+0+0/resize/599x369!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2F31%2Fbaf1c79cf2ea47724980d3c5be55%2Ffce392de4a2c43619dff3e13823ac2e3"/>
-
-
-
-<figcaption class="Figure-caption"><p>Relatives of Revolutionary War Pvt. John Pumphrey pose for a photo outside the 19th century Benson-Hammond House in Linthicum Heights, Md., on June 18, 2026. (FHD Forensics via AP)</p></figcaption>
-
-
-</figure>
-
-
-
-
-<p>“The fact that some archaeologists just happened to stumble on bones that were protruding from the earth, and knowing that it would be difficult to identify those people by DNA, I just found it really exciting,” Becky Berman of Daytona Beach, Florida, Pumphrey’s first cousin, 10 times removed, told The Associated Press.</p><p>For Hudson, the retired federal agent, the story won’t be over until the U.S. government confirms the research and replaces his fifth great-uncle’s “UNKNOWN” gravestone. He said America owes it to John Pumphrey.</p><p>“He sacrificed himself, along with some others,” Hudson said, his eyes tearing up, “for the sake of this new nation.”</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/america-250-revolution-dna-unknown-soldier-a672d84951897c9f2c2615a1e6c49758</guid>
-      <category>U.S. News</category>
-      <category>John Pumphrey</category>
-      <category>War and unrest</category>
-      <category>General news</category>
-      <category>MD State Wire</category>
-      <category>SC State Wire</category>
-      <category>South Carolina</category>
-      <category>Maryland</category>
-      <category>America 250 revolution DNA unknown soldier</category>
-      <category>George Washington</category>
-      <category>Lifestyle</category>
-      <category>Charles Lord Cornwallis</category>
-      <category>Pennsylvania</category>
-      <category>Military and defense</category>
-      <category>Allison Peacock</category>
-      <category>Becky Berman</category>
-      <category>Kelly Harkins Kincaid</category>
-      <category>Oddities</category>
-      <category>Horatio Gates</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/e25eb97/2147483647/strip/true/crop/2665x1776+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F29%2F36%2Ffce550fdb39d91884edb27e28fe0%2F50eb2612fccd41de8c1e52e505d090e2" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 12:29:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Beer industry hopes a World Cup bump will help reverse declining sales</title>
-      <link>https://apnews.com/article/world-cup-beer-sales-fans-drinking-3f9a7246bfd1b0185ffdfbc58e662515</link>
-      <description>The World Cup has been a bonanza for beer in the United States. Bars in Boston reported needing emergency deliveries to keep taps from running dry on some game days.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/4a0d2b3/2147483647/strip/true/crop/1620x1079+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6d%2Fcb%2F32307612643c1df9c2b3280575b0%2Fff9474d63d234115aafc9fb57df53b34" alt="" /></p>
-<p>The <a href="https://apnews.com/hub/fifa-world-cup">World Cup</a> has been a bonanza for beer in the U.S. <a href="https://apnews.com/article/traffic-cone-scotland-world-cup-1dd906d4add39199db5c1190164ac151">Bars in Boston</a> reported needing emergency deliveries to keep taps from running dry on some game days. Fans downed a total of 290,000 <a href="https://apnews.com/article/concession-prices-world-cup-beer-0896c84572dd666cea86a482fdc644c5">stadium beers</a> during the six matches in Philadelphia, FIFA organizers said.</p><p>But all that frothy foam obscures a cold reality: Beer sales have been struggling globally, and it’s unclear if soccer’s world championship tournament can reverse the trend despite having three countries and 16 cities as co-hosts this year. </p><p>In the U.S., beer consumption has fallen steadily for a decade, according to the Brewers Association, a trade group for <a href="https://apnews.com/article/trump-tariffs-brewers-beer-65b7a7d4f2a2570c35a94b31572518af">craft brewers</a>. Canada has seen a similar decline, according to the national statistics agency. The Brewers of Europe trade association says the <a href="https://apnews.com/article/german-beer-annual-sales-decline-bbdc02871d9af81c5e89ad420d393d0c">story is the same</a> in the European Union. </p>
-
-<h2>Consumers are buying less regular beer and more ‘wellness’ drinks</h2><p>Many consumers are cutting back on alcohol for <a href="https://apnews.com/article/alcohol-drinking-health-sober-dry-january-6d11c7ebb74b6aa38e82500d91943a14">health reasons</a>. Last year was the first time in <a href="https://apnews.com/article/drinking-alcohol-beer-wine-liquor-poll-health-091aa28c3375d30d728d48c628a9023a">Gallup’s polling</a> that a majority of Americans – 53% -- said drinking “one or two drinks a day” was bad for one’s health. </p><p>While sales of <a href="https://apnews.com/article/oktoberfest-alcoholfree-beer-munich-e1279f6e24f406fa04ead4b09f4bbcbe">non-alcoholic beer</a> have grown, they still make up only around 1% of the U.S. market, according to the Beer Institute, a trade group for brewers.</p>
-<p><a href="https://apnews.com/article/oil-gas-iran-trump-war-49a1eeec97df1364851c63397e6599d2">Economic worries</a> also have taken a toll on sales. U.S. consumption of all types of alcohol – including wine and spirits – fell 5% last year, and affordability concerns were partly to blame, beverage market research company IWSR said.</p><p>Craig Purser, the president and CEO of the National Beer Wholesalers Association, said he thinks smartphones and Netflix have taken consumers away from socializing with a cold beer in hand. </p><p>“If you have this behavior where we’re cocooning and we’re not spending time with other folks, that’s going to affect beer consumption,” Purser said.</p>
-
-<h2>World Cup host cities saw a bump in beer sales at stadiums, bars and restaurants</h2><p>Enter the World Cup and the soccer fans who traveled from around the world to support their national teams and engage in communal celebration or sorrow. </p><p>In the first four weeks of the tournament, beer sales in bars, restaurants, stadiums and other venues rose 14% in U.S. host cities compared to the same period last year, according to the Beer Institute. The bump extended beyond host cities; sales were up 4% nationally, the institute said.</p>
-
-<p>Jim Koch, the brewer, founder and CEO of the <a href="https://apnews.com/article/lifestyle-business-beer-132b961f1df740ddb8d62943f5d395d6">Boston Beer Co.</a>, which makes Samuel Adams and other brands, said the company had to make two emergency deliveries to its Sam Adams Boston Taproom on the first day that <a href="https://apnews.com/article/world-cup-scotland-boston-5992eaa47790538882afe8a7270d653e">Scotland’s fans</a> were in town.</p><p>“At one point, we were pouring them a Sam Adams Boston Lager every 12 seconds. What a wonderful group of people,” he said.</p>
-
-<p>But that wasn’t all that warmed Koch’s heart.</p>
-
-<p>“I didn’t see a single soul on their phone,” he said, “They had a beer in their hand and they were talking to each other. They were doing what beer is meant to do, which is helping people enjoy each other’s company.”</p><p>The plentiful drinking on display in stadiums stood in <a href="https://apnews.com/article/world-cup-qatar-national-soccer-team-croatia-510a391fefd88e74716e164be112fe74">stark constrast</a> to the World Cup held four years ago in Qatar, where the government <a href="https://apnews.com/article/world-cup-soccer-sports-business-760c6bac905fc67a7bc23d67f9831e03">banned the sale</a> of alcoholic beer in match venues.</p><p>Brewers <a href="https://apnews.com/article/march-madness-ncaa-expansion-5430c958e232afd8eb9226aa255e9c76">leaned heavily</a> into this year’s tournament. Budweiser and Michelob Ultra maker <a href="https://apnews.com/article/olympics-ioc-beer-anheuser-busch-global-sponsor-1f61838f2baf18cf9bdf91ccbeb8e42b">AB InBev</a>, the World’s Cup’s official beer sponsor, doled out marketing support to bars and hosted 200,000 watch parties in 40 countries. </p><p>Molson Coors said it would spend 60% more than last year on marketing <a href="https://apnews.com/article/world-cup-heat-summer-alcohol-beer-heat-stress-ed43c65e621c561db3dfb8f163fd39c7">in June and July</a>; it also debuted a limited edition soccer ball that can hold 12 cans of <a href="https://apnews.com/article/champagne-beer-intellectual-property-belgium-miller-09f27ee4a921c66e9605893c51fb9b91">Miller</a> Lite.</p>
-
-<h2>A team’s loss can make supporters cry, but not in their beer</h2><p>Maybell Romero, a law professor at Tulane University School of Law in New Orleans, usually prefers cocktails over beer. But she says she opts for beer during the World Cup since it has lower alcohol content than liquor or wine and watching games can be an all-day affair.</p><p>“If I drink cocktail after cocktail, I will not be functional after a few hours,” Romero said.</p><p>Romero, who has been watching this year’s matches at bars in Mexico City, said she’s enjoyed trying new beers, especially those with novel ingredients like champagne yeast. She might order an occasional beer once the World Cup ends but expects to go back to mostly drinking cocktails.</p><p>Beer consumption was expected to fall in some markets even before the World Cup ended. Shares in AB InBev and <a href="https://apnews.com/article/constellation-brands-modelo-corona-beer-hispanic-6975e8c593048e45ccd3bf20135482f3">Constellation Brands</a> — which owns the U.S. rights to Mexican beer brands like Corona and Modelo — tumbled after Mexico and Brazil were eliminated from the tournament.</p>
-
-<p>Romero observed the mood shift in Mexico City after those losses.</p><p>“The city is collectively depressed,” she said. “Everything is a lot quieter, and people aren’t going out as much.”</p><h2>Major sporting events on the horizon allow the beer industry to hold out hope</h2><p>Purser remains hopeful the World Cup will remind people how much they like to gather and cheer on athletes, especially with the <a href="https://apnews.com/article/2028-los-angeles-olympics-c5983e89299c325c92d184559d4fce7c">Summer Olympics</a> heading to Los Angeles in 2028. Occasions are expanding, he said; college and professional football games are now played on more nights of the week, for example. And beer’s consumer base is widening as more brands put out low- and no-alcohol versions, he said.</p>
-
-<p>In May, the NCAA reversed its long-standing ban on alcohol advertising during March Madness, allowing makers of beer, wine, spirits and hard seltzer makers <a href="https://apnews.com/article/march-madness-ncaa-expansion-5430c958e232afd8eb9226aa255e9c76">to sponsor</a> the college basketball tournaments for the first time starting next season. </p><p>The Boston Beer Co.'s Koch said he’s not fretting until then. </p><p>“People worry that the beer business has declined for a few years, and I always remind them that beer has been a part of human society, human civilization, for 10,000 years,” he said. “Beer will always be a part enhancing our enjoyment of our lives and the time we spend on this earth.”</p><p>___</p><p>AP Video Journalist Rodrique Ngowi contributed from Boston.</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/world-cup-beer-sales-fans-drinking-3f9a7246bfd1b0185ffdfbc58e662515</guid>
-      <category>Business</category>
-      <category>Jim Koch</category>
-      <category>Anheuser-Busch InBev NV</category>
-      <category>Soccer</category>
-      <category>FIFA World Cup</category>
-      <category>Sam Adams</category>
-      <category>Boston</category>
-      <category>General news</category>
-      <category>Massachusetts</category>
-      <category>World Cup beer sales fans drinking</category>
-      <category>Europe</category>
-      <category>U.S. news</category>
-      <category>Netflix, Inc.</category>
-      <category>World news</category>
-      <category>Mexico City</category>
-      <category>Samuel Adams</category>
-      <category>Qatar</category>
-      <category>Sports</category>
-      <category>Lifestyle</category>
-      <category>Craig Purser</category>
-      <category>Scotland</category>
-      <category>FIFA</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/4a0d2b3/2147483647/strip/true/crop/1620x1079+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6d%2Fcb%2F32307612643c1df9c2b3280575b0%2Fff9474d63d234115aafc9fb57df53b34" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 12:12:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pakistan military kills militants in several raids in northwest region</title>
-      <link>https://apnews.com/article/pakistan-militant-attacks-military-operation-northwest-taliban-4c22904b312ff716b56d0da91a1a7354</link>
-      <description>Pakistani security forces have raided multiple militant hideouts in the country’s northwest region, killing Pakistani Taliban and seizing a cache of weapons.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/caac9c7/2147483647/strip/true/crop/1189x792+6+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2Ff3%2F6fd7d7aa3ef95fb518749f46aea1%2Fe9dc1a3b585c4787abf87d8d65c398e0" alt="" /></p>
-<p>ISLAMABAD (AP) — Pakistani security forces raided multiple militant hideouts in the country’s northwest region, killing Pakistani Taliban and seizing a cache of weapons, the military and local officials said.</p><p>The military said Friday it used intelligence sources to target militants in operations carried out over the previous day that killed 24 members of the outlawed Pakistani Taliban and Baloch separatist groups.</p><p>The military said in a statement that the raids came in response to <a href="https://apnews.com/article/pakistan-twin-militant-attacks-northwest-afghanistan-b22a0c1ba54d8925ab93eaf20fa5a710">a pair of militant attacks</a> on Wednesday, including a suicide bomber who used a vehicle packed with explosives to ram police officers and civilians. A little-known militant group also targeted a police station and wounded several officers in Bannu, a district in Khyber Pakhtunkhwa province bordering Afghanistan. </p><p>Pakistan’s President Asif Ali Zardari and Prime Minister Shehbaz Sharif praised the security forces on Friday for what they described as a swift and effective action against those responsible for recent attacks in Bannu. </p><p>The two men said in separate statements that eliminating terrorism remained the government’s top priority and vowed to bring perpetrators to justice. </p>
-
-<p>The Pakistani Taliban, known as Tehrik-e-Taliban Pakistan, or TTP, are separate from but allied with the Afghan Taliban government, which Pakistan <a href="https://apnews.com/article/afghanistan-pakistan-airstrikes-children-killed-addc32b921147ed5bc1ee7b7b2cd5384">frequently accuses</a> of turning a blind eye to cross-border militant attacks. Afghanistan’s government in Kabul repeatedly rejects the claims, although the TTP and Baloch separatist group BLA frequently claim responsibility for attacks in Pakistan. </p>
-
-<p>Since last year, Pakistan has carried out multiple strikes it says targeted TTP hideouts along the Afghan border.</p>
-
-<p>The Pakistani government in the capital Islamabad also alleges the groups receive support from India to the south, which the Indian government in New Delhi denies. In their statements Friday, the president and prime minister repeated the allegation.</p><p>Pakistan’s security forces intend to press ahead with Azm-e-Istehkam, or “Resolve for Stability,” a nationwide counterterrorism campaign approved last year under the National Action Plan to dismantle militant networks across the country, the military said.</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/pakistan-militant-attacks-military-operation-northwest-taliban-4c22904b312ff716b56d0da91a1a7354</guid>
-      <category>World News</category>
-      <category>General news</category>
-      <category>Pakistan</category>
-      <category>Shehbaz Sharif</category>
-      <category>Asif Ali Zardari</category>
-      <category>Military and defense</category>
-      <category>Taliban</category>
-      <category>Afghanistan</category>
-      <category>Pakistan government</category>
-      <category>India government</category>
-      <category>Terrorism</category>
-      <category>South Asia</category>
-      <category>India</category>
-      <category>pakistan militant attacks military operation northwest taliban</category>
-      <category>Islamabad</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/caac9c7/2147483647/strip/true/crop/1189x792+6+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8e%2Ff3%2F6fd7d7aa3ef95fb518749f46aea1%2Fe9dc1a3b585c4787abf87d8d65c398e0" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 12:09:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spanish Prime Minister Pedro Sánchez to attend World Cup final against Argentina</title>
-      <link>https://apnews.com/article/pedro-sanchez-spain-world-cup-final-7f75072b134adb48b9849efa3bb93010</link>
-      <description>Spanish Prime Minister Pedro Sánchez plans to attend Sunday’s World Cup final against Argentina, his office says.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/95f2765/2147483647/strip/true/crop/5270x3512+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F09%2Fc75a550aeea6667bec7bc081ad87%2F8587d7e55bdd47f0b0342df4e1e6414f" alt="" /></p>
-<p>MADRID (AP) — Spanish Prime Minister <a href="https://apnews.com/article/spain-us-pedro-sanchez-trump-iran-bases-d90bf557c96caa65911b438edafaf5e1">Pedro Sánchez</a> plans to attend Sunday’s <a href="https://apnews.com/article/argentina-messi-spain-yamal-world-cup-final-55077ce5c4728c4207a39cc4aa8a41a1">World Cup final</a> against Argentina, his office said Friday.</p><p>Spanish King Felipe VI is also expected to watch the game in East Rutherford, New Jersey.</p><p>U.S. President Donald Trump will also be at the final. Sánchez and Trump have repeatedly clashed on the world diplomatic stage, including over the <a href="https://apnews.com/article/trump-spain-iran-trade-defense-nato-spending-43e0f13e7b1c7e6ebcc4b558474aacdc">Iran war</a>, Spain’s spending on NATO, and U.S. support for Israel’s military response in Gaza to the 2023 Hamas attacks.</p><p>Argentine President Javier Milei, an ally of Trump, is <a href="https://apnews.com/article/argentina-milei-superstition-messi-world-cup-final-8d2b495c985acc59598c77c1451504d5">not going to attend</a> the final, citing superstition. Milei said he will watch from home as three-time winner Argentina tries to defend its world crown against 2010 champion Spain.</p><p>___</p><p><a href="https://apnews.com/hub/fifa-world-cup">See more of AP’s World Cup coverage here</a></p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/pedro-sanchez-spain-world-cup-final-7f75072b134adb48b9849efa3bb93010</guid>
-      <category>Sports</category>
-      <category>Donald Trump</category>
-      <category>Javier Milei</category>
-      <category>Pedro Sanchez</category>
-      <category>King Felipe VI</category>
-      <category>Iran war</category>
-      <category>FIFA World Cup</category>
-      <category>Spain government</category>
-      <category>Argentina</category>
-      <category>Argentina National Soccer Team</category>
-      <category>General news</category>
-      <category>International News</category>
-      <category>Latin America</category>
-      <category>Central America</category>
-      <category>South America</category>
-      <category>pedro sanchez spain world cup final</category>
-      <category>Argentina government</category>
-      <category>Politics</category>
-      <category>Iran</category>
-      <category>Soccer</category>
-      <category>World news</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/95f2765/2147483647/strip/true/crop/5270x3512+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F51%2F09%2Fc75a550aeea6667bec7bc081ad87%2F8587d7e55bdd47f0b0342df4e1e6414f" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 12:06:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>A Putin critic is convicted on charges that stop him from campaigning for parliament</title>
-      <link>https://apnews.com/article/russia-crackdown-opposition-putin-nadezhdin-remeslo-9f3d974e1a8afdac319c8b97db019604</link>
-      <description>Boris Nadezhdin, who criticized Moscow’s military action in Ukraine and unsuccessfully tried to run against President Vladimir Putin in the 2024 election, was convicted of displaying “extremist symbols” — an action that will keep him out of this year’s parliamentary race.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/a382ed5/2147483647/strip/true/crop/7196x4795+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0e%2Fad%2Febb3d93a1a3321c0f2a312a1b2ae%2F77d818f23c3f4a958bac0c82606f43e9" alt="" /></p>
-<p>MOSCOW (AP) — <a href="https://apnews.com/article/russia-ukraine-putin-election-nadezhdin-6b6ef47cd9db256cf2c58fdae87905f7">Boris Nadezhdin,</a> who criticized Moscow’s military action in Ukraine and tried to challenge President Vladimir Putin in the 2024 election, was convicted Friday of displaying “extremist symbols” — an action that will keep him out of this year’s parliamentary race.</p><p>The charges against <a href="https://apnews.com/article/russia-putin-election-boris-nadezhdin-ukraine-0bfd3bfd0ba2607f57cad643ea20d196">Nadezhdin</a>, 63, were based on a 2023 online interview in which he briefly showed a picture of the late opposition leader <a href="https://apnews.com/article/alexei-navalny-russia-death-putin-kremlin-anniversary-539748ce105ab9822c80245be729f8bd">Alexei Navalny,</a> who at that time was serving a 19-year prison sentence on charges of extremism that were widely seen as politically motivated. Navalny <a href="https://apnews.com/article/russia-alexei-navalny-funeral-photos-1ebfcd5f7903f70a1df90e205af189d7">later died</a> in an Arctic penal colony on Feb. 16, 2024.</p><p>Nadezhdin rejected the case against him as absurd and argued authorities were trying to keep him from campaigning in September’s parliamentary vote. The court in Dolgoprudny, a town on Moscow’s northern outskirts where he lives, convicted him and ordered him to pay a fine of 1,000 rubles (about $13).</p><p>A week ago, Russia’s Justice Ministry named Nadezhdin as a “foreign agent,” a designation that carries strong pejorative connotations and brings additional government scrutiny. It also bars him from holding public office, but he was still able to wage his symbolic campaign for a parliament seat until Friday’s verdict.</p>
-
-<p>Nadezhdin complained of feeling sick during Friday’s hearing, which was interrupted to let an ambulance team check his condition. Before the hearing, he said he was considering going abroad but was barred from leaving Russia.</p>
-
-<p>In January 2024, Nadezhdin collected thousands of signatures as he openly called for a halt to <a href="https://apnews.com/article/russia-ukraine-putin-election-nadezhdin-6b6ef47cd9db256cf2c58fdae87905f7">the fighting in Ukraine.</a> But he was kept off the March 2024 ballot after <a href="https://apnews.com/article/russia-putin-election-nadezhdin-navalny-17919fa0deca417f1ccab8390c8d6c56">Russia’s Supreme Court ruled</a> that more than 9,000 signatures submitted by his campaign were invalid — enough to disqualify him. Putin faced only token opposition in the election and easily won a fifth term.</p><p>After the Kremlin sent troops into Ukraine in February 2022, authorities ramped up their crackdown on dissent and free speech, relentlessly targeting rights organizations, independent media, members of civil society organizations, <a href="https://apnews.com/article/russia-lgbtq-crackdown-putin-moscow-aef5650c6fdadbe1ac13e0d0b9f93f3b">LGBTQ+ activists</a> and some religious groups. Hundreds of people have been jailed and thousands of others have fled the country.</p>
-
-<h2>Another Putin critic is arrested</h2><p>Also on Friday, Ilya Remeslo, a pro-Kremlin activist and blogger who has become a Putin critic, was arrested in St. Petersburg on charges of spreading false information about the Russian military — an accusation widely used against those who oppose the government’s policies.</p><p>The state Tass news agency reported that he would be taken to Moscow to face a court hearing.</p><p>In March, Remeslo criticized the military action in Ukraine and called for Putin’s resignation. Soon after, he was placed in a psychiatric clinic and spent a month there in what he cast as a punishment for his remarks.</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/russia-crackdown-opposition-putin-nadezhdin-remeslo-9f3d974e1a8afdac319c8b97db019604</guid>
-      <category>World News</category>
-      <category>Alexei Navalny</category>
-      <category>Vladimir Putin</category>
-      <category>Boris Nadezhdin</category>
-      <category>General news</category>
-      <category>Moscow</category>
-      <category>Russia government</category>
-      <category>Indictments</category>
-      <category>Ukraine</category>
-      <category>Russia</category>
-      <category>Russia crackdown opposition Putin Nadezhdin Remeslo</category>
-      <category>Politics</category>
-      <category>Prisons</category>
-      <category>Ilya Remeslo</category>
-      <category>Courts</category>
-      <category>Military and defense</category>
-      <category>Elections</category>
-      <category>International incidents</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/a382ed5/2147483647/strip/true/crop/7196x4795+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0e%2Fad%2Febb3d93a1a3321c0f2a312a1b2ae%2F77d818f23c3f4a958bac0c82606f43e9" length="0" type="image/jpeg"/>
-      <pubDate>Fri, 17 Jul 2026 12:01:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
