@@ -8,7 +8,69 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Aug 2026 21:29:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:52:10 +0000</lastBuildDate>
+    <item>
+      <title>New images show moon crater carved by SpaceX rocket</title>
+      <link>https://apnews.com/article/spacex-rocket-moon-crash-crater-52b76d61289c06b7d32348b082a8e6b8</link>
+      <description>A NASA spacecraft circling the moon is providing the sharpest views yet of the crater carved by a crashing SpaceX rocket.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/6d5a8aa/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F14%2F65%2F0a70c70638bd0c6c5c5a3785d884%2F788bf99b49eb4cfaa586e1ce4c86b39d" alt="" /></p>
+<p>CAPE CANAVERAL, Fla. (AP) — A NASA spacecraft circling the moon is providing the sharpest views yet of the crater carved by <a href="https://www.ap.org/news-highlights/spotlights/2026/scientists-are-certain-a-wayward-spacex-rocket-slammed-into-the-moon-as-predicted/">a crashing SpaceX rocket</a>. </p><p>The space agency released before-and-after photos of the impact area on Tuesday.</p><p>The Falcon rocket’s upper stage plowed into the moon at 5,400 mph (8,700 kph) on Aug. 5 after drifting through space for more than a year. <a href="https://apnews.com/article/moon-landings-nasa-japan-spacex-8b6e29d17c463e8760c9baa2a75db54a">It launched a pair of private moon landers</a> with experiments and even a tiny rover in 2025 as part of NASA’s push to commercialize lunar exploration.</p><p>Based on these new photos by NASA’s Lunar Reconnaissance Orbiter, the fresh crater appears to be 60 feet (18 meters) across and less than 10 feet (3 meters) deep, according to scientists. </p><p>Dark and bright streaks are clearly visible emanating like butterfly wings from the crater. The darker lines represent excavated material that was close to the surface and shaped by eons of solar wind, cosmic rays and micrometeorite strikes. The brighter rays indicate fresh rocks and dirt that were hurled from farther down.</p>
+
+<p>The spacecraft photographed the crater a week after the collision from 60 miles (96 kilometers) up, while zooming along at one mile per second. Flight controllers had to tilt the spacecraft so its cameras pointed toward the impact scene. </p><p>The orbiter completes a lunar polar orbit every two hours, as the moon rotates beneath. It took six days before the crash scene came into view.</p>
+
+<p><a href="https://apnews.com/article/spacex-rocket-moon-crash-61dc5c43f671623622960013e06aeeb1">South Korea’s Danuri spacecraft</a> was first on the scene to beam back photos.</p>
+
+<p>The Lunar Reconnaissance Orbiter has been orbiting the moon since 2009, serving as NASA’s up-close eyes as the space agency works to return astronauts to the lunar surface.</p><p>___</p><p>The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education and the Robert Wood Johnson Foundation. The AP is solely responsible for all content.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/spacex-rocket-moon-crash-crater-52b76d61289c06b7d32348b082a8e6b8</guid>
+      <category>Science</category>
+      <category>Aerospace and defense industry</category>
+      <category>Spacecraft</category>
+      <category>National Aeronautics and Space Administration</category>
+      <category>Space exploration</category>
+      <category>Aerospace technology</category>
+      <category>General news</category>
+      <category>spacex rocket moon crash crater</category>
+      <category>World news</category>
+      <category>Technology</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/6d5a8aa/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F14%2F65%2F0a70c70638bd0c6c5c5a3785d884%2F788bf99b49eb4cfaa586e1ce4c86b39d" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 21:38:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>AI-assisted tool helped secure satellite communication system after 2022 Russian hacking</title>
+      <link>https://apnews.com/article/cybersecurity-ai-new-technology-hacking-742e4946bc20e421fd0d19f0c5a36e0d</link>
+      <description>The cybersecurity company Atalanta says it has released “Argo” — a product that includes the technology that was crucial in securing a satellite communications network after a Russian hacking attack.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png" alt="" /></p>
+<p>WASHINGTON (AP) — On the same day it invaded Ukraine in 2022, Russia disabled thousands of satellite modems across Ukraine and other European countries, aiming to disrupt communications. A new AI-assisted tool aims to help close that kind of vulnerability amid concerns about continued Russian aggression and newer Iranian threats to cyber infrastructure. </p><p>The <a href="https://www.atalanta.tech/">cybersecurity company Atalanta</a> has released “Argo” — a product that includes the technology that was instrumental in securing Viasat’s satellite communications network after the Russian hacking attack. Industry experts say it presents a new capability for those trying to defend critical systems in the emerging cyberwarfare theater. </p><p>Atalanta’s leaders say the new technology relies on what it calls “software understanding,” combining complex mathematics along with artificial intelligence technology to create the first commercially available system that can analyze software and internet-connected systems for vulnerabilities in a more comprehensive manner. </p>
+
+<p>The conflicts in both Ukraine and Iran have highlighted the danger that hackers can pose to everyday life. This summer <a href="https://apnews.com/article/fact-check-trump-minnesota-prescriptions-immigration-7adb2340586cabc2162c39d6f4bc9d92">several government agencies have warned</a> that Iranian hackers have been targeting water and wastewater systems, among other critical infrastructure.</p><p>“The tools and techniques of yesterday do not scale for today and ‘software understanding’ is going to be the path forward for anyone building a system of consequence for the United States,” Atalanta CEO and co-founder Anjana Rajan told The Associated Press.</p>
+
+<p>Viasat’s chief of cyber strategy, Nick Saunders, said the new technology not only ensures that the Viasat network is hardened against future attacks but produces the math that backs up that claim.</p>
+
+<p>“We have built over the past year, working with Atalanta ... a capability where we can start to develop an understanding of how our systems are more resilient against attacks,” Saunders said.</p><p>Atalanta’s technology has also been tapped to work on the Genesis Mission — the Department of Energy’s effort to create autonomous nuclear reactors.</p>
+
+<p>Greg Shannon, the chief cybersecurity scientist at the government’s Idaho National Laboratory, said the kind of technology that Atalanta is making available will likely eventually become the standard for testing any new capability.</p><p>“In a decade or two, I would expect it to be just part of the standard development tool kits,” Shannon added.</p><p>Shannon noted that the Defense Advanced Research Project Agency, or DARPA, has been investing billions in this technology for a couple of decades. This investment helped create the demand for a system like Argo.</p><p>DARPA is the military’s cutting-edge research office, which also helped pioneer technologies such as the internet and stealth aircraft.</p><p>“They’ve probably invested well over $2 billion in various programs to advance formal methods ... and we’re finally seeing them start to come to fruition,” Shannon said.</p><p>Last year, Emil Michael, the Pentagon’s chief technology officer, told a DARPA software conference <a href="https://youtu.be/ROZv0G-6zxs?si=vJ1Gtxwm78_za8AZ">in a prerecorded address</a> that he saw the mathematics underpinning Atalanta’s technology as the future of the military and he wanted it to “become the DoD’s gold standard” for cybersecurity.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/cybersecurity-ai-new-technology-hacking-742e4946bc20e421fd0d19f0c5a36e0d</guid>
+      <category>Politics</category>
+      <category>Cybercrime</category>
+      <category>Information security</category>
+      <category>Hacking</category>
+      <category>Ukraine</category>
+      <category>Software</category>
+      <category>Artificial intelligence</category>
+      <category>Iran war</category>
+      <category>General news</category>
+      <category>cybersecurity AI new technology hacking</category>
+      <category>Mathematics</category>
+      <category>Technology</category>
+      <category>Iran</category>
+      <category>Anjana Rajan</category>
+      <category>Emil Michael</category>
+      <category>Greg Shannon</category>
+      <category>Washington news</category>
+      <category>Nick Saunders</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 18 Aug 2026 21:37:09 +0000</pubDate>
+    </item>
     <item>
       <title>US sanctions International Criminal Court president, senior prosecutor</title>
       <link>https://apnews.com/article/international-criminal-court-sanctions-trump-israel-e8da938966f5f8dad763ecf68ea025c9</link>
@@ -1020,100 +1082,6 @@
       <category>Entertainment</category>
       <enclosure url="https://dims.apnews.com/dims4/default/1c4bb8d/2147483647/strip/true/crop/4526x3016+18+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F34%2Fdd044327f22e5b81febde874891f%2Fb8915153740b4c5f8b3ebd509cc182ab" length="0" type="image/jpeg"/>
       <pubDate>Tue, 18 Aug 2026 17:11:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Justice Department seeks to revive charges against Kilmar Abrego Garcia</title>
-      <link>https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-smuggling-c30c324bdc979b9dbb583ac77a17bb24</link>
-      <description>The Justice Department is pushing to revive criminal charges against Kilmar Abrego Garcia. In a filing with the 6th U.S.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/396d16b/2147483647/strip/true/crop/4195x2795+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2F87%2F209c0a9cd9cf05566026d2706182%2Fefd3053192b441c4b4a065622670bb11" alt="" /></p>
-<p>NASHVILLE, Tenn. (AP) — The Justice Department is pushing to revive criminal charges against <a href="https://apnews.com/article/kilmar-abrego-garcia-immigration-deportation-trump-timeline-5503499922a612959428f3361f92952a">Kilmar Abrego Garcia</a>, telling a federal appeals court late Monday that a judge erred in his <a href="https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-smuggling-035a2b2ded3ede65e77566cdf12b107f">scathing ruling</a> that called the case against the man mistakenly <a href="https://apnews.com/article/el-salvador-trump-prison-immigrants-4ab3fc3c0474efb308084604b61f8a37">deported to an El Salvador prison</a> an “abuse of prosecuting power.”</p><p>The government is appealing the May ruling by U.S. District Judge Waverly Crenshaw that threw out charges of <a href="https://apnews.com/article/abrego-garcia-justice-department-el-salvador-a547f3a228c92d4e69be799354037c7f">human smuggling</a> against the Salvadoran national. The ruling amounted to an extraordinary rebuke of a Justice Department that under President Donald Trump has repeatedly been accused of targeting defendants for political purposes. </p><p>Crenshaw found that Abrego Garcia would never have faced criminal charges had he not <a href="https://apnews.com/article/supreme-court-maryland-deportation-trump-9f46dd62890befdc321ed1ab56107470">successfully sued the government</a> over his <a href="https://apnews.com/article/el-salvador-deportation-maryland-man-trump-error-818a0fa1218de714448edcb5be1f7347">2025 deportation</a>. The ruling was an embarrassment for the Trump administration, which only brought him back after securing a criminal indictment against him.</p>
-
-<p>Crenshaw stopped short of finding the government acted with “actual vindictiveness,” a rarely-met standard that usually requires evidence like a prosecutor admitting that charges were filed in retaliation against someone. But the judge did find there was enough evidence of “presumptive vindictiveness.” That included the timing of the indictment. </p><p>Homeland Security had been aware of the <a href="https://apnews.com/article/kilmar-abrego-garcia-traffic-stop-tennessee-91bc2890768163671c71eb55420b59ee">2022 traffic stop in Tennessee</a> that was the basis for the human smuggling charges for more than two years before Abrego Garcia was deported. The agency only reopened the case and began investigating in earnest after Abrego Garcia was ordered returned to the U.S. </p>
-
-<p>Crenshaw also found that statements by U.S. Attorney General Todd Blanche, who was a deputy at the time, suggested the Justice Department was targeting Abrego Garcia because he won <a href="https://apnews.com/article/el-salvador-deportation-maryland-man-trump-c21e54f77c1e6716e2998c2463f6650b">his wrongful-deportation case</a>. </p>
-
-<p>In a brief filed Monday night with the 6th U.S. Circuit Court of Appeals, federal prosecutors argued that Crenshaw got it wrong. Blanche’s statements, they argue, demonstrated a legitimate motive for prosecuting him. His rationale reflected a “normal assessment of the societal interest in punishment,” not an “improper penalty,” they said. The statements “explained that the government was seeking to protect the public and confirm its prior assertions about Abrego’s criminal activity,” the brief states.</p><p>But even if Blanche’s statements reflected an animus against Abrego Garcia, they are irrelevant because the person who actually brought the charges was then-Acting U.S. Attorney for the Middle District of Tennessee Rob McGuire, the brief states — rehashing an argument thoroughly rejected by Crenshaw that McGuire’s motives were the only motives that mattered in the case. </p>
-
-<p>Crenshaw’s ruling noted the sustained oversight of the case by top Justice Department officials, including regular communications between McGuire and Associate Deputy Attorney General Aakash Singh, in finding that the criminal case was thoroughly tainted. Crenshaw also noted that prosecutors never called as a witness the investigator who actually reopened the case, to explain why. </p><p>Abrego Garcia, 31, is a Salvadoran citizen with an American wife and child who has <a href="https://apnews.com/article/who-is-abrego-garcia-e1b2af6528f915a1f0ec60f9a1c73cdd">lived in Maryland</a> for years although he immigrated to the U.S. illegally as a teenager. A 2019 order by an immigration judge prohibited his deportation to El Salvador, finding he had a “well founded fear” of a gang that had targeted his family there. The judge allowed him to live and work in the U.S. under Immigration and Customs Enforcement supervision, but he was not given residency status.</p>
-
-<p>Blocked from re-deporting Abrego Garcia to El Salvador, the Trump administration has vowed to deport him to a third county, threatening to send him to <a href="https://apnews.com/article/abrego-garcia-deportation-el-salvador-eswatini-ca34c87e4a511ef8e0f1b602bc0844b7">Uganda, Eswatini, Ghana</a> and, most recently, <a href="https://apnews.com/article/abrego-garcia-deportation-el-salvador-liberia-cadf0b24ee7bfc8f85a943fc13631e24">Liberia</a>. Abrego Garcia has said he would agree to be <a href="https://apnews.com/article/abrego-garcia-deportation-liberia-costa-rica-immigration-e7f637d07f2135740c4d9a5d250661b9">deported to Costa Rica</a>, which has said they will accept him, but the government has so far declined to send him there. </p><p>He is fighting deportation to Liberia in a separate federal court case in Maryland. </p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/kilmar-abrego-garcia-el-salvador-deportation-smuggling-c30c324bdc979b9dbb583ac77a17bb24</guid>
-      <category>Politics</category>
-      <category>Donald Trump</category>
-      <category>Kilmar Abrego Garcia</category>
-      <category>Todd Blanche</category>
-      <category>Indictments</category>
-      <category>General news</category>
-      <category>U.S. Department of Justice</category>
-      <category>Immigration</category>
-      <category>El Salvador</category>
-      <category>MD State Wire</category>
-      <category>Latin America</category>
-      <category>Maryland</category>
-      <category>TN State Wire</category>
-      <category>Central America</category>
-      <category>Tennessee</category>
-      <category>Kilmar Abrego Garcia El Salvador deportation smuggling</category>
-      <category>Aakash Singh</category>
-      <category>Liberia</category>
-      <category>Washington news</category>
-      <category>U.S. news</category>
-      <category>United States government</category>
-      <category>Rob McGuire</category>
-      <category>Government and politics</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/396d16b/2147483647/strip/true/crop/4195x2795+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2F87%2F209c0a9cd9cf05566026d2706182%2Fefd3053192b441c4b4a065622670bb11" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 17:10:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chiefs assistant Eric Bieniemy says wife Mia is on 'a great road to recovery' after her shooting</title>
-      <link>https://apnews.com/article/kansas-city-chiefs-eric-bieniemy-nfl-d25f70326b7452182e320d6057b38d7d</link>
-      <description>Kansas City Chiefs offensive coordinator Eric Bieniemy spoke to reporters on Tuesday for the first time since his wife, Mia, was shot at their Virginia home.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/787c717/2147483647/strip/true/crop/6260x4171+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F15%2F49%2Fc8bb44615143fd6763e68b3647b5%2F4eceb1494c8e428cbfa388b14807ad63" alt="" /></p>
-<p>ST. JOSEPH, Mo. (AP) — Kansas City Chiefs offensive coordinator Eric Bieniemy joked Tuesday that he had the blessing of his wife, Mia, to return to the team after she was shot at their Virginia home because, well, “I know I was driving her and a bunch of my family members crazy in the house.”</p><p>Mia was shot the evening of July 26, and the couple’s 27-year-old son, Elijah, was arrested. Eric left the Chiefs right away to help his family through the crisis, and <a href="https://apnews.com/article/kansas-city-chiefs-eric-bieniemy-wife-a26778e448b135871b1fc82efff049b3">he returned to camp</a> last week ahead of <a href="https://apnews.com/article/rams-chiefs-score-76f0531e6d803ed6456eb86141ab7c8c">a preseason loss to the Rams</a>.</p><p>“First and foremost, yes, she’s on a great road to recovery. Yes, she’s doing great,” Bieniemy said of his wife, speaking to reporters for the first time since she was rushed to the hospital with multiple wounds. “It is one of the main reasons that I am back here, because of her recovery. She’s truly a soldier. She’s a saint. And it’s been incredible to watch.”</p>
-
-<p>Bieniemy was never far from camp, even while he was back home in Ashburn, Virginia. He was able to watch streams of practice from Missouri Western State University, and he was often conferenced into team meetings before and after the workouts.</p><p>At one point, he called Chiefs general manager Brett Veach — who he knew was seated beside coach Andy Reid — and told him to give Big Red the phone. Bieniemy proceeded to remind Reid to get on one of his players for a seemingly minor coaching point.</p>
-
-<p>“I was yelling at the screen, yelling at players, yelling at coaches — ‘What the hell are we doing?!’ I’m yelling at myself, ‘Why would you put that play in!?” Bieniemy said, smiling. “At the end of the day, I was making sure I was keeping up with what was going on.”</p>
-
-<p>At the same time, he was driving Mia and the rest of the family crazy.</p><p>“So she was like, ‘You have my blessing to leave,’” Eric said, “so it was time to get back.”</p><p>Elijah Bieniemy has been charged with malicious wounding, the use of a firearm in commission of a felony and discharge of a firearm inside a dwelling. His court appearances remain delayed <a href="https://apnews.com/article/chiefs-eric-bieniemy-shooting-5f9c6ade939436c884197902e3a4f557">pending a mental health evaluation</a>.</p><p>“I’d like to say thank you to the Hunt family, the entire Chiefs family for the outpouring, the love and support that my family has received through this particular situation,” Eric Bieniemy said. “And with all that said, we’re back to football.”</p>
-
-<p>While brash and demanding, Bieniemy is universally beloved within the Kansas City locker room. He was part of coaching staffs that helped the Chiefs reach three Super Bowls and win two, and he helped to set the foundation for the dynasty to come.</p><p>When he left a few years ago to serve as the Commanders’ offensive coordinator, it was in the hopes that calling his own plays could someday lead to an NFL head coaching job. But Washington struggled in his lone season there and the coaching staff was let go, and Bieniemy ended up spending a season at UCLA and last season coaching the running backs for the Chicago Bears.</p><p>He returned to Kansas City to replace Matt Nagy, who left to become the offensive coordinator of the Giants.</p><p>“Obviously it’s great to have him back. We missed him and prayed for his family when he was out,” Chiefs linebacker Nick Bolton said. “But to have a guy like that come back to the field, man, a competitor — it brings out the best in us.”</p>
-
-<p>NOTES: LT Josh Simmons did not practice Tuesday because of back pain. He worked out alongside RG Trey Smith, who has been out with a hip injury. ... DE Ashton Gillotte (foot) and WR Tyquan Thornton (hamstring) left practice early. Gillotte already has missed time with a hamstring injury. ... LB Drue Tranquill (back) and CB L’Jarius Snead (knee) were back in pads for the workout.</p><p>___</p><p><a href="https://apnews.com/hub/nfl">See AP’s full NFL coverage here</a></p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/kansas-city-chiefs-eric-bieniemy-nfl-d25f70326b7452182e320d6057b38d7d</guid>
-      <category>Sports</category>
-      <category>Eric Elijah Bieniemy</category>
-      <category>Andy Reid</category>
-      <category>Ashton Gillotte</category>
-      <category>Kansas City Chiefs</category>
-      <category>Virginia Cavaliers</category>
-      <category>Virginia</category>
-      <category>General news</category>
-      <category>KS State Wire</category>
-      <category>Missouri</category>
-      <category>Kansas</category>
-      <category>MO State Wire</category>
-      <category>NFL</category>
-      <category>kansas city chiefs eric bieniemy nfl</category>
-      <category>Trey Smith</category>
-      <category>Josh Simmons</category>
-      <category>Washington Commanders</category>
-      <category>Domestic</category>
-      <category>Kansas City</category>
-      <category>Nick Bolton</category>
-      <category>Athlete mental health</category>
-      <category>Elijah Bieniemy</category>
-      <category>Brett Veach</category>
-      <category>Athlete injuries</category>
-      <category>Mental health</category>
-      <category>Matt Nagy</category>
-      <category>U.S. news</category>
-      <category>Tyquan Thornton</category>
-      <category>NFL football</category>
-      <category>Football</category>
-      <category>Drue Tranquill</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/787c717/2147483647/strip/true/crop/6260x4171+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F15%2F49%2Fc8bb44615143fd6763e68b3647b5%2F4eceb1494c8e428cbfa388b14807ad63" length="0" type="image/jpeg"/>
-      <pubDate>Tue, 18 Aug 2026 17:09:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
