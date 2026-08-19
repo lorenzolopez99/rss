@@ -8,7 +8,254 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:42:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:30:47 +0000</lastBuildDate>
+    <item>
+      <title>Former Meta engineer says it had a 'don't ask, don't tell' approach on kid users</title>
+      <link>https://apnews.com/article/meta-trial-teens-instagram-bejar-oakland-858e260ddbcc45532afc6194e48a54b6</link>
+      <description>A former engineering director at Meta who has testified before Congress about child safety on Instagram told jurors at a landmark trial that the company took a “don’t ask, don’t tell” approach on kids under 13 on its platforms.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/01131d8/2147483647/strip/true/crop/6048x4030+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7a%2F57%2F47ee1b2e8ee81a600e41b2b3d7c5%2F54bbb88715e54ef6a044f741a31a0061" alt="" /></p>
+<p>OAKLAND, California (AP) — A former engineering director at Meta who has testified before Congress about child safety on Instagram told jurors Wednesday at a <a href="https://apnews.com/article/meta-trial-oakland-states-instagram-safety-2b617764a8ddc4846f74f59d0c4516b8">landmark trial</a> that the company took a “don’t ask, don’t tell” approach on kids under 13 on its platforms. </p><p>During his second day of testimony, <a href="https://apnews.com/article/social-media-teens-meta-instagram-arturo-bejar-5f7fb7d55fb9f0da12cf3a57837fa0c5">Arturo Béjar</a> said Meta consistently prioritized profits over safety in designing its products, focusing on how often and for how long people used them, even if it was detrimental to their mental well-being. </p><p>“If you step away from the product, they are not going to make any money,” he said. </p><p>The trial that began Tuesday in federal court in Oakland, California, pits Meta against the states of California, Colorado, Kentucky and New Jersey and is expected to last about six weeks. The four states were among 29 that <a href="https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28">sued the tech giant</a> in 2023 over child safety and privacy — the other 25 will go to trial later. The company also <a href="https://apnews.com/article/meta-social-media-trials-50b3050f8e257e578a9b5c02a947c95a">faces lawsuits</a> in state courts, including one underway in Tennessee.</p>
+
+<p>The lawsuit accuses Meta of contributing to the youth <a href="https://apnews.com/article/social-media-victims-harm-kosa-f7bb6fb95ab761d53d2d1f135eca2f27">mental health crisis</a> by knowingly and deliberately designing features that <a href="https://apnews.com/article/influenced-social-media-mental-health-advice-620e277528728498c1202690d0512f85">addict children</a> to its platforms and hide these harms from the public. It also argues that Meta routinely collects data on children under 13 without their parents’ consent, in violation of federal law.</p><p>“The attitude in particular on Instagram was ‘Don’t ask, don’t tell,’” Béjar said in response to a question about his perception of the company’s attitude towards users under 13.</p>
+
+<p>The company has rejected the claims and said evidence at the trial will show its commitment to safety.</p><p>“You will hear over the course of this case a lot of important issues, issues like teen mental health, issues like social media, issues like how teens use social media,” Meta lawyer Paul Schmidt said Tuesday. “Those are important issues, and they’re issues where Meta believes that it has a responsibility. It has a responsibility to act on its own. It has a responsibility to try to work with teens and parents in partnership to try to address those questions.”</p>
+
+<h2>Plaintiffs’ witness says safety was an ‘afterthought’</h2><p>Béjar worked at Facebook from 2009 to 2015, attracting wide attention for his work to combat cyberbullying. He returned from 2019 to 2021 as a contractor to work on safety issues. He <a href="https://apnews.com/article/social-media-teens-meta-instagram-arturo-bejar-5f7fb7d55fb9f0da12cf3a57837fa0c5">testified before Congress in 2023</a> about social media and the teen mental health crisis, saying that Meta executives, including CEO Mark Zuckerberg, knew about harms Instagram was causing but chose not to make meaningful changes to address them.</p>
+
+<p>In his testimony Wednesday, Béjar said employee performance reviews and compensation for those who worked on user-facing products were mostly focused on user numbers and how long they spend with those products.</p>
+
+<p>“In that context, safety was an afterthought,” he said. </p><p>The states are seeking changes to user experiences for Facebook and Instagram as well as financial damages, which could include billions of dollars in penalties. In a written statement, the office of California’s attorney general said if Meta loses, the amount of any damages would be set by the court. </p><p>“This case is about stopping Meta from offering a dangerous product to teens, and from lying to teens, families, and the public about the dangerousness of their platforms. The primary remedy under our state consumer protection law is an injunction,” the statement said.</p>
+
+<p>Béjar walked through Meta features he said were designed for adults and are “inherently unsafe for teenagers.”</p><p>This includes video autoplay, which can mean teens see videos that may cause them harm even if they don’t click on them; as well as various counters that track how many people liked, viewed or commented on your content or how many followers you have.</p><p>Child development experts have noted teenagers are more susceptible to social comparison than adults, so products that reward popularity can be more harmful to their mental health. </p><h2>Age verification has been criticized for not going far enough</h2><p>Meta says users must be at least 13 years old to create an account, in line with federal child privacy laws.</p><p>But Béjar testified that he found “tens of thousands” of kids under 13 on Instagram through his research. He said it was “common knowledge” at the company that such young children were on Instagram.</p>
+
+<p>“Meta has one of the most sophisticated infrastructures in the world to detect fake accounts,” he said. But despite that, he added, there were “no goals, no metrics” to detect and check kids’ ages who were suspected to be under 13.</p><p>Over the years, Meta has introduced features it says are designed to make the experience safer for young people. But Béjar said these did not work. </p><p>For instance, a <a href="https://apnews.com/article/technology-business-europe-media-social-media-6e6967d77f2d90fa89ea839d684ae4fb">tool called “Take a Break</a>,” introduced in 2021, is a feature that is “designed to fail,” he said. First, it is a setting that people have to turn on if they want to use it. Béjar said that in his experience building settings, very few users actually go through the trouble of turning them on. He compared it to an airbag that drivers have to turn on every time they get in a car. </p><p>“A safety tool has to be on by default,” he said.</p>
+
+<p>The feature can also be dismissed with a tap of a finger. If Meta was serious about wanting users to take a break, Béjar said, it would not be so easily swiped away. </p><p>___</p><p>AP Technology Writer Kaitlyn Huamani contributed to this story from Los Angeles.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/meta-trial-teens-instagram-bejar-oakland-858e260ddbcc45532afc6194e48a54b6</guid>
+      <category>Business</category>
+      <category>Meta Platforms, Inc.</category>
+      <category>Arturo Béjar</category>
+      <category>General news</category>
+      <category>Kentucky</category>
+      <category>New Jersey</category>
+      <category>Colorado</category>
+      <category>Social media</category>
+      <category>Teens</category>
+      <category>Trials</category>
+      <category>Juries</category>
+      <category>Domestic News</category>
+      <category>KY State Wire</category>
+      <category>CO State Wire</category>
+      <category>TN State Wire</category>
+      <category>California</category>
+      <category>Tennessee</category>
+      <category>Meta trial teens Instagram Bejar Oakland</category>
+      <category>Lawsuits</category>
+      <category>Paul Schmidt</category>
+      <category>U.S. news</category>
+      <category>Courts</category>
+      <category>Privacy</category>
+      <category>Engineering</category>
+      <category>Technology</category>
+      <category>Legal proceedings</category>
+      <category>Mark Zuckerberg</category>
+      <category>Mental health</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/01131d8/2147483647/strip/true/crop/6048x4030+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7a%2F57%2F47ee1b2e8ee81a600e41b2b3d7c5%2F54bbb88715e54ef6a044f741a31a0061" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 19:23:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Restaurants prep to post origin country for shrimp</title>
+      <link>https://apnews.com/article/georgia-law-restaurants-foreign-shrimp-24055cce2c7e33e410d0c7a652d309b8</link>
+      <description>Coastal Georgia is known for its hospitality as well as its shrimp-abundant waterways and estuaries.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/3603c95/2147483647/strip/true/crop/7088x4723+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fac%2F4b%2Febe91cf798b592d6f55dde9bb39d%2Ffb9a38d0a4bd4efbba83c9b760e98968" alt="" /></p>
+<p>Coastal Georgia is known for its hospitality as well as its shrimp-abundant waterways and estuaries. However, not all restaurants along the coast source their seafood from local waters, while allowing people to assume they do. </p><p>Foreign imports have flooded the market in the United States, selling farm-raised shrimp for lower prices and making it difficult for local shrimpers to compete. </p><p>A new state law, <a href="https://www.legis.ga.gov/legislation/69470">House Bill 117</a>, took effect on July 1, turning the tide for both Georgia shrimpers and the state’s restaurants. The bill requires that all Georgia restaurants, excluding those operated by a state agency, disclose whether the menu items they serve contain foreign imported shrimp.</p><p>The disclosure can be labeled either on the menu or on signs visible to the public. While HB 117 has officially been signed into law, it will not be enforced until January in order to give restaurants time to prepare. Chefs and restaurant owners around downtown Savannah, many food service establishments who sell imported shrimp say they are in no hurry to update their menus.</p>
+
+<p>State Rep. Jesse Petrea, who represents parts of Chatham and Bryan counties, sponsored HB117. Petrea drafted the bill with the intent of providing transparency for consumers to make informed decisions about the seafood that they choose to buy.</p><p>“There’s a lack of information by consumers,” said Petrea, “and what you discover, if you dig superficially, is that we have huge problems with foreign imports having a multitude of things that cause them to be sent back.”</p>
+<p>According to the U.S. Food and Drug Administration (FDA), <a href="https://www.fda.gov/food/conversations-experts-food-topics/enhancing-safety-imported-shrimp-through-regulatory-partnerships">94% of all seafood</a> consumed in the U.S. is imported, with shrimp being the most popular seafood product in the nation. Although federal programs serve to ensure the safety of our food, foreign imports are sometimes <a href="https://www.accessdata.fda.gov/cms_ia/industry_16.html">flagged</a> or recalled by the FDA as unfit for consumption.</p>
+
+<p>A notable instance of shrimp contamination that reached the mainstream media was coined as “radioactive shrimp.” In 2025 the FDA announced a <a href="https://www.fda.gov/safety/major-product-recalls/2025-recalls-frozen-shrimp-products-associated-cesium-137-contamination-pt-bahari-makmur-sejati-due">recall</a> on frozen shrimp imported from Indonesia for testing positive for Cesium-137 (Cs-137). </p>
+
+<p>But the impacts of HB 117 doesn’t just concern safety, it’s also intended to keep Georgia shrimpers in business.</p><p>“If people think they’re eating domestic, as they usually do when they aren’t, then we have almost lost our entire shrimp and fleet,” said Petrea. “And when we lose that, when America can’t feed itself, that’s a loss that you don’t just fix overnight.”</p>
+
+<h2>From boat to fork</h2><p>Dockside restaurants are a main attraction on Tybee Island, Savannah and Brunswick, drawing in both locals and tourists with the full experience of Georgia’s marshes and rivers. With the sound of seagulls and the smell of salty air, diners at these dockside restaurants expect their dinner to come from the coast. However, several establishments serve imported shrimp despite being near shrimp-abundant waters.</p><p>Some Tybee Island businesses such as Bubba Gumbo’s and Sea Wolf Tybee, take pride in serving fresh seafood and supporting local shrimpers. </p>
+
+<p>Tom Worley, owner of Sea Wolf Tybee, explained that a shortened supply chain can lead to a better product when it comes to shrimp. By cutting out the middle distributors, restaurants are able to ensure that the safety and quality of the shrimp doesn’t degrade in transportation due to temperature fluctuations. Sourcing from local shrimpers also has the benefit of building trust and clear communication between restaurant owners and suppliers.</p><p>“You have a better control over what you’re eating when it comes from a closer source,” said Worley.</p><p>Food service establishments that sell imported shrimp for some portions of the year benefit from getting more bang for their buck as food distributors allow them to buy imported shrimp at a lower price for large purchases. </p><p>A general manager at Dockside Seafood in Savannah, Chase Crenshaw, said that the restaurant buys shrimp from Ecuador, a decision he said “just made sense” to them. He claimed that shrimp imported from Ecuador and Georgia shrimp is similar as far as taste and quality. Crenshaw said that while many restaurants use low quality shrimp to make a couple extra dollars, Dockside is willing to narrow its margins a little more to buy Ecuadorian shrimp. Crenshaw described local shrimp as being something that is hard for their restaurant to find due to the inflated cost. </p><p>“At the end of the day, we’re all out here trying to survive, and you know, we try and give the customers the best quality we can while also being able to make a couple dollars ourselves,” he said.</p>
+
+<p>But while making a profit is, of course, essential for running a business, a disclosure on shrimp origin is long overdue as customers are often misled as to who is serving local shrimp and who isn’t. Even restaurants who decorate their walls with fishing nets and model shrimping boats may not be meeting the standards that their customers expect.</p><p><a href="https://thecurrentga.org/2025/03/04/dna-tests-find-which-savannah-restaurants-do-dont-serve-local-shrimp/">DNA tests conducted in 2025</a> found that only 10 of 47 samples of shrimp from 44 restaurants tested in Savannah, Tybee Island and Port Wentworth were American species. Tests from the <a href="https://thecurrentga.org/2025/12/16/dna-testing-shows-golden-isles-restaurants-serve-american-shrimp/">Golden Isles</a> — Darien, Jekyll Island, St. Simons Island and Brunswick — showed 43 out of 44 restaurant samples were wild-caught, American shrimp. This study ultimately boosted the approval of HB117 and revealed mislabeling and false perceptions about shrimp served in restaurants tested.</p>
+
+<p><a href="https://www.seadconsulting.com/about-us">SeaD Consulting</a>, the firm hired to conduct DNA tests, released a list of 10 restaurants that passed the test but did not name the restaurants that failed the test for locally sourced shrimp. </p><p>Some restaurant owners and managers say they felt the DNA results weren’t communicated fairly because the list released only names of those that tested positive for local shrimp. For example, Bubba Gumbo’s, a locally owned restaurant and marina on Tybee Island which serves shrimp fresh off the nearby dock, wasn’t tested, and therefore did not make it onto the “nice” list.</p><p>“It left all of it up to the consumer’s assumption, you know, with them saying only these restaurants were tested positive for selling domestic shrimp,” said Chris Gulser, executive chef at Bubba Gumbo’s. “That meant people immediately thought that we weren’t selling domestic shrimp.” </p><p>In spite of the initial public misunderstanding that resulted from Bubba Gumbo’s being excluded from the DNA testing, Gusler expressed the importance that restaurants on Tybee be transparent as to where they source their shrimp. When vacationing diners come to Tybee Island, they likely expect to get fresh, Georgia shrimp, he said. </p><p>“They’re expecting a specific product and they should be able to get that product,” said Gusler.</p><p>John Wallace, shrimper and owner of Anchored Shrimp Company in Brunswick, says that HB117 can be nothing but good for shrimpers and shrimp sellers. Wallace explains how foreign imports have the largest hand in controlling the cost of staying in business. In recent years, the profit margin for the local shrimping industry has dwindled, with the price of shrimp rarely keeping up with inflation.</p><p>“I was actually getting more for shrimp in 1979 than I am today,” said Wallace. “In 1979, my net cost me $400, which now has cost me $4000. Also, fuel back then was less than a dollar, and sometimes it gets between $4 and $5 now.”</p><p>Wallace believes that as HB117 begins to take effect, many consumers will begin to take interest in supporting local shrimpers.</p><p>“We can already see interest changing. You know, we’re getting more and more calls for the product,” said Wallace.</p><p>___</p><p>This story was originally published by <a href="https://thecurrentga.org/">The Current</a> and distributed through a partnership with The Associated Press.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/georgia-law-restaurants-foreign-shrimp-24055cce2c7e33e410d0c7a652d309b8</guid>
+      <category>Business</category>
+      <category>Jesse Petrea</category>
+      <category>Georgia</category>
+      <category>International trade</category>
+      <category>Food safety</category>
+      <category>General news</category>
+      <category>Tariffs and global trade</category>
+      <category>GA State Wire</category>
+      <category>georgia law restaurants foreign shrimp</category>
+      <category>U.S. news</category>
+      <category>Savannah</category>
+      <category>Georgia state government</category>
+      <category>John Wallace</category>
+      <category>U.S. Food and Drug Administration</category>
+      <category>Chris Gulser</category>
+      <category>Tom Worley</category>
+      <category>Hospitality and leisure industry</category>
+      <category>Brunswick</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/3603c95/2147483647/strip/true/crop/7088x4723+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fac%2F4b%2Febe91cf798b592d6f55dde9bb39d%2Ffb9a38d0a4bd4efbba83c9b760e98968" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 19:22:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Whistleblower LA police officer spared felony charges for exposing racist remarks</title>
+      <link>https://apnews.com/article/los-angeles-police-racist-eavesdropping-recording-charges-988534b8302b2a5a9cbd27d73292e838</link>
+      <description>The Los Angeles district attorney has reduced felony charges against a police officer who secretly recorded colleagues making racist remarks.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/35505c8/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2F5b%2Fb80db3be4c75d3b0cec4e6ed9346%2F744186bfa49d4a4bb82d6a0fae09170c" alt="" /></p>
+<p>LOS ANGELES (AP) — The Los Angeles district attorney has backed off felony charges against a police officer who secretly recorded his colleagues making racist remarks after facing criticism the response was too harsh and could deter whistleblowers from coming forward.</p><p>Los Angeles Police Officer Daniel Flores was charged in July with 16 felonies after he shared recordings last year that captured officers in LAPD’s recruitment division making racist and sexist comments. He reported those recordings to the LAPD’s internal affairs in early 2025. The Los Angeles Times first reported the existence of the tapes at the time.</p><p>More than a year after the tapes were shared, District Attorney Nathan Hochman charged Flores for violating a decades-old California eavesdropping statute that prohibits secret recordings without informed consent of all parties present. He faced up to 13 years in prison. </p>
+
+<p>But those charges prompted swift backlash, including from Flores’ attorney, who said it was wrong to prosecute Flores for exposing bad behavior. Attorney Alan Jackson <a href="https://www.latimes.com/california/story/2026-07-31/lapd-officer-felony-eavesdropping-charge">told the LA Times</a> in July that the charges sent a message that “if you document bigotry inside the LAPD, you will be the one who ends up in a courtroom. It tells them the safe move is to hear slurs and say nothing.”</p><p>Hochman on Wednesday said he still believed Flores violated the law, but announced that prosecutors would downgrade all 16 charges to misdemeanors. That will allow Flores to enter a diversion agreement, which means he can avoid jail time as long as he doesn’t violate any laws for a year. Jackson did not respond to an emailed request for comment on Wednesday morning.</p>
+<p>Hochman said his office was “listening to the impact the case was having on potential whistleblowers” when it decided to reduce the initial charges, which he said, “sent the wrong message” to the public. Hochman vehemently denounced the comments made by the other officers, saying the remarks amounted to “hate speech.” But he said that there wasn’t evidence that they amounted to a hate crime, which prevented his office from criminally prosecuting those who made the comments.</p>
+
+<p>The recordings Flores shared with LAPD internal affairs showed other officers making a wide array of offensive comments. Officers joked about a famous Latino baseball pitcher dying from eating “too many tacos,” invoked racist tropes about Black people, and on one occasion called a young LAPD recruit “rapeable” because they were “someone who could be taken advantage of,” according to a motion filed by the district attorney’s office.</p>
+
+<p>Hochman condemned the officers’ remarks on Wednesday, but said that he still adamantly believes Flores should face some consequences for breaking the law. He said he hoped his decision would encourage officers to work with the district attorney’s office to gather evidence through legal channels.</p>
+
+<p>“Here we have an LAPD officer who should know the law better than anyone else,” he said, adding later that his office works “every single day with individuals who are whistleblowers who have brought wrongdoing forward through legitimate means.”</p>
+
+<p>Flores was found guilty in a separate, internal LAPD investigation, and given a 22-day suspension without pay, <a href="https://www.latimes.com/california/story/2026-07-31/lapd-officer-felony-eavesdropping-charge">the LA Times reported</a>. It is not clear whether Flores served that time. The LAPD also opened confidential disciplinary hearings against the officers who made the comments, but the department has not said whether anyone has been disciplined.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/los-angeles-police-racist-eavesdropping-recording-charges-988534b8302b2a5a9cbd27d73292e838</guid>
+      <category>U.S. News</category>
+      <category>Daniel Flores</category>
+      <category>Nathan Hochman</category>
+      <category>Los Angeles</category>
+      <category>Law enforcement</category>
+      <category>Indictments</category>
+      <category>General news</category>
+      <category>Racism</category>
+      <category>Crime</category>
+      <category>Domestic News</category>
+      <category>California</category>
+      <category>Los Angeles Police racist eavesdropping recording charges</category>
+      <category>Alan Jackson</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/35505c8/2147483647/strip/true/crop/3000x1999+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fb4%2F5b%2Fb80db3be4c75d3b0cec4e6ed9346%2F744186bfa49d4a4bb82d6a0fae09170c" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 19:15:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>'It Ends' review: Postgrad malaise turns into an existential horror</title>
+      <link>https://apnews.com/article/it-ends-movie-review-e3a19d944482f1b9b44f0ccd03e35438</link>
+      <description>Four young 20-something friends find themselves trapped on an endless road to nowhere in the existential horror “It Ends.”</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/2ea65c8/2147483647/strip/true/crop/2324x1549+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2F16%2Fb2f3d80a16d8bb258e2aec86f64e%2F2fc617191b00414ba4bffe0482ef8623" alt="" /></p>
+<p>Every generation deserves its own postgrad malaise movie. Not every attempt is going to be “The Graduate” or “Frances Ha,” but even when they’re mediocre, they’re also often a <a href="https://apnews.com/hub/movies">pure expression</a> from a young filmmaker about what their contemporaries are feeling at that exact moment.</p><p>Though the details may change — the clothes, the hairstyles, the gadgets, the soundtrack — the vibe kind of stays the same even in a high concept horror like “It Ends,” in which four friends find themselves on an endless road to nowhere. It’s kind of reassuring, unlike, say, the encroaching doom of adulthood.</p><p>“It Ends” was written and directed by Alexander Ullom, who graduated from college during <a href="https://apnews.com/hub/covid-19-pandemic">the pandemic</a> and is open about how he struggled with dissociative depression. You don’t need to know this to watch the film, but it makes sense once you’ve met James (Phinehas Yoon). He’s the rational and inquisitive one whose seen-it-all-already jadedness about his future is its own kind of poison. </p>
+
+<p>Somehow, however, he hasn’t alienated his high school friends. They still like him enough to help him move into his new apartment (which is, by all accounts, super depressing). We meet them as they all cram into a white Jeep Cherokee to find some food. Tyler (Mitchell Cole) is driving, and Fisher (Noah Toth) is leading a spirited discussion about which animals they’d pick to defend them (10,000 rats, 50 hawks, one man with a gun, or five gorillas etc., etc.). It was, apparently, a popular meme for a time. Day (Akira Jackson) is navigating with her phone’s maps app and wondering whether she could choose gorillas trained to use guns as a loophole.</p><p>Tyler is the outlier in this group, the one who didn’t go to college. He went into the military and has been working for some time in HVAC. He’s even talking about wanting to get married sooner rather than later. And he’s the only one with a discernable Southern accent (they’re apparently in Florida).</p>
+<p>The others are all just out of college and really feeling it. Day is ambling around on job search sites, trying to put her graphic design degree to work. James has an entry level engineering job and his future all mapped out (although the way he describes his inevitable life in a Midwestern city in which he’s married with kids and making six figures sounds like a death sentence). He’d rather, he says, be in a medically induced coma hooked up to “oxy serotonin” cocktails. Personally, I prefer Noah Baumbach’s line from “Kicking and Screaming” about wishing they were just retiring after a lifetime of hard work to the drugged out coma thought, but I long ago aged out of the postgrad demo.</p>
+
+<p>Is it believable that these four would have stayed friends in high school and beyond? Not really, especially Tyler. But there needs to be a few different types to handle their new predicament of seemingly being stuck forever on a country road in this Jeep. Some hope in vain for a way out. Some are content to pass the time as happily and aimlessly as they can (learn dances, tell jokes, scream sometimes). James just wants to understand. And then there’s the question of the zombielike people in the woods who attack when they stop for more than 90 seconds, which is good for a few jump scares. The metaphors might not be especially subtle, but the film does have a kind of hypnotic appeal.</p>
+
+<p>With its minimalist approach, “It Ends” almost feels like a pandemic-era production. It’s a neat concept that wears a little thin after a while, but it’s a movie that shows promise not only in Ullom’s ability to create a sustained, ominous mood, but in his eye for casting a group of talented and essentially unknown actors.</p>
+
+<p>Ullom’s bio says that he “makes films for anyone going through stuff.” And Gen Z, like all the generations before them and all the generations after, are certainly in the thick of “going through stuff.” Maybe “It Ends” is just what they need. </p><p>“It Ends,” a Neon release in New York and Los Angeles on Friday and nationwide Aug. 28, is rated R by the Motion Picture Association for “pervasive language.” Running time: 89 minutes. Two and a half stars out of four. </p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/it-ends-movie-review-e3a19d944482f1b9b44f0ccd03e35438</guid>
+      <category>Entertainment</category>
+      <category>Alexander Ullom</category>
+      <category>Movies</category>
+      <category>Film Reviews</category>
+      <category>it ends movie review</category>
+      <category>Los Angeles</category>
+      <category>Noah Baumbach</category>
+      <category>New York</category>
+      <category>Arts and entertainment</category>
+      <category>Akira Jackson</category>
+      <category>Lindsey Bahr</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/2ea65c8/2147483647/strip/true/crop/2324x1549+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2F16%2Fb2f3d80a16d8bb258e2aec86f64e%2F2fc617191b00414ba4bffe0482ef8623" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 19:12:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rescue mission is off to boost NASA's aging Swift space telescope</title>
+      <link>https://apnews.com/article/swift-telescope-nasa-satellite-rescue-800bfbe5aaba5fec9aadd20bdcc138a5</link>
+      <description>The mission to save NASA's sinking space telescope has been called off. NASA and Katalyst Space Technologies announced the news Wednesday.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/5be84fe/2147483647/strip/true/crop/4008x2671+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0f%2F25%2F9f0a859c29eace051b144046c46b%2Fbc82e027d35b47bf9f3061ca47048de1" alt="" /></p>
+<p>CAPE CANAVERAL, Fla. (AP) — The mission to save <a href="https://apnews.com/article/nasa-swift-satellite-rescue-mission-f715e10a93c1015e280a7ccd1028a9c4">NASA’s sinking Swift Observatory</a> was called off Wednesday, dooming the telescope to a fiery reentry later this year.</p><p>NASA and Katalyst Space Technologies announced the news more than a month after the startup’s <a href="https://apnews.com/article/swift-nasa-satellite-rescue-katalyst-a7ddd740ca099587c58865f583c7245a">Link spacecraft rocketed away to the telescope’s rescue</a>. </p><p>Katalyst said Link will not attempt to capture Swift and boost it to a higher orbit because of problems with controlling the spacecraft. NASA said this means the telescope will plunge through the atmosphere after more than 20 years of tracking some of the biggest explosions in the universe like gamma ray bursts and exploding stars. </p><p>NASA paid $30 million to Katalyst in an attempt to raise the telescope to a safer, longer-lasting orbit. Intense solar activity caused it to lose altitude faster than expected. The rescue spacecraft went into an uncontrollable spin a few weeks after its liftoff in early July. While flight controllers managed to slow Link’s tumble, issues continued to plague its pointing and positioning in orbit.</p>
+
+<p>“This is not the outcome we were working toward, but it does not change why this mission was worth attempting,” NASA Administrator Jared Isaacman said in a statement. </p><p>As a consolation prize, Katalyst will continue to operate Link in proximity with the telescope to demonstrate capabilities for future rescue operations.</p>
+
+<p>Katalyst CEO Ghonhee Lee said it was an ambitious mission on an aggressive timeline that was thrown together in under a year .</p><p>“We took on this high-risk, high-reward challenge and are proud of the milestones we reached along the way,” Lee said in a statement. “We have already learned a tremendous amount.” </p>
+
+<p>Launched in 2004, Swift’s science instruments were turned off earlier this year to slow its descent. It was orbiting 216 miles (347 kilometers) high as of last week. </p><p>NASA’s Hubble Space Telescope could benefit from an orbital boost and had been next in line for a rescue attempt had this mission gone well. The 36-year-old Hubble is also dropping in orbit because of all the sun’s recent outbursts. It wasn’t immediately known whether Hubble is now out of luck. </p><p>___</p><p>The Associated Press Health and Science Department receives support from the Howard Hughes Medical Institute’s Department of Science Education and the Robert Wood Johnson Foundation. The AP is solely responsible for all content.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/swift-telescope-nasa-satellite-rescue-800bfbe5aaba5fec9aadd20bdcc138a5</guid>
+      <category>Science</category>
+      <category>National Aeronautics and Space Administration</category>
+      <category>Aerospace and defense industry</category>
+      <category>General news</category>
+      <category>Florida</category>
+      <category>AP Top News</category>
+      <category>FL State Wire</category>
+      <category>swift telescope nasa satellite rescue</category>
+      <category>U.S. news</category>
+      <category>Technology</category>
+      <category>Spacecraft</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/5be84fe/2147483647/strip/true/crop/4008x2671+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0f%2F25%2F9f0a859c29eace051b144046c46b%2Fbc82e027d35b47bf9f3061ca47048de1" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 19:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ice-cream cones, the ingenious invention of American immigrants</title>
+      <link>https://apnews.com/article/ice-cream-cones-history-fair-5c942d2ad73d27a94c922abdb02ef94e</link>
+      <description>Ice cream was a rare and expensive treat for centuries because of the difficulty of storing ice. That changed in the 1800s, when inventions like mechanical refrigeration made ice cream cheaper and more accessible.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/c825209/2147483647/strip/true/crop/6744x4494+0+4/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2F7c%2Ff8c42a39fd30b8361b7bc48274c7%2Fd430bc2e817e456dac0dd17dcdd0d6fd" alt="" /></p>
+<p>DETROIT (AP) — Read this quickly, before it melts.</p><p>Ice cream was a rare and expensive treat for centuries because of the difficulty of storing ice. In the summer of 1790, President George Washington spent $200 on ice cream, the equivalent of $7,259 today, according to the International Dairy Foods Association. </p><p>By the 1800s, inventions like mechanical refrigeration had made ice cream cheaper and more accessible. But America’s pushcart vendors needed a way to serve ice cream to customers.</p><p>Enter “penny licks.” Customers would pay a penny for a scoop of ice cream served in a thick glass, which they would lick clean and hand back to the vendor. The glass — sometimes rinsed, sometimes not — was then filled for the next customer. But vendors were frustrated by broken glass and cities were concerned about the spread of disease. London banned penny licks in 1898.</p>
+
+<p>Italian immigrants came to the rescue. In 1902, Antonio Valvona, an ice-cream maker living in Manchester, England, was granted a U.S. patent for a metal mold that could form edible waffle-like cups. He quickly started selling the cups on both sides of the Atlantic.</p><p>The following year, Italo Marchiony, an ice cream vendor in New York, was granted a patent for a similar device. Marchiony went on to develop the ice-cream sandwich.</p>
+
+<p>But it was the 1904 St. Louis World’s Fair that gave the ice-cream cone its now-familiar shape and vaulted it to popularity.</p><p>Several concessionaires at the fair have been touted as the inventors of the ice-cream cone. Joy Baking Group, founded in 1918 and currently making 2 billion cones a year, credits Ernest Hamwi, a 20-year-old Syrian immigrant.</p>
+
+
+<p>Hamwi was selling zalabiyeh – a crisp, fried pastry – in a booth next to Albert Aboussie, a Lebanese-born ice cream vendor. When Aboussie ran out of paper cups, Hamwi began rolling his pastries into cones dubbed “cornucopias.” They were an instant hit.</p>
+
+
+
+<figure class="Figure" data-openoverlay="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figcaption class="Figure-caption"><p>Ice cream on a waffle cone is displayed in Phoenix, Wednesday, Aug. 19, 2026. (AP Photo/Dario Lopez-Mills)</p></figcaption>
+
+
+</figure>
+
+
+
+
+<p>By 1910, “cornucopia” had been simplified to “cone,” and Hamwi founded the Missouri Cone Co.</p><p>Cone technology quickly advanced, with machines replacing hand-rolling. For those who wanted a lighter texture, the cake cone arrived in the early 1940s — around the time Dairy Queen and Baskin-Robbins emerged.</p><p>Increasingly health-conscious Americans eat less ice cream than they used to. In 1984, the average American consumed 17.8 pounds of regular ice cream each year, according to the U.S. Department of Agriculture. By 2024, that had fallen to 12 pounds.</p><p>But as anyone from George Washington to Ben &amp; Jerry could tell you, on a hot summer night it’s a treat that’s hard to beat.</p>
+
+<p>Part of a recurring series, “American Objects,” marking the 250th anniversary of the United States. For more American objects, click <a href="https://apnews.com/american-objects">here</a>. For more stories on the anniversary, click <a href="https://apnews.com/hub/america-250">here</a>. </p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/ice-cream-cones-history-fair-5c942d2ad73d27a94c922abdb02ef94e</guid>
+      <category>Lifestyle</category>
+      <category>George Washington</category>
+      <category>General news</category>
+      <category>America at 250</category>
+      <category>Food &amp; Recipes</category>
+      <category>ice cream cones history fair</category>
+      <category>Albert Aboussie</category>
+      <category>Antonio Valvona</category>
+      <category>Ernest Hamwi</category>
+      <category>Business</category>
+      <category>U.S. news</category>
+      <category>Food and drink</category>
+      <category>St. Louis</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/c825209/2147483647/strip/true/crop/6744x4494+0+4/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcc%2F7c%2Ff8c42a39fd30b8361b7bc48274c7%2Fd430bc2e817e456dac0dd17dcdd0d6fd" length="0" type="image/jpeg"/>
+      <pubDate>Wed, 19 Aug 2026 18:46:56 +0000</pubDate>
+    </item>
     <item>
       <title>'Many' Fed officials think higher rates will be needed if inflation stays high</title>
       <link>https://apnews.com/article/federal-reserve-rates-inflation-warsh-0030d04832b89b564b743b34ab2cd8de</link>
@@ -811,218 +1058,6 @@
       <category>Washington news</category>
       <enclosure url="https://dims.apnews.com/dims4/default/d2c3dcc/2147483647/strip/true/crop/8403x5599+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F7f%2F2e%2F8cdf543a86953796088215fdfda2%2Fdf3ae3808004443da6929f653b7593c9" length="0" type="image/jpeg"/>
       <pubDate>Wed, 19 Aug 2026 13:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Screwworm hinders shelters' efforts to save rescued dogs and cats</title>
-      <link>https://apnews.com/article/screwworm-animal-shelters-dogs-cats-texas-40826cd035d7a5c4fbb40f2c1d961133</link>
-      <description>The first New World screwworm outbreak in Texas in 60 years is hindering efforts to move rescued dogs and cats out of crowded animal shelters to states where they would be adopted.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/f994b34/2147483647/strip/true/crop/5760x3838+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F02%2F6a1a7649aadd3bd1ccd52e2ec0f0%2Fb5e28b81eef24b4395fcc169b428cc3b" alt="" /></p>
-<p>Adoptions are on hold for thousands of dogs and cats in Texas, potentially putting the animals at risk of being euthanized, because of efforts to stop the <a href="https://apnews.com/article/screwworm-flesh-eating-parasite-cattle-texas-2efc5ec69d9651b5c0bab4825eda4976">spread of the New World screwworm</a>, an insect that has crossed the border from Mexico into the United States for the first time in 60 years.</p><p>The flesh-eating parasite threatens the nation’s $113 billion beef industry, prompting federal officials to close the border to cattle movements. Because the screwworm <a href="https://apnews.com/article/screwworm-parasite-threatens-pets-texas-2810ee9f3ca8beea92f1ec4bc37c1191">also can infect pets</a>, most states have restricted the movement of animals from infested areas of Texas, leading to crowded conditions in state shelters that rely on adoptions to other regions of the country.</p><p>“It’s thrown a wrench into things, for small rescues as well as the bigger shelters,” said Mia Bendixsen, executive director of the Texas Humane Legislation Network, which promotes animal welfare laws.</p>
-
-<p>The screwworm can lay eggs that hatch into flesh-eating larvae in wounds or mucous <a href="https://apnews.com/article/screwworm-parasite-threatens-pets-texas-2810ee9f3ca8beea92f1ec4bc37c1191">on any mammal</a>, and of the dozens of infections in southern Texas and southeastern New Mexico, several have been in dogs. Forty-four states have restricted the movements of pets from infested areas, creating a hardship for shelters from Texas that typically send thousands of animals to other states each year.</p><p>In Corpus Christi, the Gulf Coast Humane Society couldn’t get rescued dogs into New York state for weeks, causing the shelter’s animal population to climb from around 325 to nearly 450.</p>
-
-<p>The shelter, which sends about 500 dogs a year outside Texas, created more space in outdoor exercise areas until New York again allowed dogs from Texas — if a veterinarian first certified that each one wasn’t infected with the screwworm.</p><p>She added that if her shelter doesn’t have space to take animals from municipal shelters, “then they have to euthanize more animals.”</p>
-
-<h2>Texas has a surplus of dogs and cats for adoption</h2><p>Moving dogs and cats from Texas to other states, particularly in the Northeast or Great Lakes region, has become crucial to saving stray and abandoned animals.</p><p>In 2025, Texas had more unadopted dogs transferred out of its shelters than any other state — nearly 89,000, according to the American Society to Prevent Cruelty to Animals. Texas also euthanized about 45,000 dogs — more dogs than any other state, according to the data.</p>
-
-<p>And Texas led in the number of cats transferred out of its shelters — nearly 53,000 — and was second to California in those euthanized, with almost 29,000.</p><p>Texas has more stray dogs and cats than any state other than California — about 439,000 in 2025 — largely because of its high population and size. Warm weather also allows stray animals to survive longer and breed more, said veterinarians and animal welfare advocates. They added that Texas pet owners seem less willing to spay or neuter their dogs.</p><p>“There are people with working ranch and farm dogs, both male and female, who feel like the animal will lose some of its drive,” said veterinarian Lori Teller, executive director of the Texas Veterinary Medical Association.</p>
-
-<h2>Both shelters and animals are stressed</h2><p>In Houston, Humane Society shelter Director Aaron Grady said an inability to send animals out of state has left them more stressed.</p><p>“If an adopter comes through and they’re going from kennel to kennel and they see one dog who may be sitting calmly and contentedly in one kennel and then in the next kennel, there’s one dog who’s bouncing off of the walls and barking because of how stressed they are, first one may be looking more desirable,” Grady said.</p><p>The Houston shelter has worked to keep its animal population — mostly cats and dogs — at about 200 by tapping a network of foster homes for up to 300 more and by helping pet owners keep their animals even a little longer.</p>
-
-<h2>Most states have tightened rules for importing animals</h2><p>Restrictions on animal transports followed efforts by the U.S. Department of Agriculture to keep the New World screwworm fly from crossing the border with Mexico.</p><p>Those efforts include construction of <a href="https://apnews.com/article/fly-factories-flesheating-parasite-cattle-texas-429ce91225bbab4a45c9040f1be356a5">a $750 million fly factory</a> in southern Texas for breeding billions of sterile males set to open in April 2027. The U.S. had largely eradicated the fly by the early 1970s by breeding sterile males and releasing them from planes to mate with females, who laid eggs that wouldn’t hatch.</p><p>Smaller facilities in Texas and southern Mexico have been <a href="https://apnews.com/article/flesheating-screwworm-fly-factory-cattle-texas-dca5a51ae8ba30559ccfa8991c2e9a97">dispersing sterile flies</a> bred in Panama, and another is planned for Arizona.</p><p>A week after the first reported case in Texas this year, Florida — where the screwworm fly can thrive — banned imports of rescued dogs and cats from there and New Mexico. Other states required veterinarians to inspect animals and declare them free of the parasite. Many shortened the period that a certification was valid from the typical 30 days to as little as three days.</p>
-
-<h2>Shelters worried about space long before the screwworm returned</h2><p>State restrictions hit an animal welfare system that’s long been short of the money and other resources, said Delcianna Winders, director of the Animal Law and Policy Institute at the Vermont Law and Graduate School.</p><p>She said shelters need more money and space, but communities also should require animals to be spayed or neutered — and have programs to provide those services if people cannot afford them.</p>
-
-<p>“If we could provide them just with some basic support, they might be able to keep those animals in their homes, and that’s one less animal in a shelter, one less animal being killed,” she said.</p><p>COVID-19 stressed the system, too, in part because pandemic restrictions put spaying and neutering on hold. Cost of living increases are another reason people turn animals over to shelters.</p><p>“A lot of them are just saying, ‘I just can’t, I just can’t do it anymore,’” said Brandon Krodle, animal control supervisor in Greenville, Texas, a fast-growing city northeast of Dallas.</p><h2>A trip from Texas to Indiana saved her dog’s life</h2><p>Mills, the Corpus Christi shelter director, has a dog who would have died in 2015 but for a nearly 1,000-mile (1,600-kilometer) trip from Paris, Texas, to Angola, Indiana, where Mills was working at the time. Zuri, a young female Shepherd-pit bull mix, was on a list of dogs slated for euthanasia, and Mills’ counterpart in Texas asked Mills to add Zuri to a transport.</p><p>Zuri’s right ear doesn’t fully straighten up, and the puppy had “the cutest face,” Mills said, but she was sold on Zuri because Zuri looked as if she “was actually thinking things through” as Mills spoke to her. Mills broke a personal rule against taking her shelter’s animals home.</p><p>When Mills moved to Corpus Christi in 2020, Zuri returned to Texas.</p><p>“The shelter that I was at in Indiana, we transported from Texas and southern states every week.,” Mills said.</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/screwworm-animal-shelters-dogs-cats-texas-40826cd035d7a5c4fbb40f2c1d961133</guid>
-      <category>U.S. News</category>
-      <category>Dogs</category>
-      <category>Animals</category>
-      <category>Texas</category>
-      <category>Cats</category>
-      <category>Pets</category>
-      <category>Zoology</category>
-      <category>General news</category>
-      <category>Florida</category>
-      <category>TX State Wire</category>
-      <category>New York City</category>
-      <category>FL State Wire</category>
-      <category>New Mexico</category>
-      <category>AZ State Wire</category>
-      <category>New York</category>
-      <category>Arizona</category>
-      <category>IN State Wire</category>
-      <category>NM State Wire</category>
-      <category>Indiana</category>
-      <category>screwworm animal shelters dogs cats Texas</category>
-      <category>Aaron Grady</category>
-      <category>Mia Bendixsen</category>
-      <category>Business</category>
-      <category>Brandon Krodle</category>
-      <category>Science</category>
-      <category>Lifestyle</category>
-      <category>Health</category>
-      <category>Lori Teller</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/f994b34/2147483647/strip/true/crop/5760x3838+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F74%2F02%2F6a1a7649aadd3bd1ccd52e2ec0f0%2Fb5e28b81eef24b4395fcc169b428cc3b" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 13:01:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Explore the future of robotics at the 2026 World Robot Conference in Beijing</title>
-      <link>https://apnews.com/article/china-robot-conference-951ebd3cddaccf5afcedc68174ba626a</link>
-      <description>China has kicked off the 2026 World Robot Conference in Beijing, showcasing its expanding robotics industry.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/f1c27ef/2147483647/strip/true/crop/7841x5225+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2Fbc%2Fb055ca01369e540dc9b7bf996c50%2F3bedf60395aa41a5bbc19cbfc72c5cd2" alt="" /></p>
-<p>BEIJING (AP) — Do you want to see whether a robot can fold a piece of cloth? Interested in getting a robot dog or even a humanoid robot that could offer some emotional support? Or perhaps you just want to watch robots boxing and dancing? Come to Beijing.</p><p><a href="https://apnews.com/hub/china">China</a> kicked off the 2026 World Robot Conference on Wednesday, with companies showcasing the country’s expanding robotics industry as it looks to move the technology beyond demonstrations and into factories and other real-world applications.</p><p>Organizers say around 3,000 products will be showcased during the five-day event. Despite the conference’s name, there was no sign of other countries exhibiting.</p><p>One of the main attractions on Wednesday was the booth of Unitree, one of China’s leading humanoid robot makers, where some of its models boxed and danced. One even played ping pong with a human opponent.</p>
-
-<p>The opening of the conference coincided with <a href="https://apnews.com/article/china-robots-unitree-ipo-shanghai-f33facc61122faf0c0b08af5020bd170">Unitree’s stock market debut</a> in Shanghai.</p><p>The conference comes weeks after the U.S. Federal Communications Commission announced a <a href="https://apnews.com/article/china-us-humanoid-robots-ban-tech-c9f5e3c94d91d00eff3b61b141fab366">ban on imports of new foreign-made humanoid robots</a> and power inverters, citing national security risks, in a move targeting China. The prohibition also covers new imports of quadruped robots, often referred to as four-legged robot dogs. The agency said advanced robots could pose cybersecurity and other national security risks.</p><p>UBTECH, another of China’s leading robotics companies, brought several industrial models to the conference. Some demonstrated tasks such as moving components around as they might on a factory floor.</p>
-
-<p>But among those drawing the most attention were humanoid robots with lifelike faces, promoted for emotional care.</p>
-
-<p>Jiao Jichao, deputy president of UBTECH Robotics, said one of its emotional-care humanoids can talk, make various facial expressions, rotate its neck and move its hands. And it is available to individual buyers. The price: 168,000 yuan (more than $24,000).</p><p>But despite the increasingly sophisticated displays, experts say many humanoid robots remain more impressive as performers than as practical workers.</p>
-
-<p>Several companies showcased helper robots equipped with mechanical arms and hands. At one booth, a robot attempted a seemingly simple household chore: folding a shirt. After several minutes of trying, it couldn’t do it.</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/china-robot-conference-951ebd3cddaccf5afcedc68174ba626a</guid>
-      <category>World News</category>
-      <category>Robotics</category>
-      <category>Beijing</category>
-      <category>General news</category>
-      <category>china robot conference</category>
-      <category>Shanghai</category>
-      <category>president</category>
-      <category>Business</category>
-      <category>Technology</category>
-      <category>Federal Communications Commission</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/f1c27ef/2147483647/strip/true/crop/7841x5225+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2Fbc%2Fb055ca01369e540dc9b7bf996c50%2F3bedf60395aa41a5bbc19cbfc72c5cd2" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 11:59:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Justice Department defends James Comey prosecution</title>
-      <link>https://apnews.com/article/comey-justice-department-trump-264e3a178525ebd8fee051771948709e</link>
-      <description>The Justice Department is defending its prosecution of former FBI Director James Comey, saying there's "no serious dispute” that a social media post of seashells he made could be understood as a threat against President Donald Trump.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/40078d6/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2F8f%2F2b35fae1d8c55522466a977a584a%2F951bf264e0f84e159d0e40d58235aac7" alt="" /></p>
-<p>WASHINGTON (AP) — The Justice Department is defending its <a href="https://apnews.com/article/comey-indicted-seashell-photo-86-47-a7fdd67891a7f74bc6fd8ce4d3d4170a">prosecution of former FBI Director James Comey</a>, saying “there is no serious dispute” that a social media post of seashells he made last year could be understood as a threat against President Donald Trump.</p><p>Prosecutors also called into question Comey’s account that he had found the seashells in the numerical arrangement of “86 47” while walking on a beach in North Carolina and suggested that his May 2025 post on Instagram was a thinly veiled attempt to sell copies of a forthcoming novel about a social media personality whose words have inspired his fans to attack his foes. </p><p>The arguments in motions Tuesday represent the government’s most detailed explanation of its indictment and were filed in response to <a href="https://apnews.com/article/justice-department-comey-fbi-seashells-c6a7fbbbedba3c3a26f472a5839bce59">wide-ranging defense efforts to dismiss the case</a> on grounds including that it constitutes a vindictive prosecution and that Comey’s post did not amount to a true threat.</p>
-
-<p>Comey’s lawyers contend that investigators in the case misled judges, submitted documents containing false statements, withheld key facts and repeatedly came up empty in their efforts to prove that Comey intended a physical threat or knew that the number 86 could suggest violence.</p><p>The entry for “86” from Merriam-Webster, the dictionary used by The Associated Press, says its meaning is “to throw out,” “to get rid of” or “to refuse service to.” Trump, a Republican, is the 47th president.</p>
-
-<p>The Justice Department maintains the photo of the seashells, which Comey said he found on the beach, constituted a threat against Trump. Comey deleted the post shortly after he put it up, saying he did not know that anyone interpreted the numbers as a call to violence. His lawyers have said that the slogan has long meant to “get rid of” or “eject” and has been featured on thousands of items sold online and regularly displayed at protests.</p>
-
-<p>But the Justice Department sought in its filings to place the post against the backdrop of a spate of <a href="https://apnews.com/hub/attempted-assassination-of-donald-trump">assassination plots or attempts</a> against Trump in the months before and after Comey’s post. Prosecutors say that two minutes before the post was made, Comey’s wife texted him a screenshot of a definition of “86” that said “to get rid of or refuse service.” </p>
-
-<p>“There is no serious dispute that an objective viewer of Comey’s post could read it to mean ‘Kill President Trump,’” prosecutors wrote.</p><p>The photo was posted days before Comey was set to release a novel titled “FDR Drive,” in which a prosecutor pursues a far-right social media personality who has called out his foes by name and inspired violence against them by his fans, the Justice Department said. </p><p>After the Instagram post provoked an outcry, according to the government’s filings, Comey’s publishing agent observed in a text message to him that he had “gone viral.” Comey responded that that was “not my intention, but I’ll be OK if it sells books.” The agent replied, ”Music to an agent’s ears.”</p><p>Prosecutors also asserted that there was “reason to doubt” Comey’s account of having come upon the seashells while on a walk, saying they were located 4 miles (6 kilometers) from where Comey was staying.</p><p>Comey’s lawyers have called the indictment, <a href="https://apnews.com/article/james-comey-charged-lying-congress-a2c72e1a5bb73d588f3af7fdb56caa82">the second in a year against him</a>, part of a Trump retribution campaign <a href="https://apnews.com/article/918b94ad77454a03b27324e8a10e0192">targeting one of the president’s vocal critics</a>. Trump <a href="https://apnews.com/united-states-government-4ff1ecb621884a728b25e62661257ef0">fired Comey as head of the FBI</a> in 2017 as Comey was overseeing an investigation into potential ties between the Republican’s 2016 presidential campaign and Russia, and Trump since then has called for him and other perceived adversaries to be jailed.</p>
-
-<p>But the Justice Department denied allegations of vindictiveness, saying the decision to indict Comey was made by the U.S. attorney in the area and did not derive from a directive from the president or the attorney general.</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/comey-justice-department-trump-264e3a178525ebd8fee051771948709e</guid>
-      <category>Politics</category>
-      <category>Donald Trump</category>
-      <category>James Comey</category>
-      <category>U.S. Department of Justice</category>
-      <category>General news</category>
-      <category>NC State Wire</category>
-      <category>North Carolina</category>
-      <category>DC Wire</category>
-      <category>District of Columbia</category>
-      <category>Comey Justice Department Trump</category>
-      <category>U.S. news</category>
-      <category>Government and politics</category>
-      <category>Social media</category>
-      <category>Military and defense</category>
-      <category>U.S. Federal Bureau of Investigation</category>
-      <category>Indictments</category>
-      <category>Washington news</category>
-      <category>Violence</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/40078d6/2147483647/strip/true/crop/5472x3646+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fcb%2F8f%2F2b35fae1d8c55522466a977a584a%2F951bf264e0f84e159d0e40d58235aac7" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 11:51:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Real Madrid's Mourinho shrugs off Rodri miss after his move to Barcelona</title>
-      <link>https://apnews.com/article/mourinho-rodri-madrid-barcelona-8dc9807a0ad8424e97d1b1686a18e64a</link>
-      <description>José Mourinho is confident Real Madrid will be fine without Rodri despite admitting the club made “a very good offer” to try to sign the Spain captain.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/66e2424/2147483647/strip/true/crop/2861x1906+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F28%2F58a32513d8b423c033f1b6b084c9%2F1385e73b40cf4842a014318eea018a18" alt="" /></p>
-<p>MADRID (AP) — José Mourinho is confident Real Madrid will be fine without Rodri despite admitting the club made “a very good offer” to try to sign the Spain captain.</p><p>Rodri officially <a href="https://apnews.com/article/rodri-barcelona-man-city-97061d60c3fedca929b060beb13f1f86">signed with Madrid rival Barcelona</a> after a transfer from Manchester City on Tuesday.</p><p>Mourinho, back with Madrid for a second stint, said he spoke twice with Rodri as Madrid considered adding the World Cup’s best player to its squad, but felt the midfielder didn’t seem certain about his future.</p><p>“The club contacted him but he had some doubts,” Mourinho said in an interview to TV show ”El Chiringuito” late Tuesday. “What I think happened is that his doubts have created doubts for me. He’s an extraordinary player and was very correct with us. But I think Real Madrid is of such a stature that it can’t have players who think twice about being with the club.”</p>
-
-<p>Just hours before Rodri’s signing was made official by Barcelona on Tuesday, Mourinho was <a href="https://apnews.com/article/real-madrid-jose-mourinho-2b4aaff2e47224346164abe50c968e61">officially presented</a> by Madrid in an unusual ceremony closed to the media and fans. </p><p>Mourinho, who <a href="https://apnews.com/article/jose-mourinho-real-madrid-return-hired-9a2e283f6dc9740d3539789aba754212">was hired in June</a> and took over in July at the start of the preseason, downplayed the importance of Rodri to Madrid.</p><p>“I don’t need Rodri. We have solutions, quality players,” Mourinho said, adding that he didn’t think Barcelona got the best of Madrid by signing the midfielder. “Victories are won on the field, they are won with titles.”</p>
-
-<p>After a second consecutive season without a major title, the club has bought players such as Marc Cucurella, Ibrahima Konaté, Denzel Dumfries, Bernardo Silva and Yan Diomande.</p><p>Mourinho said the club does not intend to make new signings.</p>
-
-<p>“I’m not saying there won’t be any more signings because the market is still open, but if you ask me directly if it’s closed (for Madrid), yes, it’s closed,” he said.</p><p>Madrid opens in La Liga on Saturday at Espanyol.</p><p>___</p><p><a href="https://apnews.com/hub/soccer">See AP’s full soccer coverage here</a></p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/mourinho-rodri-madrid-barcelona-8dc9807a0ad8424e97d1b1686a18e64a</guid>
-      <category>Sports</category>
-      <category>Soccer</category>
-      <category>Rodrigo Hernandez</category>
-      <category>Jose Mourinho</category>
-      <category>Madrid</category>
-      <category>Real Madrid</category>
-      <category>FC Barcelona</category>
-      <category>Sports - Europe</category>
-      <category>mourinho rodri madrid barcelona</category>
-      <category>Denzel Dumfries</category>
-      <category>Marc Cucurella</category>
-      <category>Spain</category>
-      <category>Bernardo Silva</category>
-      <category>Manchester City FC</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/66e2424/2147483647/strip/true/crop/2861x1906+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F28%2F58a32513d8b423c033f1b6b084c9%2F1385e73b40cf4842a014318eea018a18" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 11:45:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pakistan officials seek court review of order for Imran Khan hospital treatment</title>
-      <link>https://apnews.com/article/pakistan-imran-khan-review-petition-medical-treatment-94701e67cc62be79cf4b78166f48b52e</link>
-      <description>Pakistani authorities have asked the Supreme Court to review or withdraw an order requiring imprisoned former Prime Minister Imran Khan to receive a medical exam at a private hospital.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/dfafa4e/2147483647/strip/true/crop/7173x4780+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2F88%2F0821e02a8f813dd898af7f7f0de0%2F305b37db6db34a9fa4ffb9e2eae9caab" alt="" /></p>
-<p>ISLAMABAD (AP) — Pakistani authorities on Wednesday <a href="https://apnews.com/article/pakistan-imran-khan-court-medical-examination-hospital-043c3cbb38df2f26ebd77244c5a4eac5">asked the Supreme Court to review or withdraw</a> an order requiring imprisoned former Prime Minister Imran Khan to receive a medical exam at a private hospital of his choice.</p><p>The government’s legal challenge could fuel anger among his supporters over his treatment in custody. It also may deepen tensions with Khan’s opposition Pakistan Tehreek-e-Insaf party and his family, who have pressed for prompt access to medical care at facilities of Khan’s choice and more frequent prison visits.</p><p>The petition came a day after the court ordered authorities to take Khan to Shifa International Hospital in the capital Islamabad, where he would be examined by a medical board that would include his personal physician.</p><p>The government has said Khan will be taken to government hospitals whenever he needs medical care that is not available in prison. Khan has been taken to a government hospital several times for treatment of an eye condition.</p>
-
-<p>In the petition, Islamabad’s chief commissioner argued the court issued the order without giving him prior notice and said Pakistan’s constitution guarantees equal treatment. </p><p>“The Constitution abhors discrimination and favoritism,” the petition said, arguing that allowing a convicted person to receive treatment at a private hospital when his medical report did not indicate a condition requiring immediate treatment could disrupt the criminal justice system.</p>
-
-<p>Implementing the order could prompt other inmates to seek similar treatment outside prison, contrary to prison rules, the petition said.</p>
-
-<p>The petition described Tuesday’s order as “discriminatory” and, unless it was recalled, could “open a flood gate” of prisoners seeking similar relief that cannot be granted under existing law.</p><p>Tuesday’s order came months after <a href="https://apnews.com/article/pakistan-imran-khan-partial-vision-treatment-44eb93c8e0857263f729a840dc5a7041">Khan petitioned the court</a> for a transfer from a high-security prison to a hospital and access to his personal physicians, family and lawyers.</p><p>Also Wednesday, Pakistan’s Information Minister Attaullah Tarar said the government had no objection to providing Khan with medical care and that he would continue receiving treatment in accordance with prison rules. </p>
-
-<p>But the government was challenging the part of the Supreme Court order requiring Khan to be taken to a private hospital, Tarar said.</p>
-
-<p>“There is no ambiguity” about Khan receiving medical treatment, Tarar said, adding that health issues should be kept separate from politics.</p><p>Concerns about Khan’s health intensified in late January after his family said he had lost about 85% of the vision in his right eye, an assertion disputed by the government. Authorities later said Khan had regained about 70% of his vision in the eye and that his condition was improving.</p><p>The former cricket star turned politician was removed from office in a parliamentary no-confidence vote in April 2022 and has been imprisoned since 2023 following convictions in multiple cases. </p><p>Khan’s supporters have <a href="https://apnews.com/article/pakistan-khan-protest-rally-islamabad-b34916c0ade3231fa3e49a032b2559d8">staged repeated rallies</a> across the country demanding his release in recent years, some of which have turned violent.</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/pakistan-imran-khan-review-petition-medical-treatment-94701e67cc62be79cf4b78166f48b52e</guid>
-      <category>World News</category>
-      <category>Imran Khan</category>
-      <category>General news</category>
-      <category>Islamabad</category>
-      <category>Pakistan government</category>
-      <category>Courts</category>
-      <category>Pakistan</category>
-      <category>pakistan imran khan review petition medical treatment</category>
-      <category>Contracts and orders</category>
-      <category>Politics</category>
-      <category>Prisons</category>
-      <category>Discrimination</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/dfafa4e/2147483647/strip/true/crop/7173x4780+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fbd%2F88%2F0821e02a8f813dd898af7f7f0de0%2F305b37db6db34a9fa4ffb9e2eae9caab" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 11:33:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Woman sought in Massachusetts officer's death co-founded mental health group</title>
-      <link>https://apnews.com/article/officer-killed-massachusetts-search-799e0d5087a20983724c453f5afa2bcf</link>
-      <description>Police in Worcester, Massachusetts, are investigating the death of an off-duty officer in what they call a domestic matter.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png" alt="" /></p>
-<p>WORCESTER, Mass. (AP) — Police investigating the death of an off-duty police officer in Massachusetts in what they called a domestic matter are searching for a woman who co-founded a group that focuses on suicide and mental health issues among first responders.</p><p>The officer, a 31-year veteran, was found dead at a home in Worcester, Massachusetts, on Tuesday. Police and Worcester County District Attorney Joseph Early Jr. said the 58-year woman was at the house. Police were passing out flyers with her photo to drivers in the area Wednesday morning.</p><p>Local, state and federal agencies were involved in searching for the woman, who may be armed, Worcester Police Chief Paul Saucier and Worcester District Attorney Joseph Early said at a news conference.</p><p>“I can’t get into too much of it with regards to our domestic violence rules and regulations,” Early said.</p>
-
-<p>An email seeking comment on the investigation was sent to a spokesperson for Early’s office Wednesday.</p><p>Police identified the woman as Karen Solomon and did not name the officer. Thomas Duffy, the president of the local police union, identified the officer as Kurt Solomon. Police did not describe the relationship between the two.</p><p>“When you serve 31 years with an individual, you become more than co-workers. You become family, and today we lost a member of our family,” Duffy told reporters Tuesday. “Just a tremendous human being. Extremely committed. Always reliable. Always dedicated to the job and to the citizens.”</p>
-<p>He added, “It’s a very difficult time. His loss is deeply being felt by the men and women of this department right now.”</p>
-
-<p>Karen Solomon is a co-founder of an organization called First H.E.L.P., the organization said in a statement Tuesday night.</p><p>The group “is dedicated to honoring the service of first responders who have died by suicide, supporting their families, reducing the stigma associated with seeking mental-health assistance, and increasing awareness of mental-health challenges within the law-enforcement and first-responder communities,” it said.</p><p>“Our first concern is for the officer who lost his life, his family, his colleagues, and the Worcester law-enforcement community,” the group said in its statement. “We extend our deepest condolences to all those affected by this tragedy.”</p>
-
-<p>First H.E.L.P. said the circumstances surrounding the Worcester investigation “are an active matter for law enforcement” and the group will have no further comment on it.</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/officer-killed-massachusetts-search-799e0d5087a20983724c453f5afa2bcf</guid>
-      <category>U.S. News</category>
-      <category>Karen Solomon</category>
-      <category>Massachusetts</category>
-      <category>General news</category>
-      <category>Joseph Early Jr.</category>
-      <category>Kurt Solomon</category>
-      <category>Mental health</category>
-      <category>Law enforcement</category>
-      <category>officer killed Massachusetts search</category>
-      <category>Paul Saucier</category>
-      <category>Worcester</category>
-      <category>Thomas Duffy</category>
-      <category>Violence</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png" length="0" type="image/jpeg"/>
-      <pubDate>Wed, 19 Aug 2026 11:32:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
