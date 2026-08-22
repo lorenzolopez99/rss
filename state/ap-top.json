@@ -1,6 +1,41 @@
 {
-  "updated_at": "2026-08-22T17:49:02.033031+00:00",
+  "updated_at": "2026-08-22T18:37:36.921415+00:00",
   "articles": [
+    {
+      "url": "https://apnews.com/article/nigeria-kidnappings-spree-villages-niger-df9678a01c1e096404964496d5e6f905",
+      "title": "Police report mass abduction from mosque in Nigeria's Niger state",
+      "body_html": "<p><img src=\"https://dims.apnews.com/dims4/default/74b899c/2147483647/strip/true/crop/1281x854+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png\" alt=\"\" /></p>\n<p>A number of people were kidnapped from a mosque in a spree of abductions at several villages in <a href=\"https://apnews.com/hub/nigeria\">Nigeria</a> ‘s north-central Niger state, police said Saturday.</p><p>The assailants attacked a mosque in Kpenya village after attacks in a string of villages in the remote Borgu Local Government Area of Niger state Friday, police spokesperson Wasiu Abiodun said. </p><p><a href=\"https://apnews.com/article/nigeria-rescue-bandits-abductions-cd608d04349161aa1664714ba42af4b6\">Such attacks are common</a> in Nigeria, where multiple armed groups operate, killing and kidnapping people for ransom. The groups sometimes clash in competition with each other. No group has claimed responsibility for the Friday attacks.</p><p>Abiodun did not provide figures but said no lives were lost in the Friday attacks, and said the military was deployed to the area. Residents said scores of people were abducted, with some estimating between 60 and 80 people were kidnapped. A search for survivors was underway Saturday.</p>\n\n<p>Borgu area council chairman Abdullahi Mohammed Nasir said at least 60 people were kidnapped and an unspecified number of people sustained gunshot injuries while trying to escape the gunmen.</p><p>“People were abducted while praying at a Juma’at mosque on Friday,” Nasir said. “That was when the bad people came and surrounded the mosque and took them away.”</p>\n\n<p>Zubairu Umar Talba, a youth leader in the Dekara area in Borgu, told The Associated Press that his 85-year-old father was among those who were taken. “Nobody can tell you the exact number of people abducted because, so far, about 80 of our people have been abducted and many have fled the area,” he said.</p>",
+      "image_url": "https://dims.apnews.com/dims4/default/74b899c/2147483647/strip/true/crop/1281x854+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png",
+      "published": "2026-08-22T18:20:46+00:00",
+      "author": "Mohammed Ibrahim",
+      "summary": "Police in Nigeria report that a number of people have been kidnapped from a mosque in Niger state. The abductions happened Friday in Kpenya village and other parts of the Borgu Local Government Area.",
+      "tags": [
+        "World News",
+        "Kidnapping",
+        "Nigeria",
+        "General news",
+        "Assault",
+        "nigeria kidnappings spree villages niger"
+      ]
+    },
+    {
+      "url": "https://apnews.com/article/japan-earthquake-tokyo-3b39d6dc29cb5ad1bada31a524b6e0c6",
+      "title": "Tokyo area rattled by magnitude 5.9 quake, no tsunami alert issued",
+      "body_html": "<p><img src=\"https://dims.apnews.com/dims4/default/74b899c/2147483647/strip/true/crop/1281x854+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png\" alt=\"\" /></p>\n<p>TOKYO (AP) — A moderate <a href=\"https://apnews.com/hub/earthquakes\">earthquake</a> with a preliminary magnitude of 5.9 rattled eastern <a href=\"https://apnews.com/hub/japan\">Japan</a>, including the Tokyo area, early on Sunday, but there was no danger of a tsunami, the country’s meteorological agency said. </p><p>According to the Japan Meteorological Agency, the quake occurred in the southern Ibaraki prefecture, at a depth of 70 kilometers (42 miles). </p><p>The United States Geological Survey recorded a preliminary magnitude of 5.8. </p><p>There were no reports of damage or injuries. The quake also shook the Tokyo area, but NHK public television showed traffic on roads in nearby cities, including Mito and Saitama, seemingly normal.</p><p>Japan is one of the world’s most earthquake-prone areas. </p><p>Last month, a <a href=\"https://apnews.com/article/japan-earthquake-kumamoto-mall-factory-80b525f6a271a0b3aecd708342b09294\">magnitude 7.1 quake struck the Kumamoto area</a> on Japan’s southernmost island of Kyushu, killing 38 people and injuring 364. It also destroyed more than 1,500 buildings and damaged nearly 20,000 others.</p>",
+      "image_url": "https://dims.apnews.com/dims4/default/74b899c/2147483647/strip/true/crop/1281x854+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png",
+      "published": "2026-08-22T17:59:03+00:00",
+      "author": null,
+      "summary": "A moderate earthquake with a preliminary magnitude of 5.9 has rattled eastern Japan, including the Tokyo area, but no tsunami warning was issued.",
+      "tags": [
+        "World News",
+        "General news",
+        "Earthquakes",
+        "Tokyo",
+        "Japan",
+        "Asia Pacific",
+        "Japan earthquake Tokyo"
+      ]
+    },
     {
       "url": "https://apnews.com/article/wnba-transgender-stewart-liberty-fever-c0cfa44508b8ae4898019970bc4605d7",
       "title": "Breanna Stewart urges a 'safe space' as transgender debate sparks rallies at Fever games",
@@ -8196,51 +8231,6 @@
         "Jon Bishop",
         "Sam Darnold",
         "Ford Motor Co."
-      ]
-    },
-    {
-      "url": "https://apnews.com/article/deadly-gold-mine-collapse-central-african-republic-4a52316da1f00085d60dd4d99ac9fdb2",
-      "title": "Death toll in mine collapse in Central African Republic rises to more than 100",
-      "body_html": "<p><img src=\"https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png\" alt=\"\" /></p>\n<p>BANGUI, Central African Republic (AP) — The death toll from a gold mine collapse in a western part of Central African Republic has risen to more than 100, a Red Cross volunteer involved in relief efforts and a local official said Wednesday.</p><p>The low-tech, artisanal gold mine collapsed Tuesday morning in the village of Zamboye, in the Nana-Mambere prefecture, near the border with Cameroon.</p><p>Gervais Ganagoroh, a local Red Cross volunteer involved in relief efforts, said more than 100 dead bodies have been recovered so far, while several survivors are critically injured.</p><p>Bertrand Be Yangué, a member of the Zamboye youth council, also said the death toll is more than 100, adding that it’s likely to rise, as several people are still missing and others are trapped under the rubble.</p><p>“Finding them alive would be a miracle,” Yangué said. “We are saddened and heartbroken to see young men and women perish after coming to the mines to save their families from despair,” he added.</p>",
-      "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "published": "2026-08-19T17:01:21+00:00",
-      "author": null,
-      "summary": "The death toll from a gold mine collapse in the Central African Republic has risen to over 100. A Red Cross volunteer involved in relief efforts confirmed the numbers on Wednesday.",
-      "tags": [
-        "World News",
-        "Cameroon",
-        "Central African Republic",
-        "General news",
-        "deadly gold mine collapse Central African Republic",
-        "Accidents",
-        "Bertrand Be Yangué",
-        "Mining accidents",
-        "Red Cross and Red Crescent",
-        "Politics"
-      ]
-    },
-    {
-      "url": "https://apnews.com/article/wisconsin-badgers-football-jack-pugh-cause-of-death-05f4e50a18d36c960d1aa9c27c7e78ca",
-      "title": "Ex-Badgers TE Pugh died from a form of pneumonia, coroner's report says",
-      "body_html": "<p><img src=\"https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png\" alt=\"\" /></p>\n<p>Former Wisconsin tight end Jack Pugh’s death resulted from acute bronchopneumonia, a type of pneumonia, according to a coroner’s report.</p><p>The Franklin County (Ohio) Coroner’s Office said the 24-year-old Pugh, <a href=\"https://apnews.com/article/wisconsin-badgers-jack-pugh-dead-f27a0f4ff625639742b24359b7c238f5\">who died</a> March 30, had this lung infection due to cardiomyopathy with hepatosplenomegaly. Cardiomyopathy is a disease that reduces the heart’s ability to pump blood. Hepatosplenomegaly is the result of an enlarged liver and spleen.</p><p>People magazine on Tuesday was first to report the coroner’s report on Pugh’s death.</p><p>Pugh who was from Columbus, Ohio, redshirted in 2021 before appearing in one game for Wisconsin and earning academic All-Big Ten honors in 2022. He announced in an Instagram post in December 2023 that he had decided before that season to medically retire from the game of football.</p><p>“My physical health was not near perfect, but my mental health was the reason I decided to hang it up,” Pugh said in that Instagram post. “Over years of prolonged depression and substance abuse, I decided I deserved a better life and to finally find happiness. In no way was football the root of these problems, but everything in my life had distracted me for so long to the point I never had prioritized my mental health all along, digging a deeper darker hole.”</p>\n\n<p>After Pugh died, Wisconsin’s football program said in a <a href=\"https://x.com/BadgerFootball/status/2039154816916598896\">social media post</a> that “Jack was a positive light and brought a genuine spirit to our football program. More than that, he cared about people and was loved by his teammates and staff.”</p><p>Pugh had earned his degree from Wisconsin last year.</p><p>___</p><p><a href=\"https://apnews.com/newsletters\">Sign up for Top 25 poll alerts here</a>, visit <a href=\"https://apnews.com/hub/ap-top-25-college-football-poll\">the Top 25 here</a> and see AP’s full <a href=\"https://apnews.com/hub/college-football\">college football coverage here</a></p>",
-      "image_url": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "published": "2026-08-19T16:41:59+00:00",
-      "author": "The Associated Press",
-      "summary": "Former Wisconsin tight end Jack Pugh’s death resulted from acute bronchopneumonia, a type of pneumonia.",
-      "tags": [
-        "Sports",
-        "Pneumonia",
-        "Jack Pugh",
-        "Wisconsin",
-        "College sports",
-        "College football",
-        "Football",
-        "Heart disease",
-        "Ohio",
-        "OH State Wire",
-        "WI State Wire",
-        "wisconsin badgers football jack pugh cause of death",
-        "Health"
       ]
     }
   ]
