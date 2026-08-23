@@ -1,6 +1,27 @@
 {
-  "updated_at": "2026-08-23T17:48:40.537020+00:00",
+  "updated_at": "2026-08-23T18:36:57.664819+00:00",
   "articles": [
+    {
+      "url": "https://apnews.com/article/boston-symphony-strike-07068c384630ba08b107f7e859b22da5",
+      "title": "Boston Symphony Orchestra and musicians extend contract for 48 hours, delaying possible first strike",
+      "body_html": "<p><img src=\"https://dims.apnews.com/dims4/default/f494cc0/2147483647/strip/true/crop/3948x2631+0+15/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2F32%2Fdf68b6a2f2a8f354da1273ae29d3%2F335d797acf694f118c180cf81fafcb70\" alt=\"\" /></p>\n<p>BOSTON (AP) — The Boston Symphony Orchestra says it agreed with its musicians to a 48-hour extension of their collective bargaining agreement, allowing more time for negotiations to head off what could be the first strike in the ensemble’s 145-year history.</p><p>The Boston Musicians’ Association said Saturday it had authorized a strike ahead of the expiration of the union’s three-year contract at 11:59 p.m. Sunday. The BSO said Sunday the contract had been extended to 11:59 p.m. Tuesday.</p><p>BSO CEO Chad Smith said Sunday that the extension had been agreed to pending a ratification vote by the Boston Musicians’ Association and the Boston Symphony Orchestra Players’ Committee. The unions did not respond to a request for comment.</p><p>The orchestra and management have had strained relations since BSO decided in March to <a href=\"https://apnews.com/article/andris-nelsons-boston-symphony-orchestra-5056298508c8b072d82d64268b72c5c7\">force out music director Andris Nelsons</a> next summer after 13 seasons.</p><p>The orchestra’s season is scheduled to open Sept. 17. </p>",
+      "image_url": "https://dims.apnews.com/dims4/default/f494cc0/2147483647/strip/true/crop/3948x2631+0+15/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F41%2F32%2Fdf68b6a2f2a8f354da1273ae29d3%2F335d797acf694f118c180cf81fafcb70",
+      "published": "2026-08-23T18:34:25+00:00",
+      "author": null,
+      "summary": "The Boston Symphony Orchestra has agreed with its musicians to extend their collective bargaining agreement by 48 hours.",
+      "tags": [
+        "Entertainment",
+        "Classical music",
+        "Boston",
+        "Chad Smith",
+        "Labor unions",
+        "General news",
+        "Massachusetts",
+        "boston symphony strike",
+        "Andris Nelsons",
+        "U.S. news"
+      ]
+    },
     {
       "url": "https://apnews.com/article/guinea-conakry-landfill-landslide-killed-960be47428dde82bbc48544500ca13d5",
       "title": "At least 22 people killed in a landslide in capital of Guinea, officials say",
@@ -8219,26 +8240,6 @@
         "Tim Buckley",
         "Seattle Redhawks",
         "Legal proceedings"
-      ]
-    },
-    {
-      "url": "https://apnews.com/article/brazil-women-protections-supreme-court-4403d98551431846c18ee578530d8c62",
-      "title": "Brazil's Supreme Court beefs up protections for women against violent men",
-      "body_html": "<p><img src=\"https://dims.apnews.com/dims4/default/0d580ed/2147483647/strip/true/crop/5339x3558+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F4a%2F0154adde6a81456ad14e7737abc8%2Fdc748a98472a4467ab1a2f369696f0fd\" alt=\"\" /></p>\n<p>SAO PAULO (AP) — Brazil’s Supreme Court ruled unanimously on Wednesday to significantly expand the scope of the country’s landmark law to protect women from violence. </p><p>Legislation that was for two decades applied to domestic incidents, as in many other nations including the United States, can now be triggered outdoors. Brazil’s top court also decided that the attackers should be put on trial even if they have no family or sentimental connection to the victim. </p><p>All 10 members of the court voted to extend the application of the Maria da Penha law for situations such as persecution, threats and harassment outside the home. </p><p>Brazil’s government says almost 340,000 urgent protective measures for women were granted in the first semester of 2026 through the Maria da Penha law mechanisms, a spike of 170% in comparison with the same period in 2020.</p>\n\n<p>Justice Carmen Lúcia, the only female in the court Wednesday, said violence against women has grown in Brazil despite the 2006 law.</p><p>Lúcia added the Maria da Penha law needed updating because violence against women in Brazil is also a matter of power and as many femicides take place out of women’s homes in situations that are reported to police but ignored.</p>\n<p>“In real life, judges reject (accusations against men) without justification, they say it is not urgent, they leave it for next Monday. Meanwhile, one of us dies,” the Brazilian justice said. “With this ruling, this Supreme Court shows it is not blind or deaf to all of this happening against all of us women.”</p>",
-      "image_url": "https://dims.apnews.com/dims4/default/0d580ed/2147483647/strip/true/crop/5339x3558+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F4a%2F0154adde6a81456ad14e7737abc8%2Fdc748a98472a4467ab1a2f369696f0fd",
-      "published": "2026-08-19T23:15:37+00:00",
-      "author": "Mauricio Savarese",
-      "summary": "Brazil’s Supreme Court unanimously ruled on Wednesday to significantly expand the scope of the country’s landmark law to protect women from violence.",
-      "tags": [
-        "World News",
-        "Maria da Penha",
-        "General news",
-        "Courts",
-        "brazil women protections supreme court",
-        "Trials",
-        "Brazil",
-        "Legislation",
-        "Carmen Lúcia"
       ]
     }
   ]
