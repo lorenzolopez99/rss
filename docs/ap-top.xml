@@ -8,7 +8,44 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:09:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:09:21 +0000</lastBuildDate>
+    <item>
+      <title>Tornado devastates French village, injuring dozens</title>
+      <link>https://apnews.com/article/france-tornado-pomas-dozens-injured-176e48d07dad6d5caadfe40e54d721ee</link>
+      <description>A tornado has ravaged a small village in southern France, leaving dozens injured. Local authorities say the tornado struck Pomas on Monday, leaving the town in ruins.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/84466ee/2147483647/strip/true/crop/1081x720+100+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F72%2F8e%2Fcf07eecc38565d07d3069d8b4c26%2Ffra-tornado-ugc-20260824cr-1920x1080.jpg" alt="" /></p>
+<p>PARIS (AP) — A tornado ravaged a small village in southern France, leaving dozens injured, local authorities said Tuesday.</p><p>The tornado struck the small village of Pomas on Monday and rescue teams were continuing their search after the town was left in ruins. </p><p>Marie-Helene Bouissac, the deputy head of the local government office, confirmed a total of 39 people were injured, including two in critical condition.</p><p>No missing persons have been reported so far. </p><p>Some 300 homes were damaged and emergency accommodation centers have been opened to relocate residents.</p><p>The region was under a thunderstorm alert at the time.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/france-tornado-pomas-dozens-injured-176e48d07dad6d5caadfe40e54d721ee</guid>
+      <category>World News</category>
+      <category>Tornadoes</category>
+      <category>General news</category>
+      <category>France</category>
+      <category>Natural disasters</category>
+      <category>AP Top News</category>
+      <category>france tornado pomas dozens injured</category>
+      <category>Storms</category>
+      <category>Missing persons</category>
+      <category>Marie Helene Bouissac</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/84466ee/2147483647/strip/true/crop/1081x720+100+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F72%2F8e%2Fcf07eecc38565d07d3069d8b4c26%2Ffra-tornado-ugc-20260824cr-1920x1080.jpg" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 08:36:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rescuers searching for crew days after cargo ship sinks in Bay of Bengal</title>
+      <link>https://apnews.com/article/india-ship-sink-search-coast-guard-navy-227fc43f4d309532a202711ff8ab2475</link>
+      <description>Rescuers searching for 22 missing sailors have found no trace of their Panama-flagged cargo ship that sank in the Bay of Bengal off the coast of India.</description>
+      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/74b899c/2147483647/strip/true/crop/1281x854+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png" alt="" /></p>
+<p>NEW DELHI (AP) — Rescuers searching for 22 missing sailors have found no trace of their <a href="https://apnews.com/article/india-ship-rescue-distress-coast-guard-navy-9299f36df9604d21fe7c7f8328ac5153">Panama-flagged cargo ship</a> after the vessel sank in the Bay of Bengal last week, the Indian Coast Guard said Tuesday.</p><p>Search aircraft and ships on Tuesday were scouring the area where the cargo ship MV Ocean Winner reportedly sunk Saturday about 276 miles (444 kilometers) from the Paradip coast of India’s eastern Odisha state.</p><p>The joint search by the Indian Coast Guard and Indian Navy has been complicated by the area’s exceptionally deep waters and found only an oil slick and two life rafts near the vessel’s last known position, officials said.</p><p>The lack of wreckage has hampered efforts to determine the cause of the sinking and where to focus search operations, authorities said.</p><p>The vessel transporting iron ore to China was carrying 24 crew members, including 20 Chinese nationals, three Myanmar nationals and one Bangladeshi, according to the coast guard.</p><p>Two Chinese crew members were rescued Saturday following a distress call from the ship, the coast guard said.</p>]]></content:encoded>
+      <guid isPermaLink="false">https://apnews.com/article/india-ship-sink-search-coast-guard-navy-227fc43f4d309532a202711ff8ab2475</guid>
+      <category>World News</category>
+      <category>Bay of Bengal</category>
+      <category>Military and defense</category>
+      <category>General news</category>
+      <category>india ship sink search coast guard navy</category>
+      <category>India</category>
+      <category>China</category>
+      <enclosure url="https://dims.apnews.com/dims4/default/74b899c/2147483647/strip/true/crop/1281x854+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0c%2F94%2Fcbc970464ba8bfbc6042dd7cdd78%2Fthe-ap-default-image-2026.png" length="0" type="image/jpeg"/>
+      <pubDate>Tue, 25 Aug 2026 08:12:11 +0000</pubDate>
+    </item>
     <item>
       <title>No answers a year after an Israeli strike on a Gaza hospital killed journalists</title>
       <link>https://apnews.com/article/israel-hamas-war-gaza-hospital-strike-journalists-6a52be85a9aa0e98a9aa775be2b74cca</link>
@@ -1167,64 +1204,6 @@
       <category>Massachusetts</category>
       <enclosure url="https://dims.apnews.com/dims4/default/35abb1f/2147483647/strip/true/crop/3092x2060+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2f%2F91%2F3a60f663266ea72a7f81caff4c29%2Fb8ed2ff316af47a0812fc822b510a36d" length="0" type="image/jpeg"/>
       <pubDate>Mon, 24 Aug 2026 20:50:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Police find body of suspect in death of Massachusetts officer she was married to</title>
-      <link>https://apnews.com/article/officer-killed-massachusetts-husband-wife-006117548f4d151c1878adb706cbd17a</link>
-      <description>A Massachusetts woman wanted in connection with the death of her police officer husband has been found dead near a hospital during an intensive law enforcement search.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/c9d37db/2147483647/strip/true/crop/1052x701+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd3%2F92%2F53aecdd9fedbe30e0a2b142376c1%2F0538e62024eb47fe99babcc1c99f1086" alt="" /></p>
-<p>WORCESTER, Mass. (AP) — A Massachusetts woman wanted in connection with the death of her police officer husband was found dead near a hospital Monday during an intensive law enforcement search that included drones, boats and tracking dogs, authorities said.</p><p>Karen Solomon, an advocate who called for improvements and greater awareness of police mental health problems, had disappeared after Kurt Solomon, who served 31 years with Worcester police, was found dead at their home Tuesday morning. Officials had named Karen Solomon a suspect.</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/officer-killed-massachusetts-husband-wife-006117548f4d151c1878adb706cbd17a</guid>
-      <category>U.S. News</category>
-      <category>Karen Solomon</category>
-      <category>Law enforcement</category>
-      <category>Kurt Solomon</category>
-      <category>General news</category>
-      <category>Massachusetts</category>
-      <category>officer killed massachusetts husband wife</category>
-      <category>Worcester</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/c9d37db/2147483647/strip/true/crop/1052x701+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fd3%2F92%2F53aecdd9fedbe30e0a2b142376c1%2F0538e62024eb47fe99babcc1c99f1086" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 20:44:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>US set for largest mass visa revocation in history</title>
-      <link>https://apnews.com/article/trump-rubio-visas-revoke-e9c14fdfd0ada439d2b9d8694e678a46</link>
-      <description>The Trump administration is preparing to revoke the visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States.</description>
-      <content:encoded><![CDATA[<p><img src="https://dims.apnews.com/dims4/default/d772254/2147483647/strip/true/crop/2003x1335+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F31%2Fbd4072005181b669d801aadc3077%2F5d1fd3e70f4c4c0abc5733e32810021c" alt="" /></p>
-<p>WASHINGTON (AP) — The Trump administration is preparing to revoke the business and tourism visas of up to 200,000 foreigners who have applied for or are currently seeking asylum status in the United States. If it happens, the move would be the largest single mass revocation of visas in U.S. history and would likely face legal challenges.</p><p><a href="https://apnews.com/article/trump-administration-visa-ban-immigration-64feb19b54d1bce50891437a5ba25d50">Unless challenged</a> or revised, the State Department is expected to announce in the coming weeks the revocation of so-called B1 and B2 visas issued between 2016 and 2026 whose holders have <a href="https://apnews.com/article/trump-asylum-appeals-court-ed8f8f193579b757d7f384cd7f9e9e60">sought asylum</a> or are now seeking asylum, according to State Department documents obtained by The Associated Press and two U.S. officials. The action will be taken in coordination with the Department of Homeland Security.</p><p>“We are coordinating with DHS to identify and revoke the nonimmigrant visas of foreigners who have come to the United States claiming to be short-term visitors, but then file for asylum to stay here permanently,” said State Department spokesman Tommy Pigott. </p>
-
-<p>He declined to comment on the number of visas that might be revoked, saying “as the process will be ongoing, the number of revocations remains dynamic and will be done on a rolling basis.”</p><p>The revocations would not necessarily result in their immediate deportation, the officials said. Most of those with asylum cases currently pending would be recategorized but would lose their status as business or tourism travelers, according to the officials, who spoke on condition of anonymity because the revocations are not final yet.</p>
-
-<p>Since President Donald Trump took office for his second term last year, his administration has steadily ramped up restrictions on visa applicants — demanding more information about their social media histories, requiring the posting of expensive bonds for the processing of visas, and outright banning the issuance of visas to citizens of certain countries.</p>
-
-<p>In a social media post on Monday, Deputy Secretary of State Christopher Landau called out people who he said try to use tourist and business visas to get into the United States and then apply for asylum.</p>
-
-<p>“People in the US and all over the world are fed up with bogus asylum claims,” Landau wrote on X. “Asylum isn’t supposed to be a loophole to circumvent immigration law.” Landau cited the case of a Colombian citizen who came to the U.S. in 2015 on a tourist visa and then applied for asylum.</p>
-
-<p>B1 visas are generally issued for business trips and B2 visas are generally issued for tourism, family visits or medical care. It was not immediately clear from the documents or the officials how many of these visa holders are seeking or have sought asylum in the United States and would be affected by the revocations.</p><p>Current applicants for B1 and B2 visas are asked to affirm that they will not apply for asylum in the United States and prove that they intend to return to their home countries.</p><p>In the past 18 months, the State Department has revoked about 175,000 visas for people who have been convicted or accused of crimes ranging from drunken driving to rape and robbery, as well as for people who have spoken out publicly against U.S. policies, particularly in the Middle East.</p><p>The administration has also moved to crack down on so-called birth tourism, a practice the administration claims is used by foreign pregnant women to come to the United States to give birth so that their child will benefit from <a href="https://apnews.com/article/trump-border-immigration-birthright-citizenship-494add8239eb1c0c9f4ccb45db03f1f0">birthright citizenship</a>. Trump has tried several times to end birthright citizenship, but those challenges have been rejected by courts, including the Supreme Court.</p>
-
-<p>The State Department documents obtained by the AP suggest screening of current B1 and B2 visa holders began after the State Department received information about asylum requests from the Citizen and Immigration Service.</p>]]></content:encoded>
-      <guid isPermaLink="false">https://apnews.com/article/trump-rubio-visas-revoke-e9c14fdfd0ada439d2b9d8694e678a46</guid>
-      <category>Politics</category>
-      <category>Donald Trump</category>
-      <category>Asylum</category>
-      <category>U.S. Department of State</category>
-      <category>United States</category>
-      <category>United States government</category>
-      <category>Political refugees</category>
-      <category>General news</category>
-      <category>Trump hub</category>
-      <category>trump rubio visas revoke</category>
-      <category>Washington news</category>
-      <category>Christopher Landau</category>
-      <category>U.S. Department of Homeland Security</category>
-      <category>Citizenship</category>
-      <category>World news</category>
-      <category>Tommy Pigott</category>
-      <category>Government and politics</category>
-      <category>Immigration</category>
-      <enclosure url="https://dims.apnews.com/dims4/default/d772254/2147483647/strip/true/crop/2003x1335+0+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F0b%2F31%2Fbd4072005181b669d801aadc3077%2F5d1fd3e70f4c4c0abc5733e32810021c" length="0" type="image/jpeg"/>
-      <pubDate>Mon, 24 Aug 2026 20:30:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
